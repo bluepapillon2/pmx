@@ -1,0 +1,12 @@
+{
+      "thisenv": {
+           "config_id" : "development",
+           "hostname"  : "localhost",
+           "app_desc"  : "P-Mex Core Server (DEVELOPMENT Environment)",
+           "node_port" : 6295,
+           "database"  : "<Server Name of the Dev Env Model Store>"
+      },
+      "corehosts": {
+           "self":         { "href": "http://localhost:6295" }
+      }
+}

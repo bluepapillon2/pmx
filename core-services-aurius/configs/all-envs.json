@@ -1,0 +1,9 @@
+{
+      "roots": {
+           "self":         { "href": "/aurius-api" }
+      },
+      "base": {
+           "app_name"     : "Aurius Facade Core Server",
+           "databasename" : "Aurius Database"
+      }
+}

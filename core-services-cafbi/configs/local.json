@@ -1,0 +1,13 @@
+
+{
+      "thisenv": {
+           "config_id" : "local",
+           "hostname"  : "localhost",
+           "app_desc"  : "CAF BI Facade Core Server (LOCAL Environment)",
+           "node_port" : 6143,
+           "database"  : "<Connection to CAF BI Development DB>"
+      },
+      "corehosts": {
+           "self":         { "href": "http://localhost:6143" }
+      }
+}

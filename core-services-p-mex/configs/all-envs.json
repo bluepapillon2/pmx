@@ -1,0 +1,9 @@
+{
+      "roots": {
+           "self":         { "href": "/p-mex-api" }
+      },
+      "base": {
+           "app_name"     : "P-Mex Core Server",
+           "databasename" : "Model Store"
+      }
+}

@@ -1,0 +1,1675 @@
+2018-12-30 15:53:09 info: Winston logging tool initialised
+2018-12-30 15:53:09 debug: Test: Debug message
+2018-12-30 15:53:09 verbose: Test: Verbose message
+2018-12-30 15:53:09 warn: Test: Warning message
+2018-12-30 15:53:09 error: Test: Error message
+2018-12-30 15:53:09 verbose: Starting service in environment : local
+2018-12-30 15:53:09 verbose: ---------------------------------------------------------------------
+2018-12-30 15:53:09 verbose: Application Name:     P-Mex Core Server
+2018-12-30 15:53:09 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 15:53:09 verbose: Database Name:        Model Store
+2018-12-30 15:53:09 verbose: Node Port:            6195
+2018-12-30 15:53:09 verbose: ---------------------------------------------------------------------
+2018-12-30 15:53:09 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 15:53:09 info: P-Mex CORE Server initiated
+2018-12-30 15:53:09 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 15:53:09 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 15:53:09 info: Express server listening on - http://localhost:6195
+2018-12-30 15:54:52 info: Winston logging tool initialised
+2018-12-30 15:54:52 debug: Test: Debug message
+2018-12-30 15:54:52 verbose: Test: Verbose message
+2018-12-30 15:54:52 warn: Test: Warning message
+2018-12-30 15:54:52 error: Test: Error message
+2018-12-30 15:54:53 verbose: Starting service in environment : local
+2018-12-30 15:54:53 verbose: ---------------------------------------------------------------------
+2018-12-30 15:54:53 verbose: Application Name:     P-Mex Core Server
+2018-12-30 15:54:53 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 15:54:53 verbose: Database Name:        Model Store
+2018-12-30 15:54:53 verbose: Node Port:            6195
+2018-12-30 15:54:53 verbose: ---------------------------------------------------------------------
+2018-12-30 15:54:53 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 15:54:53 info: P-Mex CORE Server initiated
+2018-12-30 15:54:53 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 15:54:53 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 15:54:53 info: Express server listening on - http://localhost:6195
+2018-12-30 15:56:50 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 15:58:45 info: Winston logging tool initialised
+2018-12-30 15:58:45 debug: Test: Debug message
+2018-12-30 15:58:45 verbose: Test: Verbose message
+2018-12-30 15:58:45 warn: Test: Warning message
+2018-12-30 15:58:45 error: Test: Error message
+2018-12-30 15:58:45 verbose: Starting service in environment : local
+2018-12-30 15:58:45 verbose: ---------------------------------------------------------------------
+2018-12-30 15:58:45 verbose: Application Name:     P-Mex Core Server
+2018-12-30 15:58:45 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 15:58:45 verbose: Database Name:        Model Store
+2018-12-30 15:58:45 verbose: Node Port:            6195
+2018-12-30 15:58:45 verbose: ---------------------------------------------------------------------
+2018-12-30 15:58:45 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 15:58:45 info: P-Mex CORE Server initiated
+2018-12-30 15:58:45 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 15:58:45 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 15:58:45 info: Express server listening on - http://localhost:6195
+2018-12-30 16:49:24 info: Winston logging tool initialised
+2018-12-30 16:49:24 debug: Test: Debug message
+2018-12-30 16:49:24 verbose: Test: Verbose message
+2018-12-30 16:49:24 warn: Test: Warning message
+2018-12-30 16:49:24 error: Test: Error message
+2018-12-30 16:49:24 verbose: Starting service in environment : local
+2018-12-30 16:49:24 verbose: ---------------------------------------------------------------------
+2018-12-30 16:49:24 verbose: Application Name:     P-Mex Core Server
+2018-12-30 16:49:24 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 16:49:24 verbose: Database Name:        Model Store
+2018-12-30 16:49:24 verbose: Node Port:            6195
+2018-12-30 16:49:24 verbose: ---------------------------------------------------------------------
+2018-12-30 16:49:24 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 16:49:24 info: P-Mex CORE Server initiated
+2018-12-30 16:49:24 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 16:49:24 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 16:49:24 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 16:49:24 info: Express server listening on - http://localhost:6195
+2018-12-30 16:52:38 info: Winston logging tool initialised
+2018-12-30 16:52:38 debug: Test: Debug message
+2018-12-30 16:52:38 verbose: Test: Verbose message
+2018-12-30 16:52:38 warn: Test: Warning message
+2018-12-30 16:52:38 error: Test: Error message
+2018-12-30 16:52:38 verbose: Starting service in environment : local
+2018-12-30 16:52:38 verbose: ---------------------------------------------------------------------
+2018-12-30 16:52:38 verbose: Application Name:     P-Mex Core Server
+2018-12-30 16:52:38 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 16:52:38 verbose: Database Name:        Model Store
+2018-12-30 16:52:38 verbose: Node Port:            6195
+2018-12-30 16:52:38 verbose: ---------------------------------------------------------------------
+2018-12-30 16:52:38 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 16:52:38 info: P-Mex CORE Server initiated
+2018-12-30 16:52:38 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 16:52:38 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 16:52:38 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 16:52:38 info: Express server listening on - http://localhost:6195
+2018-12-30 16:57:13 info: Winston logging tool initialised
+2018-12-30 16:57:13 debug: Test: Debug message
+2018-12-30 16:57:13 verbose: Test: Verbose message
+2018-12-30 16:57:13 warn: Test: Warning message
+2018-12-30 16:57:13 error: Test: Error message
+2018-12-30 16:57:13 verbose: Starting service in environment : local
+2018-12-30 16:57:13 verbose: ---------------------------------------------------------------------
+2018-12-30 16:57:13 verbose: Application Name:     P-Mex Core Server
+2018-12-30 16:57:13 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 16:57:13 verbose: Database Name:        Model Store
+2018-12-30 16:57:13 verbose: Node Port:            6195
+2018-12-30 16:57:13 verbose: ---------------------------------------------------------------------
+2018-12-30 16:57:13 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 16:57:13 info: P-Mex CORE Server initiated
+2018-12-30 16:57:13 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 16:57:13 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 16:57:13 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 16:57:13 info: Express server listening on - http://localhost:6195
+2018-12-30 17:37:48 info: Check P-Mex core service GET:/p-mex responding to client
+2018-12-30 17:37:55 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 17:38:22 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 17:38:55 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 17:39:12 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 17:39:27 info: Retrieve models.  GET:/api/models responding to client
+2018-12-30 17:39:31 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:39:41 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:40:04 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:40:09 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:40:56 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:41:59 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:44:38 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-30 17:57:55 info: Winston logging tool initialised
+2018-12-30 17:57:55 debug: Test: Debug message
+2018-12-30 17:57:55 verbose: Test: Verbose message
+2018-12-30 17:57:55 warn: Test: Warning message
+2018-12-30 17:57:55 error: Test: Error message
+2018-12-30 17:57:55 verbose: Starting service in environment : local
+2018-12-30 17:57:55 verbose: ---------------------------------------------------------------------
+2018-12-30 17:57:55 verbose: Application Name:     P-Mex Core Server
+2018-12-30 17:57:55 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 17:57:55 verbose: Database Name:        Model Store
+2018-12-30 17:57:55 verbose: Node Port:            6195
+2018-12-30 17:57:55 verbose: ---------------------------------------------------------------------
+2018-12-30 17:57:55 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 17:57:55 info: P-Mex CORE Server initiated
+2018-12-30 17:57:55 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 17:57:55 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 17:57:55 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 17:57:55 info: Express server listening on - http://localhost:6195
+2018-12-30 17:58:03 info: Execute model.  POST:/api/executions invoking an R calculation
+2018-12-30 17:59:44 info: Winston logging tool initialised
+2018-12-30 17:59:44 debug: Test: Debug message
+2018-12-30 17:59:44 verbose: Test: Verbose message
+2018-12-30 17:59:44 warn: Test: Warning message
+2018-12-30 17:59:44 error: Test: Error message
+2018-12-30 17:59:44 verbose: Starting service in environment : local
+2018-12-30 17:59:44 verbose: ---------------------------------------------------------------------
+2018-12-30 17:59:44 verbose: Application Name:     P-Mex Core Server
+2018-12-30 17:59:44 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 17:59:44 verbose: Database Name:        Model Store
+2018-12-30 17:59:44 verbose: Node Port:            6195
+2018-12-30 17:59:44 verbose: ---------------------------------------------------------------------
+2018-12-30 17:59:44 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 17:59:45 info: P-Mex CORE Server initiated
+2018-12-30 17:59:45 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 17:59:45 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 17:59:45 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 17:59:45 info: Express server listening on - http://localhost:6195
+2018-12-30 17:59:50 info: Execute model.  POST:/api/executions invoking an R calculation
+2018-12-30 18:00:37 info: Winston logging tool initialised
+2018-12-30 18:00:37 debug: Test: Debug message
+2018-12-30 18:00:37 verbose: Test: Verbose message
+2018-12-30 18:00:37 warn: Test: Warning message
+2018-12-30 18:00:37 error: Test: Error message
+2018-12-30 18:00:37 verbose: Starting service in environment : local
+2018-12-30 18:00:37 verbose: ---------------------------------------------------------------------
+2018-12-30 18:00:37 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:00:37 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:00:37 verbose: Database Name:        Model Store
+2018-12-30 18:00:37 verbose: Node Port:            6195
+2018-12-30 18:00:37 verbose: ---------------------------------------------------------------------
+2018-12-30 18:00:37 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:00:37 info: P-Mex CORE Server initiated
+2018-12-30 18:00:37 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:00:37 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:00:37 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:00:38 info: Express server listening on - http://localhost:6195
+2018-12-30 18:00:40 info: Execute model.  POST:/api/executions invoking an R calculation
+2018-12-30 18:20:42 info: Winston logging tool initialised
+2018-12-30 18:20:42 debug: Test: Debug message
+2018-12-30 18:20:42 verbose: Test: Verbose message
+2018-12-30 18:20:42 warn: Test: Warning message
+2018-12-30 18:20:42 error: Test: Error message
+2018-12-30 18:20:42 verbose: Starting service in environment : local
+2018-12-30 18:20:42 verbose: ---------------------------------------------------------------------
+2018-12-30 18:20:42 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:20:42 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:20:42 verbose: Database Name:        Model Store
+2018-12-30 18:20:42 verbose: Node Port:            6195
+2018-12-30 18:20:42 verbose: ---------------------------------------------------------------------
+2018-12-30 18:20:42 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:20:42 info: P-Mex CORE Server initiated
+2018-12-30 18:20:42 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:20:42 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:20:42 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:20:42 info: Express server listening on - http://localhost:6195
+2018-12-30 18:20:58 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:21:01 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:21:03 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:22:51 info: Winston logging tool initialised
+2018-12-30 18:22:51 debug: Test: Debug message
+2018-12-30 18:22:51 verbose: Test: Verbose message
+2018-12-30 18:22:51 warn: Test: Warning message
+2018-12-30 18:22:51 error: Test: Error message
+2018-12-30 18:22:51 verbose: Starting service in environment : local
+2018-12-30 18:22:51 verbose: ---------------------------------------------------------------------
+2018-12-30 18:22:51 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:22:51 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:22:51 verbose: Database Name:        Model Store
+2018-12-30 18:22:51 verbose: Node Port:            6195
+2018-12-30 18:22:51 verbose: ---------------------------------------------------------------------
+2018-12-30 18:22:51 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:22:51 info: P-Mex CORE Server initiated
+2018-12-30 18:22:51 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:22:51 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:22:51 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:22:51 info: Express server listening on - http://localhost:6195
+2018-12-30 18:23:25 info: Winston logging tool initialised
+2018-12-30 18:23:25 debug: Test: Debug message
+2018-12-30 18:23:25 verbose: Test: Verbose message
+2018-12-30 18:23:25 warn: Test: Warning message
+2018-12-30 18:23:25 error: Test: Error message
+2018-12-30 18:23:25 verbose: Starting service in environment : local
+2018-12-30 18:23:25 verbose: ---------------------------------------------------------------------
+2018-12-30 18:23:25 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:23:25 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:23:25 verbose: Database Name:        Model Store
+2018-12-30 18:23:25 verbose: Node Port:            6195
+2018-12-30 18:23:25 verbose: ---------------------------------------------------------------------
+2018-12-30 18:23:25 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:23:25 info: P-Mex CORE Server initiated
+2018-12-30 18:23:25 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:23:25 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:23:25 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:23:25 info: Express server listening on - http://localhost:6195
+2018-12-30 18:28:02 info: Winston logging tool initialised
+2018-12-30 18:28:02 debug: Test: Debug message
+2018-12-30 18:28:02 verbose: Test: Verbose message
+2018-12-30 18:28:02 warn: Test: Warning message
+2018-12-30 18:28:02 error: Test: Error message
+2018-12-30 18:28:02 verbose: Starting service in environment : local
+2018-12-30 18:28:02 verbose: ---------------------------------------------------------------------
+2018-12-30 18:28:02 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:28:02 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:28:02 verbose: Database Name:        Model Store
+2018-12-30 18:28:02 verbose: Node Port:            6195
+2018-12-30 18:28:02 verbose: ---------------------------------------------------------------------
+2018-12-30 18:28:02 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:28:02 info: P-Mex CORE Server initiated
+2018-12-30 18:28:02 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:28:02 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:28:02 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:28:02 info: Express server listening on - http://localhost:6195
+2018-12-30 18:30:42 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:31:10 info: Winston logging tool initialised
+2018-12-30 18:31:10 debug: Test: Debug message
+2018-12-30 18:31:10 verbose: Test: Verbose message
+2018-12-30 18:31:10 warn: Test: Warning message
+2018-12-30 18:31:10 error: Test: Error message
+2018-12-30 18:31:11 verbose: Starting service in environment : local
+2018-12-30 18:31:11 verbose: ---------------------------------------------------------------------
+2018-12-30 18:31:11 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:31:11 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:31:11 verbose: Database Name:        Model Store
+2018-12-30 18:31:11 verbose: Node Port:            6195
+2018-12-30 18:31:11 verbose: ---------------------------------------------------------------------
+2018-12-30 18:31:11 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:31:11 info: P-Mex CORE Server initiated
+2018-12-30 18:31:11 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:31:11 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:31:11 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:31:11 info: Express server listening on - http://localhost:6195
+2018-12-30 18:31:14 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:31:14 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:32:17 info: Winston logging tool initialised
+2018-12-30 18:32:17 debug: Test: Debug message
+2018-12-30 18:32:17 verbose: Test: Verbose message
+2018-12-30 18:32:17 warn: Test: Warning message
+2018-12-30 18:32:17 error: Test: Error message
+2018-12-30 18:32:18 verbose: Starting service in environment : local
+2018-12-30 18:32:18 verbose: ---------------------------------------------------------------------
+2018-12-30 18:32:18 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:32:18 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:32:18 verbose: Database Name:        Model Store
+2018-12-30 18:32:18 verbose: Node Port:            6195
+2018-12-30 18:32:18 verbose: ---------------------------------------------------------------------
+2018-12-30 18:32:18 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:32:18 info: P-Mex CORE Server initiated
+2018-12-30 18:32:18 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:32:18 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:32:18 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:32:18 info: Express server listening on - http://localhost:6195
+2018-12-30 18:32:23 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:32:23 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:33:47 info: Winston logging tool initialised
+2018-12-30 18:33:47 debug: Test: Debug message
+2018-12-30 18:33:47 verbose: Test: Verbose message
+2018-12-30 18:33:47 warn: Test: Warning message
+2018-12-30 18:33:47 error: Test: Error message
+2018-12-30 18:33:47 verbose: Starting service in environment : local
+2018-12-30 18:33:47 verbose: ---------------------------------------------------------------------
+2018-12-30 18:33:47 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:33:47 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:33:47 verbose: Database Name:        Model Store
+2018-12-30 18:33:47 verbose: Node Port:            6195
+2018-12-30 18:33:47 verbose: ---------------------------------------------------------------------
+2018-12-30 18:33:47 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:33:47 info: P-Mex CORE Server initiated
+2018-12-30 18:33:47 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:33:47 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:33:47 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:33:47 info: Express server listening on - http://localhost:6195
+2018-12-30 18:33:50 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:33:50 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:36:12 info: Winston logging tool initialised
+2018-12-30 18:36:12 debug: Test: Debug message
+2018-12-30 18:36:12 verbose: Test: Verbose message
+2018-12-30 18:36:12 warn: Test: Warning message
+2018-12-30 18:36:12 error: Test: Error message
+2018-12-30 18:36:12 verbose: Starting service in environment : local
+2018-12-30 18:36:12 verbose: ---------------------------------------------------------------------
+2018-12-30 18:36:12 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:36:12 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:36:12 verbose: Database Name:        Model Store
+2018-12-30 18:36:12 verbose: Node Port:            6195
+2018-12-30 18:36:12 verbose: ---------------------------------------------------------------------
+2018-12-30 18:36:12 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:36:12 info: P-Mex CORE Server initiated
+2018-12-30 18:36:12 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:36:12 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:36:12 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:36:12 info: Express server listening on - http://localhost:6195
+2018-12-30 18:37:00 info: Winston logging tool initialised
+2018-12-30 18:37:00 debug: Test: Debug message
+2018-12-30 18:37:00 verbose: Test: Verbose message
+2018-12-30 18:37:00 warn: Test: Warning message
+2018-12-30 18:37:00 error: Test: Error message
+2018-12-30 18:37:00 verbose: Starting service in environment : local
+2018-12-30 18:37:00 verbose: ---------------------------------------------------------------------
+2018-12-30 18:37:00 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:37:00 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:37:00 verbose: Database Name:        Model Store
+2018-12-30 18:37:00 verbose: Node Port:            6195
+2018-12-30 18:37:00 verbose: ---------------------------------------------------------------------
+2018-12-30 18:37:00 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:37:00 info: P-Mex CORE Server initiated
+2018-12-30 18:37:00 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:37:00 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:37:00 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:37:00 info: Express server listening on - http://localhost:6195
+2018-12-30 18:37:02 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:37:02 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:37:02 info: About to invoke a child R process
+2018-12-30 18:38:10 info: Winston logging tool initialised
+2018-12-30 18:38:10 debug: Test: Debug message
+2018-12-30 18:38:10 verbose: Test: Verbose message
+2018-12-30 18:38:10 warn: Test: Warning message
+2018-12-30 18:38:10 error: Test: Error message
+2018-12-30 18:38:10 verbose: Starting service in environment : local
+2018-12-30 18:38:10 verbose: ---------------------------------------------------------------------
+2018-12-30 18:38:10 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:38:10 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:38:10 verbose: Database Name:        Model Store
+2018-12-30 18:38:10 verbose: Node Port:            6195
+2018-12-30 18:38:10 verbose: ---------------------------------------------------------------------
+2018-12-30 18:38:10 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:38:10 info: P-Mex CORE Server initiated
+2018-12-30 18:38:10 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:38:10 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:38:10 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:38:10 info: Express server listening on - http://localhost:6195
+2018-12-30 18:38:13 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:38:13 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:38:13 info: About to invoke a child R process
+2018-12-30 18:38:13 info: ./model-implementations/test.R
+2018-12-30 18:38:13 info: [object Object]
+2018-12-30 18:38:13 info: [object Object]
+2018-12-30 18:39:40 info: Winston logging tool initialised
+2018-12-30 18:39:40 debug: Test: Debug message
+2018-12-30 18:39:40 verbose: Test: Verbose message
+2018-12-30 18:39:40 warn: Test: Warning message
+2018-12-30 18:39:40 error: Test: Error message
+2018-12-30 18:39:40 verbose: Starting service in environment : local
+2018-12-30 18:39:40 verbose: ---------------------------------------------------------------------
+2018-12-30 18:39:40 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:39:40 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:39:40 verbose: Database Name:        Model Store
+2018-12-30 18:39:40 verbose: Node Port:            6195
+2018-12-30 18:39:40 verbose: ---------------------------------------------------------------------
+2018-12-30 18:39:40 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:39:40 info: P-Mex CORE Server initiated
+2018-12-30 18:39:40 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:39:40 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:39:40 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:39:40 info: Express server listening on - http://localhost:6195
+2018-12-30 18:39:43 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:39:43 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:39:43 info: About to invoke a child R process
+2018-12-30 18:39:43 info: ../../../model-implementations/test.R
+2018-12-30 18:39:43 info: [object Object]
+2018-12-30 18:39:43 info: [object Object]
+2018-12-30 18:40:56 info: Winston logging tool initialised
+2018-12-30 18:40:56 debug: Test: Debug message
+2018-12-30 18:40:56 verbose: Test: Verbose message
+2018-12-30 18:40:56 warn: Test: Warning message
+2018-12-30 18:40:56 error: Test: Error message
+2018-12-30 18:40:56 verbose: Starting service in environment : local
+2018-12-30 18:40:56 verbose: ---------------------------------------------------------------------
+2018-12-30 18:40:56 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:40:56 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:40:56 verbose: Database Name:        Model Store
+2018-12-30 18:40:56 verbose: Node Port:            6195
+2018-12-30 18:40:56 verbose: ---------------------------------------------------------------------
+2018-12-30 18:40:56 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:40:56 info: P-Mex CORE Server initiated
+2018-12-30 18:40:56 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:40:56 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:40:56 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:40:56 info: Express server listening on - http://localhost:6195
+2018-12-30 18:40:58 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:40:58 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:40:58 info: About to invoke a child R process
+2018-12-30 18:40:58 info: ../../model-implementations/test.R
+2018-12-30 18:40:58 info: [object Object]
+2018-12-30 18:40:58 info: [object Object]
+2018-12-30 18:41:44 info: Winston logging tool initialised
+2018-12-30 18:41:44 debug: Test: Debug message
+2018-12-30 18:41:44 verbose: Test: Verbose message
+2018-12-30 18:41:44 warn: Test: Warning message
+2018-12-30 18:41:44 error: Test: Error message
+2018-12-30 18:41:45 verbose: Starting service in environment : local
+2018-12-30 18:41:45 verbose: ---------------------------------------------------------------------
+2018-12-30 18:41:45 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:41:45 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:41:45 verbose: Database Name:        Model Store
+2018-12-30 18:41:45 verbose: Node Port:            6195
+2018-12-30 18:41:45 verbose: ---------------------------------------------------------------------
+2018-12-30 18:41:45 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:41:45 info: P-Mex CORE Server initiated
+2018-12-30 18:41:45 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:41:45 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:41:45 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:41:45 info: Express server listening on - http://localhost:6195
+2018-12-30 18:41:47 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:41:47 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:41:47 info: About to invoke a child R process
+2018-12-30 18:41:47 info: ../../model-implementations/test.R
+2018-12-30 18:41:47 info: {"a":1,"b":3}
+2018-12-30 18:41:47 info: [object Object]
+2018-12-30 18:44:49 info: Winston logging tool initialised
+2018-12-30 18:44:49 debug: Test: Debug message
+2018-12-30 18:44:49 verbose: Test: Verbose message
+2018-12-30 18:44:49 warn: Test: Warning message
+2018-12-30 18:44:49 error: Test: Error message
+2018-12-30 18:44:49 verbose: Starting service in environment : local
+2018-12-30 18:44:49 verbose: ---------------------------------------------------------------------
+2018-12-30 18:44:49 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:44:49 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:44:49 verbose: Database Name:        Model Store
+2018-12-30 18:44:49 verbose: Node Port:            6195
+2018-12-30 18:44:49 verbose: ---------------------------------------------------------------------
+2018-12-30 18:44:49 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:44:50 info: P-Mex CORE Server initiated
+2018-12-30 18:44:50 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:44:50 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:44:50 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:44:50 info: Express server listening on - http://localhost:6195
+2018-12-30 18:44:57 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:44:57 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:44:57 info: About to invoke a child R process
+2018-12-30 18:44:57 info: ../../model-implementations/test.R
+2018-12-30 18:44:57 info: {"a":1,"b":3}
+2018-12-30 18:44:57 info: [object Object]
+2018-12-30 18:46:44 info: Winston logging tool initialised
+2018-12-30 18:46:44 debug: Test: Debug message
+2018-12-30 18:46:44 verbose: Test: Verbose message
+2018-12-30 18:46:44 warn: Test: Warning message
+2018-12-30 18:46:44 error: Test: Error message
+2018-12-30 18:46:44 verbose: Starting service in environment : local
+2018-12-30 18:46:44 verbose: ---------------------------------------------------------------------
+2018-12-30 18:46:44 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:46:44 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:46:44 verbose: Database Name:        Model Store
+2018-12-30 18:46:44 verbose: Node Port:            6195
+2018-12-30 18:46:44 verbose: ---------------------------------------------------------------------
+2018-12-30 18:46:44 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:46:44 info: P-Mex CORE Server initiated
+2018-12-30 18:46:44 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:46:44 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:46:44 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:46:44 info: Express server listening on - http://localhost:6195
+2018-12-30 18:46:50 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:46:50 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:46:50 info: About to invoke a child R process
+2018-12-30 18:46:50 info: ../../model-implementations/test.R
+2018-12-30 18:46:50 info: {"a":1,"b":3}
+2018-12-30 18:46:50 info: [object Object]
+2018-12-30 18:48:58 info: Winston logging tool initialised
+2018-12-30 18:48:58 debug: Test: Debug message
+2018-12-30 18:48:58 verbose: Test: Verbose message
+2018-12-30 18:48:58 warn: Test: Warning message
+2018-12-30 18:48:58 error: Test: Error message
+2018-12-30 18:48:58 verbose: Starting service in environment : local
+2018-12-30 18:48:58 verbose: ---------------------------------------------------------------------
+2018-12-30 18:48:58 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:48:58 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:48:58 verbose: Database Name:        Model Store
+2018-12-30 18:48:58 verbose: Node Port:            6195
+2018-12-30 18:48:58 verbose: ---------------------------------------------------------------------
+2018-12-30 18:48:58 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:48:58 info: P-Mex CORE Server initiated
+2018-12-30 18:48:58 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:48:58 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:48:58 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:48:58 info: Express server listening on - http://localhost:6195
+2018-12-30 18:49:00 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:49:00 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:49:11 info: Winston logging tool initialised
+2018-12-30 18:49:11 debug: Test: Debug message
+2018-12-30 18:49:11 verbose: Test: Verbose message
+2018-12-30 18:49:11 warn: Test: Warning message
+2018-12-30 18:49:11 error: Test: Error message
+2018-12-30 18:49:11 verbose: Starting service in environment : local
+2018-12-30 18:49:11 verbose: ---------------------------------------------------------------------
+2018-12-30 18:49:11 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:49:11 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:49:11 verbose: Database Name:        Model Store
+2018-12-30 18:49:11 verbose: Node Port:            6195
+2018-12-30 18:49:11 verbose: ---------------------------------------------------------------------
+2018-12-30 18:49:11 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:49:11 info: P-Mex CORE Server initiated
+2018-12-30 18:49:11 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:49:11 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:49:11 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:49:11 info: Express server listening on - http://localhost:6195
+2018-12-30 18:49:13 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:49:13 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:49:13 verbose: About to invoke a child R process
+2018-12-30 18:49:13 debug: ../../model-implementations/test.R
+2018-12-30 18:49:13 debug: {"a":1,"b":3}
+2018-12-30 18:49:13 debug: [object Object]
+2018-12-30 18:49:13 debug: null
+2018-12-30 18:52:03 info: Winston logging tool initialised
+2018-12-30 18:52:03 debug: Test: Debug message
+2018-12-30 18:52:03 verbose: Test: Verbose message
+2018-12-30 18:52:03 warn: Test: Warning message
+2018-12-30 18:52:03 error: Test: Error message
+2018-12-30 18:52:03 verbose: Starting service in environment : local
+2018-12-30 18:52:03 verbose: ---------------------------------------------------------------------
+2018-12-30 18:52:03 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:52:03 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:52:03 verbose: Database Name:        Model Store
+2018-12-30 18:52:03 verbose: Node Port:            6195
+2018-12-30 18:52:03 verbose: ---------------------------------------------------------------------
+2018-12-30 18:52:03 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:52:03 info: P-Mex CORE Server initiated
+2018-12-30 18:52:03 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:52:03 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:52:03 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:52:03 info: Express server listening on - http://localhost:6195
+2018-12-30 18:52:15 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:52:15 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:52:15 verbose: About to invoke a child R process
+2018-12-30 18:52:15 debug: ../../model-implementations/test.R
+2018-12-30 18:52:15 debug: {"a":1,"b":3}
+2018-12-30 18:52:15 debug: {"verboseResult":false}
+2018-12-30 18:52:15 debug: null
+2018-12-30 18:52:40 info: Winston logging tool initialised
+2018-12-30 18:52:40 debug: Test: Debug message
+2018-12-30 18:52:40 verbose: Test: Verbose message
+2018-12-30 18:52:40 warn: Test: Warning message
+2018-12-30 18:52:40 error: Test: Error message
+2018-12-30 18:52:40 verbose: Starting service in environment : local
+2018-12-30 18:52:40 verbose: ---------------------------------------------------------------------
+2018-12-30 18:52:40 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:52:40 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:52:40 verbose: Database Name:        Model Store
+2018-12-30 18:52:40 verbose: Node Port:            6195
+2018-12-30 18:52:40 verbose: ---------------------------------------------------------------------
+2018-12-30 18:52:40 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:52:40 info: P-Mex CORE Server initiated
+2018-12-30 18:52:40 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:52:40 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:52:40 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:52:40 info: Express server listening on - http://localhost:6195
+2018-12-30 18:52:42 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:52:42 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:52:42 verbose: About to invoke a child R process
+2018-12-30 18:52:42 debug: ../../model-implementations/test.R
+2018-12-30 18:52:42 debug: {"a":1,"b":3}
+2018-12-30 18:52:42 debug: {"verboseResult":false}
+2018-12-30 18:52:42 debug: null
+2018-12-30 18:59:01 info: Winston logging tool initialised
+2018-12-30 18:59:01 debug: Test: Debug message
+2018-12-30 18:59:01 verbose: Test: Verbose message
+2018-12-30 18:59:01 warn: Test: Warning message
+2018-12-30 18:59:01 error: Test: Error message
+2018-12-30 18:59:01 verbose: Starting service in environment : local
+2018-12-30 18:59:01 verbose: ---------------------------------------------------------------------
+2018-12-30 18:59:01 verbose: Application Name:     P-Mex Core Server
+2018-12-30 18:59:01 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 18:59:01 verbose: Database Name:        Model Store
+2018-12-30 18:59:01 verbose: Node Port:            6195
+2018-12-30 18:59:01 verbose: ---------------------------------------------------------------------
+2018-12-30 18:59:01 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 18:59:01 info: P-Mex CORE Server initiated
+2018-12-30 18:59:01 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 18:59:01 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 18:59:01 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 18:59:01 info: Express server listening on - http://localhost:6195
+2018-12-30 18:59:09 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 18:59:09 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 18:59:09 verbose: About to invoke a child R process
+2018-12-30 18:59:09 debug: ../../model-implementations/test.R
+2018-12-30 18:59:09 debug: {"a":1,"b":3}
+2018-12-30 18:59:09 debug: {"verboseResult":false}
+2018-12-30 18:59:09 debug: null
+2018-12-30 19:01:27 info: Winston logging tool initialised
+2018-12-30 19:01:27 debug: Test: Debug message
+2018-12-30 19:01:27 verbose: Test: Verbose message
+2018-12-30 19:01:27 warn: Test: Warning message
+2018-12-30 19:01:27 error: Test: Error message
+2018-12-30 19:01:27 verbose: Starting service in environment : local
+2018-12-30 19:01:27 verbose: ---------------------------------------------------------------------
+2018-12-30 19:01:27 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:01:27 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:01:27 verbose: Database Name:        Model Store
+2018-12-30 19:01:27 verbose: Node Port:            6195
+2018-12-30 19:01:27 verbose: ---------------------------------------------------------------------
+2018-12-30 19:01:27 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:01:27 info: P-Mex CORE Server initiated
+2018-12-30 19:01:27 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:01:27 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:01:27 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:01:27 info: Express server listening on - http://localhost:6195
+2018-12-30 19:01:32 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:01:32 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:01:32 verbose: About to invoke a child R process
+2018-12-30 19:01:32 debug: ../../model-implementations/test.R
+2018-12-30 19:01:32 debug: {"a":1,"b":3}
+2018-12-30 19:01:32 debug: {"verboseResult":false}
+2018-12-30 19:01:32 debug: null
+2018-12-30 19:02:29 info: Winston logging tool initialised
+2018-12-30 19:02:29 debug: Test: Debug message
+2018-12-30 19:02:29 verbose: Test: Verbose message
+2018-12-30 19:02:29 warn: Test: Warning message
+2018-12-30 19:02:29 error: Test: Error message
+2018-12-30 19:02:29 verbose: Starting service in environment : local
+2018-12-30 19:02:29 verbose: ---------------------------------------------------------------------
+2018-12-30 19:02:29 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:02:29 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:02:29 verbose: Database Name:        Model Store
+2018-12-30 19:02:29 verbose: Node Port:            6195
+2018-12-30 19:02:29 verbose: ---------------------------------------------------------------------
+2018-12-30 19:02:29 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:02:29 info: P-Mex CORE Server initiated
+2018-12-30 19:02:29 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:02:29 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:02:29 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:02:29 info: Express server listening on - http://localhost:6195
+2018-12-30 19:02:31 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:02:31 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:02:31 verbose: About to invoke a child R process
+2018-12-30 19:02:31 debug: ../../model-implementations/test.R
+2018-12-30 19:02:31 debug: {"a":1,"b":3}
+2018-12-30 19:02:31 debug: {"verboseResult":false}
+2018-12-30 19:02:31 debug: [object Object]
+2018-12-30 19:02:55 info: Winston logging tool initialised
+2018-12-30 19:02:55 debug: Test: Debug message
+2018-12-30 19:02:55 verbose: Test: Verbose message
+2018-12-30 19:02:55 warn: Test: Warning message
+2018-12-30 19:02:55 error: Test: Error message
+2018-12-30 19:02:55 verbose: Starting service in environment : local
+2018-12-30 19:02:55 verbose: ---------------------------------------------------------------------
+2018-12-30 19:02:55 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:02:55 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:02:55 verbose: Database Name:        Model Store
+2018-12-30 19:02:55 verbose: Node Port:            6195
+2018-12-30 19:02:55 verbose: ---------------------------------------------------------------------
+2018-12-30 19:02:55 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:02:55 info: P-Mex CORE Server initiated
+2018-12-30 19:02:55 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:02:55 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:02:55 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:02:55 info: Express server listening on - http://localhost:6195
+2018-12-30 19:02:57 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:02:57 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:02:57 verbose: About to invoke a child R process
+2018-12-30 19:02:57 debug: ../../model-implementations/test.R
+2018-12-30 19:02:57 debug: {"a":1,"b":3}
+2018-12-30 19:02:57 debug: {"verboseResult":false}
+2018-12-30 19:02:57 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync pwd","path":"pwd","spawnargs":[]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:35:19 info: Winston logging tool initialised
+2018-12-30 19:35:19 debug: Test: Debug message
+2018-12-30 19:35:19 verbose: Test: Verbose message
+2018-12-30 19:35:19 warn: Test: Warning message
+2018-12-30 19:35:19 error: Test: Error message
+2018-12-30 19:35:19 verbose: Starting service in environment : local
+2018-12-30 19:35:20 verbose: ---------------------------------------------------------------------
+2018-12-30 19:35:20 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:35:20 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:35:20 verbose: Database Name:        Model Store
+2018-12-30 19:35:20 verbose: Node Port:            6195
+2018-12-30 19:35:20 verbose: ---------------------------------------------------------------------
+2018-12-30 19:35:20 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:35:20 info: P-Mex CORE Server initiated
+2018-12-30 19:35:20 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:35:20 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:35:20 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:35:20 info: Express server listening on - http://localhost:6195
+2018-12-30 19:35:23 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:35:23 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:35:23 verbose: About to invoke a child R process
+2018-12-30 19:35:23 debug: ../../model-implementations/test.R
+2018-12-30 19:35:23 debug: {"a":1,"b":3}
+2018-12-30 19:35:23 debug: {"verboseResult":false}
+2018-12-30 19:35:23 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync ls","path":"ls","spawnargs":[]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:40:39 info: Winston logging tool initialised
+2018-12-30 19:40:39 debug: Test: Debug message
+2018-12-30 19:40:39 verbose: Test: Verbose message
+2018-12-30 19:40:39 warn: Test: Warning message
+2018-12-30 19:40:39 error: Test: Error message
+2018-12-30 19:40:39 verbose: Starting service in environment : local
+2018-12-30 19:40:39 verbose: ---------------------------------------------------------------------
+2018-12-30 19:40:39 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:40:39 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:40:39 verbose: Database Name:        Model Store
+2018-12-30 19:40:39 verbose: Node Port:            6195
+2018-12-30 19:40:39 verbose: ---------------------------------------------------------------------
+2018-12-30 19:40:39 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:40:39 info: P-Mex CORE Server initiated
+2018-12-30 19:40:39 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:40:39 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:40:39 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:40:39 info: Express server listening on - http://localhost:6195
+2018-12-30 19:40:41 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:40:41 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:40:41 verbose: About to invoke a child R process
+2018-12-30 19:40:41 debug: ../../model-implementations/test.R
+2018-12-30 19:40:41 debug: {"a":1,"b":3}
+2018-12-30 19:40:41 debug: {"verboseResult":false}
+2018-12-30 19:40:41 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync ls","path":"ls","spawnargs":[]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:40:41 info: undefined
+2018-12-30 19:41:25 info: Winston logging tool initialised
+2018-12-30 19:41:25 debug: Test: Debug message
+2018-12-30 19:41:25 verbose: Test: Verbose message
+2018-12-30 19:41:25 warn: Test: Warning message
+2018-12-30 19:41:25 error: Test: Error message
+2018-12-30 19:41:25 verbose: Starting service in environment : local
+2018-12-30 19:41:25 verbose: ---------------------------------------------------------------------
+2018-12-30 19:41:25 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:41:25 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:41:25 verbose: Database Name:        Model Store
+2018-12-30 19:41:25 verbose: Node Port:            6195
+2018-12-30 19:41:25 verbose: ---------------------------------------------------------------------
+2018-12-30 19:41:25 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:41:25 info: P-Mex CORE Server initiated
+2018-12-30 19:41:25 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:41:25 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:41:25 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:41:25 info: Express server listening on - http://localhost:6195
+2018-12-30 19:41:28 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:41:28 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:41:28 verbose: About to invoke a child R process
+2018-12-30 19:41:28 debug: ../../model-implementations/test.R
+2018-12-30 19:41:28 debug: {"a":1,"b":3}
+2018-12-30 19:41:28 debug: {"verboseResult":false}
+2018-12-30 19:41:28 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync ls","path":"ls","spawnargs":[]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:41:28 info: [object Object]
+2018-12-30 19:42:33 info: Winston logging tool initialised
+2018-12-30 19:42:33 debug: Test: Debug message
+2018-12-30 19:42:33 verbose: Test: Verbose message
+2018-12-30 19:42:33 warn: Test: Warning message
+2018-12-30 19:42:33 error: Test: Error message
+2018-12-30 19:42:33 verbose: Starting service in environment : local
+2018-12-30 19:42:33 verbose: ---------------------------------------------------------------------
+2018-12-30 19:42:33 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:42:33 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:42:33 verbose: Database Name:        Model Store
+2018-12-30 19:42:33 verbose: Node Port:            6195
+2018-12-30 19:42:33 verbose: ---------------------------------------------------------------------
+2018-12-30 19:42:33 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:42:33 info: P-Mex CORE Server initiated
+2018-12-30 19:42:33 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:42:33 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:42:33 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:42:33 info: Express server listening on - http://localhost:6195
+2018-12-30 19:42:38 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:42:38 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:42:38 verbose: About to invoke a child R process
+2018-12-30 19:42:38 debug: ../../model-implementations/test.R
+2018-12-30 19:42:38 debug: {"a":1,"b":3}
+2018-12-30 19:42:38 debug: {"verboseResult":false}
+2018-12-30 19:42:38 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync ls","path":"ls","spawnargs":[]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:42:38 info: [object Object]
+2018-12-30 19:45:25 info: Winston logging tool initialised
+2018-12-30 19:45:25 debug: Test: Debug message
+2018-12-30 19:45:25 verbose: Test: Verbose message
+2018-12-30 19:45:25 warn: Test: Warning message
+2018-12-30 19:45:25 error: Test: Error message
+2018-12-30 19:45:25 verbose: Starting service in environment : local
+2018-12-30 19:45:25 verbose: ---------------------------------------------------------------------
+2018-12-30 19:45:25 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:45:25 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:45:25 verbose: Database Name:        Model Store
+2018-12-30 19:45:25 verbose: Node Port:            6195
+2018-12-30 19:45:25 verbose: ---------------------------------------------------------------------
+2018-12-30 19:45:25 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:45:25 info: P-Mex CORE Server initiated
+2018-12-30 19:45:25 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:45:25 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:45:25 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:45:25 info: Express server listening on - http://localhost:6195
+2018-12-30 19:45:31 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:45:31 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:45:31 verbose: About to invoke a child R process
+2018-12-30 19:45:31 debug: ../../model-implementations/test.R
+2018-12-30 19:45:31 debug: {"a":1,"b":3}
+2018-12-30 19:45:31 debug: {"verboseResult":false}
+2018-12-30 19:45:31 debug: {"status":0,"signal":null,"output":[null,{"type":"Buffer","data":[77,105,99,114,111,115,111,102,116,32,87,105,110,100,111,119,115,32,91,86,101,114,115,105,111,110,32,49,48,46,48,46,49,55,49,51,52,46,52,55,50,93,13,10,40,99,41,32,50,48,49,56,32,77,105,99,114,111,115,111,102,116,32,67,111,114,112,111,114,97,116,105,111,110,46,32,65,108,108,32,114,105,103,104,116,115,32,114,101,115,101,114,118,101,100,46,13,10,13,10,68,58,92,68,101,118,92,99,111,114,101,45,115,101,114,118,105,99,101,115,45,112,45,109,101,120,62]},{"type":"Buffer","data":[]}],"pid":22920,"stdout":{"type":"Buffer","data":[77,105,99,114,111,115,111,102,116,32,87,105,110,100,111,119,115,32,91,86,101,114,115,105,111,110,32,49,48,46,48,46,49,55,49,51,52,46,52,55,50,93,13,10,40,99,41,32,50,48,49,56,32,77,105,99,114,111,115,111,102,116,32,67,111,114,112,111,114,97,116,105,111,110,46,32,65,108,108,32,114,105,103,104,116,115,32,114,101,115,101,114,118,101,100,46,13,10,13,10,68,58,92,68,101,118,92,99,111,114,101,45,115,101,114,118,105,99,101,115,45,112,45,109,101,120,62]},"stderr":{"type":"Buffer","data":[]}}
+2018-12-30 19:45:31 info: [object Object]
+2018-12-30 19:48:04 info: Winston logging tool initialised
+2018-12-30 19:48:04 debug: Test: Debug message
+2018-12-30 19:48:04 verbose: Test: Verbose message
+2018-12-30 19:48:04 warn: Test: Warning message
+2018-12-30 19:48:04 error: Test: Error message
+2018-12-30 19:48:04 verbose: Starting service in environment : local
+2018-12-30 19:48:04 verbose: ---------------------------------------------------------------------
+2018-12-30 19:48:04 verbose: Application Name:     P-Mex Core Server
+2018-12-30 19:48:04 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 19:48:04 verbose: Database Name:        Model Store
+2018-12-30 19:48:04 verbose: Node Port:            6195
+2018-12-30 19:48:04 verbose: ---------------------------------------------------------------------
+2018-12-30 19:48:04 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 19:48:04 info: P-Mex CORE Server initiated
+2018-12-30 19:48:04 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 19:48:04 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 19:48:04 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 19:48:04 info: Express server listening on - http://localhost:6195
+2018-12-30 19:48:07 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 19:48:07 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 19:48:07 verbose: About to invoke a child R process
+2018-12-30 19:48:07 debug: ../../model-implementations/test.R
+2018-12-30 19:48:07 debug: {"a":1,"b":3}
+2018-12-30 19:48:07 debug: {"verboseResult":false}
+2018-12-30 19:48:07 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["./test.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 19:48:07 info: [object Object]
+2018-12-30 20:12:59 info: Winston logging tool initialised
+2018-12-30 20:12:59 debug: Test: Debug message
+2018-12-30 20:12:59 verbose: Test: Verbose message
+2018-12-30 20:12:59 warn: Test: Warning message
+2018-12-30 20:12:59 error: Test: Error message
+2018-12-30 20:12:59 verbose: Starting service in environment : local
+2018-12-30 20:12:59 verbose: ---------------------------------------------------------------------
+2018-12-30 20:12:59 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:12:59 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:12:59 verbose: Database Name:        Model Store
+2018-12-30 20:12:59 verbose: Node Port:            6195
+2018-12-30 20:12:59 verbose: ---------------------------------------------------------------------
+2018-12-30 20:12:59 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:12:59 info: P-Mex CORE Server initiated
+2018-12-30 20:12:59 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:12:59 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:12:59 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:12:59 info: Express server listening on - http://localhost:6195
+2018-12-30 20:13:06 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:13:06 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:13:06 verbose: About to invoke a child R process
+2018-12-30 20:13:06 debug: ../../model-implementations/test.R
+2018-12-30 20:13:06 debug: {"a":1,"b":3}
+2018-12-30 20:13:06 debug: {"verboseResult":false}
+2018-12-30 20:13:06 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["./test.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:13:06 info: [object Object]
+2018-12-30 20:13:51 info: Winston logging tool initialised
+2018-12-30 20:13:51 debug: Test: Debug message
+2018-12-30 20:13:51 verbose: Test: Verbose message
+2018-12-30 20:13:51 warn: Test: Warning message
+2018-12-30 20:13:51 error: Test: Error message
+2018-12-30 20:13:51 verbose: Starting service in environment : local
+2018-12-30 20:13:51 verbose: ---------------------------------------------------------------------
+2018-12-30 20:13:51 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:13:51 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:13:51 verbose: Database Name:        Model Store
+2018-12-30 20:13:51 verbose: Node Port:            6195
+2018-12-30 20:13:51 verbose: ---------------------------------------------------------------------
+2018-12-30 20:13:51 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:13:51 info: P-Mex CORE Server initiated
+2018-12-30 20:13:52 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:13:52 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:13:52 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:13:52 info: Express server listening on - http://localhost:6195
+2018-12-30 20:13:54 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:13:54 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:13:54 verbose: About to invoke a child R process
+2018-12-30 20:13:54 debug: ../../model-implementations/test.R
+2018-12-30 20:13:54 debug: {"a":1,"b":3}
+2018-12-30 20:13:54 debug: {"verboseResult":false}
+2018-12-30 20:13:54 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["test.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:13:54 info: [object Object]
+2018-12-30 20:20:37 info: Winston logging tool initialised
+2018-12-30 20:20:37 debug: Test: Debug message
+2018-12-30 20:20:37 verbose: Test: Verbose message
+2018-12-30 20:20:37 warn: Test: Warning message
+2018-12-30 20:20:37 error: Test: Error message
+2018-12-30 20:20:37 verbose: Starting service in environment : local
+2018-12-30 20:20:37 verbose: ---------------------------------------------------------------------
+2018-12-30 20:20:37 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:20:37 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:20:37 verbose: Database Name:        Model Store
+2018-12-30 20:20:37 verbose: Node Port:            6195
+2018-12-30 20:20:37 verbose: ---------------------------------------------------------------------
+2018-12-30 20:20:37 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:20:37 info: P-Mex CORE Server initiated
+2018-12-30 20:20:37 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:20:37 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:20:37 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:20:37 info: Express server listening on - http://localhost:6195
+2018-12-30 20:21:07 info: Winston logging tool initialised
+2018-12-30 20:21:07 debug: Test: Debug message
+2018-12-30 20:21:07 verbose: Test: Verbose message
+2018-12-30 20:21:07 warn: Test: Warning message
+2018-12-30 20:21:07 error: Test: Error message
+2018-12-30 20:21:07 verbose: Starting service in environment : local
+2018-12-30 20:21:07 verbose: ---------------------------------------------------------------------
+2018-12-30 20:21:07 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:21:07 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:21:07 verbose: Database Name:        Model Store
+2018-12-30 20:21:07 verbose: Node Port:            6195
+2018-12-30 20:21:07 verbose: ---------------------------------------------------------------------
+2018-12-30 20:21:07 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:21:07 info: P-Mex CORE Server initiated
+2018-12-30 20:21:07 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:21:07 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:21:07 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:21:07 info: Express server listening on - http://localhost:6195
+2018-12-30 20:42:06 info: Winston logging tool initialised
+2018-12-30 20:42:06 debug: Test: Debug message
+2018-12-30 20:42:06 verbose: Test: Verbose message
+2018-12-30 20:42:06 warn: Test: Warning message
+2018-12-30 20:42:06 error: Test: Error message
+2018-12-30 20:42:06 verbose: Starting service in environment : local
+2018-12-30 20:42:06 verbose: ---------------------------------------------------------------------
+2018-12-30 20:42:06 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:42:06 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:42:06 verbose: Database Name:        Model Store
+2018-12-30 20:42:06 verbose: Node Port:            6195
+2018-12-30 20:42:06 verbose: ---------------------------------------------------------------------
+2018-12-30 20:42:06 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:42:06 info: P-Mex CORE Server initiated
+2018-12-30 20:42:06 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:42:06 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:42:07 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:42:07 info: Express server listening on - http://localhost:6195
+2018-12-30 20:42:17 info: Winston logging tool initialised
+2018-12-30 20:42:17 debug: Test: Debug message
+2018-12-30 20:42:17 verbose: Test: Verbose message
+2018-12-30 20:42:17 warn: Test: Warning message
+2018-12-30 20:42:17 error: Test: Error message
+2018-12-30 20:42:17 verbose: Starting service in environment : local
+2018-12-30 20:42:17 verbose: ---------------------------------------------------------------------
+2018-12-30 20:42:17 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:42:17 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:42:17 verbose: Database Name:        Model Store
+2018-12-30 20:42:17 verbose: Node Port:            6195
+2018-12-30 20:42:17 verbose: ---------------------------------------------------------------------
+2018-12-30 20:42:17 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:42:17 info: P-Mex CORE Server initiated
+2018-12-30 20:42:17 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:42:17 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:42:17 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:42:17 info: Express server listening on - http://localhost:6195
+2018-12-30 20:42:39 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:42:39 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:42:39 verbose: About to invoke a child R process
+2018-12-30 20:42:39 debug: ../../model-implementations/test.R
+2018-12-30 20:42:39 debug: {"a":1,"b":3}
+2018-12-30 20:42:39 debug: {"verboseResult":false}
+2018-12-30 20:42:39 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["test.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:42:39 info: [object Object]
+2018-12-30 20:43:19 info: Winston logging tool initialised
+2018-12-30 20:43:19 debug: Test: Debug message
+2018-12-30 20:43:19 verbose: Test: Verbose message
+2018-12-30 20:43:19 warn: Test: Warning message
+2018-12-30 20:43:19 error: Test: Error message
+2018-12-30 20:43:19 verbose: Starting service in environment : local
+2018-12-30 20:43:19 verbose: ---------------------------------------------------------------------
+2018-12-30 20:43:19 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:43:19 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:43:19 verbose: Database Name:        Model Store
+2018-12-30 20:43:19 verbose: Node Port:            6195
+2018-12-30 20:43:19 verbose: ---------------------------------------------------------------------
+2018-12-30 20:43:19 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:43:19 info: P-Mex CORE Server initiated
+2018-12-30 20:43:19 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:43:19 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:43:19 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:43:19 info: Express server listening on - http://localhost:6195
+2018-12-30 20:43:21 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:43:21 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:43:21 verbose: About to invoke a child R process
+2018-12-30 20:43:21 debug: ../../model-implementations/test.R
+2018-12-30 20:43:21 debug: {"a":1,"b":3}
+2018-12-30 20:43:21 debug: {"verboseResult":false}
+2018-12-30 20:43:21 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["./test.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:43:21 info: [object Object]
+2018-12-30 20:46:10 info: Winston logging tool initialised
+2018-12-30 20:46:10 debug: Test: Debug message
+2018-12-30 20:46:10 verbose: Test: Verbose message
+2018-12-30 20:46:10 warn: Test: Warning message
+2018-12-30 20:46:10 error: Test: Error message
+2018-12-30 20:46:10 verbose: Starting service in environment : local
+2018-12-30 20:46:10 verbose: ---------------------------------------------------------------------
+2018-12-30 20:46:10 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:46:10 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:46:10 verbose: Database Name:        Model Store
+2018-12-30 20:46:10 verbose: Node Port:            6195
+2018-12-30 20:46:10 verbose: ---------------------------------------------------------------------
+2018-12-30 20:46:10 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:46:10 info: P-Mex CORE Server initiated
+2018-12-30 20:46:10 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:46:10 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:46:10 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:46:10 info: Express server listening on - http://localhost:6195
+2018-12-30 20:46:12 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:46:12 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:46:12 verbose: About to invoke a child R process
+2018-12-30 20:46:12 debug: ../../model-implementations/test.R
+2018-12-30 20:46:12 debug: {"a":1,"b":3}
+2018-12-30 20:46:12 debug: {"verboseResult":false}
+2018-12-30 20:46:12 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../model-implementations/echo.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:46:12 info: [object Object]
+2018-12-30 20:46:39 info: Winston logging tool initialised
+2018-12-30 20:46:39 debug: Test: Debug message
+2018-12-30 20:46:39 verbose: Test: Verbose message
+2018-12-30 20:46:39 warn: Test: Warning message
+2018-12-30 20:46:39 error: Test: Error message
+2018-12-30 20:46:39 verbose: Starting service in environment : local
+2018-12-30 20:46:39 verbose: ---------------------------------------------------------------------
+2018-12-30 20:46:39 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:46:39 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:46:39 verbose: Database Name:        Model Store
+2018-12-30 20:46:39 verbose: Node Port:            6195
+2018-12-30 20:46:39 verbose: ---------------------------------------------------------------------
+2018-12-30 20:46:39 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:46:39 info: P-Mex CORE Server initiated
+2018-12-30 20:46:39 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:46:39 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:46:39 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:46:39 info: Express server listening on - http://localhost:6195
+2018-12-30 20:46:42 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:46:42 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:46:42 verbose: About to invoke a child R process
+2018-12-30 20:46:42 debug: ../../model-implementations/test.R
+2018-12-30 20:46:42 debug: {"a":1,"b":3}
+2018-12-30 20:46:42 debug: {"verboseResult":false}
+2018-12-30 20:46:42 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../model-implementations/echo.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:46:42 info: [object Object]
+2018-12-30 20:47:35 info: Winston logging tool initialised
+2018-12-30 20:47:35 debug: Test: Debug message
+2018-12-30 20:47:35 verbose: Test: Verbose message
+2018-12-30 20:47:35 warn: Test: Warning message
+2018-12-30 20:47:35 error: Test: Error message
+2018-12-30 20:47:35 verbose: Starting service in environment : local
+2018-12-30 20:47:35 verbose: ---------------------------------------------------------------------
+2018-12-30 20:47:35 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:47:35 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:47:35 verbose: Database Name:        Model Store
+2018-12-30 20:47:35 verbose: Node Port:            6195
+2018-12-30 20:47:35 verbose: ---------------------------------------------------------------------
+2018-12-30 20:47:35 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:47:35 info: P-Mex CORE Server initiated
+2018-12-30 20:47:35 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:47:35 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:47:35 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:47:35 info: Express server listening on - http://localhost:6195
+2018-12-30 20:47:38 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:47:38 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:47:38 verbose: About to invoke a child R process
+2018-12-30 20:47:38 debug: ../../model-implementations/test.R
+2018-12-30 20:47:38 debug: {"a":1,"b":3}
+2018-12-30 20:47:38 debug: {"verboseResult":false}
+2018-12-30 20:47:38 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../model-implementations/echo.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:47:38 info: [object Object]
+2018-12-30 20:47:40 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:47:40 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:47:40 verbose: About to invoke a child R process
+2018-12-30 20:47:40 debug: ../../model-implementations/test.R
+2018-12-30 20:47:40 debug: {"a":1,"b":3}
+2018-12-30 20:47:40 debug: {"verboseResult":false}
+2018-12-30 20:47:40 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../model-implementations/echo.R",{"a":1,"b":3}]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:47:40 info: [object Object]
+2018-12-30 20:48:30 info: Winston logging tool initialised
+2018-12-30 20:48:30 debug: Test: Debug message
+2018-12-30 20:48:30 verbose: Test: Verbose message
+2018-12-30 20:48:30 warn: Test: Warning message
+2018-12-30 20:48:30 error: Test: Error message
+2018-12-30 20:48:30 verbose: Starting service in environment : local
+2018-12-30 20:48:30 verbose: ---------------------------------------------------------------------
+2018-12-30 20:48:30 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:48:30 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:48:30 verbose: Database Name:        Model Store
+2018-12-30 20:48:30 verbose: Node Port:            6195
+2018-12-30 20:48:30 verbose: ---------------------------------------------------------------------
+2018-12-30 20:48:30 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:48:30 info: P-Mex CORE Server initiated
+2018-12-30 20:48:30 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:48:30 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:48:30 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:48:30 info: Express server listening on - http://localhost:6195
+2018-12-30 20:48:33 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:48:33 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:48:33 verbose: About to invoke a child R process
+2018-12-30 20:48:33 debug: ../../model-implementations/test.R
+2018-12-30 20:48:33 debug: {"a":1,"b":3}
+2018-12-30 20:48:33 debug: {"verboseResult":false}
+2018-12-30 20:48:33 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../model-implementations/echo.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:48:33 info: [object Object]
+2018-12-30 20:50:48 info: Winston logging tool initialised
+2018-12-30 20:50:48 debug: Test: Debug message
+2018-12-30 20:50:48 verbose: Test: Verbose message
+2018-12-30 20:50:48 warn: Test: Warning message
+2018-12-30 20:50:48 error: Test: Error message
+2018-12-30 20:50:48 verbose: Starting service in environment : local
+2018-12-30 20:50:48 verbose: ---------------------------------------------------------------------
+2018-12-30 20:50:48 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:50:48 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:50:48 verbose: Database Name:        Model Store
+2018-12-30 20:50:48 verbose: Node Port:            6195
+2018-12-30 20:50:48 verbose: ---------------------------------------------------------------------
+2018-12-30 20:50:48 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:50:48 info: P-Mex CORE Server initiated
+2018-12-30 20:50:48 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:50:48 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:50:48 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:50:48 info: Express server listening on - http://localhost:6195
+2018-12-30 20:50:51 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:50:51 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:50:51 verbose: About to invoke a child R process
+2018-12-30 20:50:51 debug: ../../model-implementations/test.R
+2018-12-30 20:50:51 debug: {"a":1,"b":3}
+2018-12-30 20:50:51 debug: {"verboseResult":false}
+2018-12-30 20:50:51 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../model-implementations/echo.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:50:51 info: [object Object]
+2018-12-30 20:53:39 info: Winston logging tool initialised
+2018-12-30 20:53:39 debug: Test: Debug message
+2018-12-30 20:53:39 verbose: Test: Verbose message
+2018-12-30 20:53:39 warn: Test: Warning message
+2018-12-30 20:53:39 error: Test: Error message
+2018-12-30 20:53:39 verbose: Starting service in environment : local
+2018-12-30 20:53:39 verbose: ---------------------------------------------------------------------
+2018-12-30 20:53:39 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:53:39 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:53:39 verbose: Database Name:        Model Store
+2018-12-30 20:53:39 verbose: Node Port:            6195
+2018-12-30 20:53:39 verbose: ---------------------------------------------------------------------
+2018-12-30 20:53:39 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:53:39 info: P-Mex CORE Server initiated
+2018-12-30 20:53:39 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:53:39 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:53:39 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:53:39 info: Express server listening on - http://localhost:6195
+2018-12-30 20:53:42 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:53:42 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:53:42 verbose: About to invoke a child R process
+2018-12-30 20:53:42 debug: ../../model-implementations/test.R
+2018-12-30 20:53:42 debug: {"a":1,"b":3}
+2018-12-30 20:53:42 debug: {"verboseResult":false}
+2018-12-30 20:53:42 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../../model-implementations/echo.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:53:42 info: [object Object]
+2018-12-30 20:54:15 info: Winston logging tool initialised
+2018-12-30 20:54:15 debug: Test: Debug message
+2018-12-30 20:54:15 verbose: Test: Verbose message
+2018-12-30 20:54:15 warn: Test: Warning message
+2018-12-30 20:54:15 error: Test: Error message
+2018-12-30 20:54:15 verbose: Starting service in environment : local
+2018-12-30 20:54:15 verbose: ---------------------------------------------------------------------
+2018-12-30 20:54:15 verbose: Application Name:     P-Mex Core Server
+2018-12-30 20:54:15 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 20:54:15 verbose: Database Name:        Model Store
+2018-12-30 20:54:15 verbose: Node Port:            6195
+2018-12-30 20:54:15 verbose: ---------------------------------------------------------------------
+2018-12-30 20:54:15 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 20:54:15 info: P-Mex CORE Server initiated
+2018-12-30 20:54:15 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 20:54:15 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 20:54:15 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 20:54:15 info: Express server listening on - http://localhost:6195
+2018-12-30 20:54:17 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 20:54:17 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 20:54:17 verbose: About to invoke a child R process
+2018-12-30 20:54:17 debug: ../../model-implementations/test.R
+2018-12-30 20:54:17 debug: {"a":1,"b":3}
+2018-12-30 20:54:17 debug: {"verboseResult":false}
+2018-12-30 20:54:17 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../../model-implementations/echo.R","{\"a\":1,\"b\":3}"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 20:54:17 info: [object Object]
+2018-12-30 21:25:48 info: Winston logging tool initialised
+2018-12-30 21:25:48 debug: Test: Debug message
+2018-12-30 21:25:48 verbose: Test: Verbose message
+2018-12-30 21:25:48 warn: Test: Warning message
+2018-12-30 21:25:48 error: Test: Error message
+2018-12-30 21:25:49 verbose: Starting service in environment : local
+2018-12-30 21:25:49 verbose: ---------------------------------------------------------------------
+2018-12-30 21:25:49 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:25:49 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:25:49 verbose: Database Name:        Model Store
+2018-12-30 21:25:49 verbose: Node Port:            6195
+2018-12-30 21:25:49 verbose: ---------------------------------------------------------------------
+2018-12-30 21:25:49 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:25:49 info: P-Mex CORE Server initiated
+2018-12-30 21:25:49 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:25:49 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:25:49 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:25:49 info: Express server listening on - http://localhost:6195
+2018-12-30 21:25:56 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:25:56 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:25:56 verbose: About to invoke a child R process
+2018-12-30 21:25:56 debug: ../../model-implementations/test.R
+2018-12-30 21:25:56 debug: {"a":1,"b":3}
+2018-12-30 21:25:56 debug: {"verboseResult":false}
+2018-12-30 21:27:07 info: Winston logging tool initialised
+2018-12-30 21:27:07 debug: Test: Debug message
+2018-12-30 21:27:07 verbose: Test: Verbose message
+2018-12-30 21:27:07 warn: Test: Warning message
+2018-12-30 21:27:07 error: Test: Error message
+2018-12-30 21:27:08 verbose: Starting service in environment : local
+2018-12-30 21:27:08 verbose: ---------------------------------------------------------------------
+2018-12-30 21:27:08 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:27:08 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:27:08 verbose: Database Name:        Model Store
+2018-12-30 21:27:08 verbose: Node Port:            6195
+2018-12-30 21:27:08 verbose: ---------------------------------------------------------------------
+2018-12-30 21:27:08 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:27:08 info: P-Mex CORE Server initiated
+2018-12-30 21:27:08 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:27:08 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:27:08 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:27:08 info: Express server listening on - http://localhost:6195
+2018-12-30 21:27:11 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:27:11 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:27:11 verbose: About to invoke a child R process
+2018-12-30 21:27:11 debug: ../../model-implementations/test.R
+2018-12-30 21:27:11 debug: {"a":1,"b":3}
+2018-12-30 21:27:11 debug: {"verboseResult":false}
+2018-12-30 21:27:49 info: Winston logging tool initialised
+2018-12-30 21:27:49 debug: Test: Debug message
+2018-12-30 21:27:49 verbose: Test: Verbose message
+2018-12-30 21:27:49 warn: Test: Warning message
+2018-12-30 21:27:49 error: Test: Error message
+2018-12-30 21:27:49 verbose: Starting service in environment : local
+2018-12-30 21:27:49 verbose: ---------------------------------------------------------------------
+2018-12-30 21:27:49 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:27:49 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:27:49 verbose: Database Name:        Model Store
+2018-12-30 21:27:49 verbose: Node Port:            6195
+2018-12-30 21:27:49 verbose: ---------------------------------------------------------------------
+2018-12-30 21:27:49 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:27:49 info: P-Mex CORE Server initiated
+2018-12-30 21:27:49 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:27:49 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:27:49 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:27:49 info: Express server listening on - http://localhost:6195
+2018-12-30 21:27:51 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:27:51 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:27:51 verbose: About to invoke a child R process
+2018-12-30 21:27:51 debug: ../../model-implementations/test.R
+2018-12-30 21:27:51 debug: {"a":1,"b":3}
+2018-12-30 21:27:51 debug: {"verboseResult":false}
+2018-12-30 21:29:16 info: Winston logging tool initialised
+2018-12-30 21:29:16 debug: Test: Debug message
+2018-12-30 21:29:16 verbose: Test: Verbose message
+2018-12-30 21:29:16 warn: Test: Warning message
+2018-12-30 21:29:16 error: Test: Error message
+2018-12-30 21:29:16 verbose: Starting service in environment : local
+2018-12-30 21:29:16 verbose: ---------------------------------------------------------------------
+2018-12-30 21:29:16 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:29:16 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:29:16 verbose: Database Name:        Model Store
+2018-12-30 21:29:16 verbose: Node Port:            6195
+2018-12-30 21:29:16 verbose: ---------------------------------------------------------------------
+2018-12-30 21:29:16 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:29:16 info: P-Mex CORE Server initiated
+2018-12-30 21:29:16 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:29:16 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:29:16 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:29:16 info: Express server listening on - http://localhost:6195
+2018-12-30 21:29:20 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:29:20 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:29:20 verbose: About to invoke a child R process
+2018-12-30 21:29:20 debug: ../../model-implementations/test.R
+2018-12-30 21:29:20 debug: {"a":1,"b":3}
+2018-12-30 21:29:20 debug: {"verboseResult":false}
+2018-12-30 21:29:20 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../../../model-implementations/echo.R"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 21:29:20 info: [object Object]
+2018-12-30 21:29:51 info: Winston logging tool initialised
+2018-12-30 21:29:51 debug: Test: Debug message
+2018-12-30 21:29:51 verbose: Test: Verbose message
+2018-12-30 21:29:51 warn: Test: Warning message
+2018-12-30 21:29:51 error: Test: Error message
+2018-12-30 21:29:51 verbose: Starting service in environment : local
+2018-12-30 21:29:51 verbose: ---------------------------------------------------------------------
+2018-12-30 21:29:51 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:29:51 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:29:51 verbose: Database Name:        Model Store
+2018-12-30 21:29:51 verbose: Node Port:            6195
+2018-12-30 21:29:51 verbose: ---------------------------------------------------------------------
+2018-12-30 21:29:51 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:29:51 info: P-Mex CORE Server initiated
+2018-12-30 21:29:51 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:29:51 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:29:51 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:29:51 info: Express server listening on - http://localhost:6195
+2018-12-30 21:29:54 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:29:54 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:29:54 verbose: About to invoke a child R process
+2018-12-30 21:29:54 debug: ../../model-implementations/test.R
+2018-12-30 21:29:54 debug: {"a":1,"b":3}
+2018-12-30 21:29:54 debug: {"verboseResult":false}
+2018-12-30 21:29:54 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../../server/model-implementations/echo.R"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 21:29:54 info: [object Object]
+2018-12-30 21:30:48 info: Winston logging tool initialised
+2018-12-30 21:30:48 debug: Test: Debug message
+2018-12-30 21:30:48 verbose: Test: Verbose message
+2018-12-30 21:30:48 warn: Test: Warning message
+2018-12-30 21:30:48 error: Test: Error message
+2018-12-30 21:30:48 verbose: Starting service in environment : local
+2018-12-30 21:30:48 verbose: ---------------------------------------------------------------------
+2018-12-30 21:30:48 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:30:48 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:30:48 verbose: Database Name:        Model Store
+2018-12-30 21:30:48 verbose: Node Port:            6195
+2018-12-30 21:30:48 verbose: ---------------------------------------------------------------------
+2018-12-30 21:30:48 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:30:48 info: P-Mex CORE Server initiated
+2018-12-30 21:30:48 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:30:48 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:30:48 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:30:48 info: Express server listening on - http://localhost:6195
+2018-12-30 21:30:57 info: Winston logging tool initialised
+2018-12-30 21:30:57 debug: Test: Debug message
+2018-12-30 21:30:57 verbose: Test: Verbose message
+2018-12-30 21:30:57 warn: Test: Warning message
+2018-12-30 21:30:57 error: Test: Error message
+2018-12-30 21:30:57 verbose: Starting service in environment : local
+2018-12-30 21:30:57 verbose: ---------------------------------------------------------------------
+2018-12-30 21:30:57 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:30:57 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:30:57 verbose: Database Name:        Model Store
+2018-12-30 21:30:57 verbose: Node Port:            6195
+2018-12-30 21:30:57 verbose: ---------------------------------------------------------------------
+2018-12-30 21:30:57 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:30:57 info: P-Mex CORE Server initiated
+2018-12-30 21:30:57 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:30:57 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:30:57 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:30:57 info: Express server listening on - http://localhost:6195
+2018-12-30 21:31:25 info: Winston logging tool initialised
+2018-12-30 21:31:25 debug: Test: Debug message
+2018-12-30 21:31:25 verbose: Test: Verbose message
+2018-12-30 21:31:25 warn: Test: Warning message
+2018-12-30 21:31:25 error: Test: Error message
+2018-12-30 21:31:26 verbose: Starting service in environment : local
+2018-12-30 21:31:26 verbose: ---------------------------------------------------------------------
+2018-12-30 21:31:26 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:31:26 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:31:26 verbose: Database Name:        Model Store
+2018-12-30 21:31:26 verbose: Node Port:            6195
+2018-12-30 21:31:26 verbose: ---------------------------------------------------------------------
+2018-12-30 21:31:26 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:31:26 info: P-Mex CORE Server initiated
+2018-12-30 21:31:26 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:31:26 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:31:26 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:31:26 info: Express server listening on - http://localhost:6195
+2018-12-30 21:31:44 info: Winston logging tool initialised
+2018-12-30 21:31:44 debug: Test: Debug message
+2018-12-30 21:31:44 verbose: Test: Verbose message
+2018-12-30 21:31:44 warn: Test: Warning message
+2018-12-30 21:31:44 error: Test: Error message
+2018-12-30 21:31:44 verbose: Starting service in environment : local
+2018-12-30 21:31:44 verbose: ---------------------------------------------------------------------
+2018-12-30 21:31:44 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:31:44 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:31:44 verbose: Database Name:        Model Store
+2018-12-30 21:31:44 verbose: Node Port:            6195
+2018-12-30 21:31:44 verbose: ---------------------------------------------------------------------
+2018-12-30 21:31:44 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:31:44 info: P-Mex CORE Server initiated
+2018-12-30 21:31:44 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:31:44 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:31:44 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:31:44 info: Express server listening on - http://localhost:6195
+2018-12-30 21:31:47 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:31:47 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:31:47 verbose: About to invoke a child R process
+2018-12-30 21:31:47 debug: ../../model-implementations/test.R
+2018-12-30 21:31:47 debug: {"a":1,"b":3}
+2018-12-30 21:31:47 debug: {"verboseResult":false}
+2018-12-30 21:31:47 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["../server/model-implementations/echo.R"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 21:31:47 info: [object Object]
+2018-12-30 21:33:42 info: Winston logging tool initialised
+2018-12-30 21:33:42 debug: Test: Debug message
+2018-12-30 21:33:42 verbose: Test: Verbose message
+2018-12-30 21:33:42 warn: Test: Warning message
+2018-12-30 21:33:42 error: Test: Error message
+2018-12-30 21:33:42 verbose: Starting service in environment : local
+2018-12-30 21:33:42 verbose: ---------------------------------------------------------------------
+2018-12-30 21:33:42 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:33:42 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:33:42 verbose: Database Name:        Model Store
+2018-12-30 21:33:42 verbose: Node Port:            6195
+2018-12-30 21:33:42 verbose: ---------------------------------------------------------------------
+2018-12-30 21:33:42 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:33:42 info: P-Mex CORE Server initiated
+2018-12-30 21:33:42 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:33:42 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:33:42 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:33:42 info: Express server listening on - http://localhost:6195
+2018-12-30 21:33:45 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:33:45 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:33:45 verbose: About to invoke a child R process
+2018-12-30 21:33:45 debug: ../../model-implementations/test.R
+2018-12-30 21:33:45 debug: {"a":1,"b":3}
+2018-12-30 21:33:45 debug: {"verboseResult":false}
+2018-12-30 21:33:45 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["./server/model-implementations/echo.R"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 21:33:45 info: [object Object]
+2018-12-30 21:34:31 info: Winston logging tool initialised
+2018-12-30 21:34:31 debug: Test: Debug message
+2018-12-30 21:34:31 verbose: Test: Verbose message
+2018-12-30 21:34:31 warn: Test: Warning message
+2018-12-30 21:34:31 error: Test: Error message
+2018-12-30 21:34:31 verbose: Starting service in environment : local
+2018-12-30 21:34:31 verbose: ---------------------------------------------------------------------
+2018-12-30 21:34:31 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:34:31 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:34:31 verbose: Database Name:        Model Store
+2018-12-30 21:34:31 verbose: Node Port:            6195
+2018-12-30 21:34:31 verbose: ---------------------------------------------------------------------
+2018-12-30 21:34:31 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:34:31 info: P-Mex CORE Server initiated
+2018-12-30 21:34:31 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:34:31 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:34:31 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:34:31 info: Express server listening on - http://localhost:6195
+2018-12-30 21:34:34 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:34:34 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:34:34 verbose: About to invoke a child R process
+2018-12-30 21:34:34 debug: ../../model-implementations/test.R
+2018-12-30 21:34:34 debug: {"a":1,"b":3}
+2018-12-30 21:34:34 debug: {"verboseResult":false}
+2018-12-30 21:34:34 debug: {"error":{"errno":"ENOENT","code":"ENOENT","syscall":"spawnSync Rscript","path":"Rscript","spawnargs":["./echo.R"]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+2018-12-30 21:34:34 info: [object Object]
+2018-12-30 21:42:01 info: Winston logging tool initialised
+2018-12-30 21:42:01 debug: Test: Debug message
+2018-12-30 21:42:01 verbose: Test: Verbose message
+2018-12-30 21:42:01 warn: Test: Warning message
+2018-12-30 21:42:01 error: Test: Error message
+2018-12-30 21:42:01 verbose: Starting service in environment : local
+2018-12-30 21:42:01 verbose: ---------------------------------------------------------------------
+2018-12-30 21:42:01 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:42:01 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:42:01 verbose: Database Name:        Model Store
+2018-12-30 21:42:01 verbose: Node Port:            6195
+2018-12-30 21:42:01 verbose: ---------------------------------------------------------------------
+2018-12-30 21:42:01 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:42:01 info: P-Mex CORE Server initiated
+2018-12-30 21:42:01 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:42:01 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:42:01 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:42:01 info: Express server listening on - http://localhost:6195
+2018-12-30 21:42:06 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:42:06 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:43:24 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:43:24 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:43:26 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:43:26 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:43:42 info: Winston logging tool initialised
+2018-12-30 21:43:42 debug: Test: Debug message
+2018-12-30 21:43:42 verbose: Test: Verbose message
+2018-12-30 21:43:42 warn: Test: Warning message
+2018-12-30 21:43:42 error: Test: Error message
+2018-12-30 21:43:42 verbose: Starting service in environment : local
+2018-12-30 21:43:42 verbose: ---------------------------------------------------------------------
+2018-12-30 21:43:42 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:43:42 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:43:42 verbose: Database Name:        Model Store
+2018-12-30 21:43:42 verbose: Node Port:            6195
+2018-12-30 21:43:42 verbose: ---------------------------------------------------------------------
+2018-12-30 21:43:42 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:43:42 info: P-Mex CORE Server initiated
+2018-12-30 21:43:42 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:43:42 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:43:42 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:43:42 info: Express server listening on - http://localhost:6195
+2018-12-30 21:43:45 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:43:45 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:44:23 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:44:23 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:44:29 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:44:29 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:45:38 info: Winston logging tool initialised
+2018-12-30 21:45:38 debug: Test: Debug message
+2018-12-30 21:45:38 verbose: Test: Verbose message
+2018-12-30 21:45:38 warn: Test: Warning message
+2018-12-30 21:45:38 error: Test: Error message
+2018-12-30 21:45:38 verbose: Starting service in environment : local
+2018-12-30 21:45:38 verbose: ---------------------------------------------------------------------
+2018-12-30 21:45:38 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:45:38 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:45:38 verbose: Database Name:        Model Store
+2018-12-30 21:45:38 verbose: Node Port:            6195
+2018-12-30 21:45:38 verbose: ---------------------------------------------------------------------
+2018-12-30 21:45:38 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:45:38 info: P-Mex CORE Server initiated
+2018-12-30 21:45:38 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:45:38 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:45:38 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:45:38 info: Express server listening on - http://localhost:6195
+2018-12-30 21:46:16 info: Winston logging tool initialised
+2018-12-30 21:46:16 debug: Test: Debug message
+2018-12-30 21:46:16 verbose: Test: Verbose message
+2018-12-30 21:46:16 warn: Test: Warning message
+2018-12-30 21:46:16 error: Test: Error message
+2018-12-30 21:46:16 verbose: Starting service in environment : local
+2018-12-30 21:46:16 verbose: ---------------------------------------------------------------------
+2018-12-30 21:46:16 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:46:16 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:46:16 verbose: Database Name:        Model Store
+2018-12-30 21:46:16 verbose: Node Port:            6195
+2018-12-30 21:46:16 verbose: ---------------------------------------------------------------------
+2018-12-30 21:46:16 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:46:16 info: P-Mex CORE Server initiated
+2018-12-30 21:46:16 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:46:16 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:46:16 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:46:16 info: Express server listening on - http://localhost:6195
+2018-12-30 21:46:18 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:46:18 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:47:22 info: Winston logging tool initialised
+2018-12-30 21:47:22 debug: Test: Debug message
+2018-12-30 21:47:22 verbose: Test: Verbose message
+2018-12-30 21:47:22 warn: Test: Warning message
+2018-12-30 21:47:22 error: Test: Error message
+2018-12-30 21:47:22 verbose: Starting service in environment : local
+2018-12-30 21:47:22 verbose: ---------------------------------------------------------------------
+2018-12-30 21:47:22 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:47:22 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:47:22 verbose: Database Name:        Model Store
+2018-12-30 21:47:22 verbose: Node Port:            6195
+2018-12-30 21:47:22 verbose: ---------------------------------------------------------------------
+2018-12-30 21:47:22 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:47:22 info: P-Mex CORE Server initiated
+2018-12-30 21:47:22 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:47:22 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:47:22 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:47:22 info: Express server listening on - http://localhost:6195
+2018-12-30 21:47:25 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:47:25 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:48:22 info: Winston logging tool initialised
+2018-12-30 21:48:22 debug: Test: Debug message
+2018-12-30 21:48:22 verbose: Test: Verbose message
+2018-12-30 21:48:22 warn: Test: Warning message
+2018-12-30 21:48:22 error: Test: Error message
+2018-12-30 21:48:22 verbose: Starting service in environment : local
+2018-12-30 21:48:22 verbose: ---------------------------------------------------------------------
+2018-12-30 21:48:22 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:48:22 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:48:22 verbose: Database Name:        Model Store
+2018-12-30 21:48:22 verbose: Node Port:            6195
+2018-12-30 21:48:22 verbose: ---------------------------------------------------------------------
+2018-12-30 21:48:22 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:48:22 info: P-Mex CORE Server initiated
+2018-12-30 21:48:22 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:48:22 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:48:22 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:48:22 info: Express server listening on - http://localhost:6195
+2018-12-30 21:48:27 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:48:27 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:48:46 info: Winston logging tool initialised
+2018-12-30 21:48:46 debug: Test: Debug message
+2018-12-30 21:48:46 verbose: Test: Verbose message
+2018-12-30 21:48:46 warn: Test: Warning message
+2018-12-30 21:48:46 error: Test: Error message
+2018-12-30 21:48:46 verbose: Starting service in environment : local
+2018-12-30 21:48:46 verbose: ---------------------------------------------------------------------
+2018-12-30 21:48:46 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:48:46 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:48:46 verbose: Database Name:        Model Store
+2018-12-30 21:48:46 verbose: Node Port:            6195
+2018-12-30 21:48:46 verbose: ---------------------------------------------------------------------
+2018-12-30 21:48:46 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:48:46 info: P-Mex CORE Server initiated
+2018-12-30 21:48:46 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:48:46 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:48:46 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:48:46 info: Express server listening on - http://localhost:6195
+2018-12-30 21:48:48 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:48:48 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:50:28 info: Winston logging tool initialised
+2018-12-30 21:50:28 debug: Test: Debug message
+2018-12-30 21:50:28 verbose: Test: Verbose message
+2018-12-30 21:50:28 warn: Test: Warning message
+2018-12-30 21:50:28 error: Test: Error message
+2018-12-30 21:50:28 verbose: Starting service in environment : local
+2018-12-30 21:50:28 verbose: ---------------------------------------------------------------------
+2018-12-30 21:50:28 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:50:28 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:50:28 verbose: Database Name:        Model Store
+2018-12-30 21:50:28 verbose: Node Port:            6195
+2018-12-30 21:50:28 verbose: ---------------------------------------------------------------------
+2018-12-30 21:50:28 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:50:28 info: P-Mex CORE Server initiated
+2018-12-30 21:50:28 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:50:28 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:50:28 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:50:28 info: Express server listening on - http://localhost:6195
+2018-12-30 21:50:30 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:50:30 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:50:52 info: Winston logging tool initialised
+2018-12-30 21:50:52 debug: Test: Debug message
+2018-12-30 21:50:52 verbose: Test: Verbose message
+2018-12-30 21:50:52 warn: Test: Warning message
+2018-12-30 21:50:52 error: Test: Error message
+2018-12-30 21:50:52 verbose: Starting service in environment : local
+2018-12-30 21:50:52 verbose: ---------------------------------------------------------------------
+2018-12-30 21:50:52 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:50:52 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:50:52 verbose: Database Name:        Model Store
+2018-12-30 21:50:52 verbose: Node Port:            6195
+2018-12-30 21:50:52 verbose: ---------------------------------------------------------------------
+2018-12-30 21:50:52 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:50:52 info: P-Mex CORE Server initiated
+2018-12-30 21:50:52 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:50:52 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:50:52 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:50:52 info: Express server listening on - http://localhost:6195
+2018-12-30 21:50:54 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:50:54 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:51:24 info: Winston logging tool initialised
+2018-12-30 21:51:24 debug: Test: Debug message
+2018-12-30 21:51:24 verbose: Test: Verbose message
+2018-12-30 21:51:24 warn: Test: Warning message
+2018-12-30 21:51:24 error: Test: Error message
+2018-12-30 21:51:25 verbose: Starting service in environment : local
+2018-12-30 21:51:25 verbose: ---------------------------------------------------------------------
+2018-12-30 21:51:25 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:51:25 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:51:25 verbose: Database Name:        Model Store
+2018-12-30 21:51:25 verbose: Node Port:            6195
+2018-12-30 21:51:25 verbose: ---------------------------------------------------------------------
+2018-12-30 21:51:25 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:51:25 info: P-Mex CORE Server initiated
+2018-12-30 21:51:25 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:51:25 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:51:25 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:51:25 info: Express server listening on - http://localhost:6195
+2018-12-30 21:51:26 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:51:26 info: call R script to calc(Sync) "1 + 3 = "
+2018-12-30 21:52:27 info: Winston logging tool initialised
+2018-12-30 21:52:27 debug: Test: Debug message
+2018-12-30 21:52:27 verbose: Test: Verbose message
+2018-12-30 21:52:27 warn: Test: Warning message
+2018-12-30 21:52:27 error: Test: Error message
+2018-12-30 21:52:27 verbose: Starting service in environment : local
+2018-12-30 21:52:27 verbose: ---------------------------------------------------------------------
+2018-12-30 21:52:27 verbose: Application Name:     P-Mex Core Server
+2018-12-30 21:52:27 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-30 21:52:27 verbose: Database Name:        Model Store
+2018-12-30 21:52:27 verbose: Node Port:            6195
+2018-12-30 21:52:27 verbose: ---------------------------------------------------------------------
+2018-12-30 21:52:27 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-30 21:52:27 info: P-Mex CORE Server initiated
+2018-12-30 21:52:27 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-30 21:52:27 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-30 21:52:27 info: P-Mex CORE Server defining routes for model execution micro-services
+2018-12-30 21:52:27 info: Express server listening on - http://localhost:6195
+2018-12-30 21:52:29 info: Execute model.  POST:/p-mex-api/executions invoking an R calculation
+2018-12-30 21:52:29 info: call R script to calc(Sync) "1 + 3 = "

@@ -1,0 +1,9 @@
+{
+      "roots": {
+           "self":         { "href": "/cafbi-api" }
+      },
+      "base": {
+           "app_name"     : "CAF BI Facade Core Server (proxy for ALFA)",
+           "databasename" : "CAF BI Operational Data Store (SQL Server)"
+      }
+}

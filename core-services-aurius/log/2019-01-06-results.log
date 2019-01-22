@@ -1,0 +1,1774 @@
+2019-01-06 14:11:51 info: Winston logging tool initialised
+2019-01-06 14:11:51 debug: Test: Debug message
+2019-01-06 14:11:51 verbose: Test: Verbose message
+2019-01-06 14:11:51 warn: Test: Warning message
+2019-01-06 14:11:51 error: Test: Error message
+2019-01-06 14:11:51 verbose: Starting service in environment : local
+2019-01-06 14:11:51 verbose: ---------------------------------------------------------------------
+2019-01-06 14:11:51 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 14:11:51 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 14:11:51 verbose: Database Name:        Aurius Database
+2019-01-06 14:11:51 verbose: Node Port:            6142
+2019-01-06 14:11:51 verbose: ---------------------------------------------------------------------
+2019-01-06 14:11:51 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 14:11:51 info: Aurius CORE Server initiated
+2019-01-06 14:11:51 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 14:11:51 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 14:11:51 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 14:11:51 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 14:11:51 info: Aurius CORE Server customer routes initialising
+2019-01-06 14:11:51 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 14:11:51 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 14:11:51 info: Aurius CORE Server home route initialising
+2019-01-06 15:12:07 verbose: Check Aurius core service GET:/aurius responding to client
+2019-01-06 15:12:16 verbose: Check Aurius core service GET:/aurius responding to client
+2019-01-06 15:12:18 verbose: Check Aurius core service GET:/aurius responding to client
+2019-01-06 15:13:25 verbose: Searching for customers containing the string es
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Acheson
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Alesi
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Boesel
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Burgess
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Chaves
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Chiesa
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Claes
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Crespo
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Davies
+2019-01-06 15:13:25 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 15:13:25 debug: Found customer with string 'es' : di Resta
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Dumfries
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Fontes
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Friesacher
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Hesnault
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Holmes
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Iglesias
+2019-01-06 15:13:25 debug: Found customer with string 'es' : James
+2019-01-06 15:13:25 debug: Found customer with string 'es' : James
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Jones
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Jones
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Kessel
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Kessler
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Kiesa
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Langes
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Lees
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Leston
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Marques
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Mieres
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Miles
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Miles
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Parkes
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Patrese
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 15:13:25 debug: Found customer with string 'es' : Quester
+2019-01-06 15:14:30 verbose: Searching for customers containing the string es
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Acheson
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Alesi
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Boesel
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Burgess
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Chaves
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Chiesa
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Claes
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Crespo
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Davies
+2019-01-06 15:14:30 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 15:14:30 debug: Found customer with string 'es' : di Resta
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Dumfries
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Fontes
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Friesacher
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Hesnault
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Holmes
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Iglesias
+2019-01-06 15:14:30 debug: Found customer with string 'es' : James
+2019-01-06 15:14:30 debug: Found customer with string 'es' : James
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Jones
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Jones
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Kessel
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Kessler
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Kiesa
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Langes
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Lees
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Leston
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Marques
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Mieres
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Miles
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Miles
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Parkes
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Patrese
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 15:14:30 debug: Found customer with string 'es' : Quester
+2019-01-06 15:26:54 verbose: Searching for customers containing the string es
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Acheson
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Alesi
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Boesel
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Burgess
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Chaves
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Chiesa
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Claes
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Crespo
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Davies
+2019-01-06 15:26:54 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 15:26:54 debug: Found customer with string 'es' : di Resta
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Dumfries
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Fontes
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Friesacher
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Hesnault
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Holmes
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Iglesias
+2019-01-06 15:26:54 debug: Found customer with string 'es' : James
+2019-01-06 15:26:54 debug: Found customer with string 'es' : James
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Jones
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Jones
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Kessel
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Kessler
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Kiesa
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Langes
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Lees
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Leston
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Marques
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Mieres
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Miles
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Miles
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Parkes
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Patrese
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 15:26:54 debug: Found customer with string 'es' : Quester
+2019-01-06 15:33:29 verbose: Searching for customers containing the string es
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Acheson
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Alesi
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Boesel
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Burgess
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Chaves
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Chiesa
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Claes
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Crespo
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Davies
+2019-01-06 15:33:29 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 15:33:29 debug: Found customer with string 'es' : di Resta
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Dumfries
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Fontes
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Friesacher
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Hesnault
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Holmes
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Iglesias
+2019-01-06 15:33:29 debug: Found customer with string 'es' : James
+2019-01-06 15:33:29 debug: Found customer with string 'es' : James
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Jones
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Jones
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Kessel
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Kessler
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Kiesa
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Langes
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Lees
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Leston
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Mairesse
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Marques
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Mieres
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Miles
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Miles
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Parkes
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Patrese
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 15:33:29 debug: Found customer with string 'es' : Quester
+2019-01-06 15:52:30 info: Winston logging tool initialised
+2019-01-06 15:52:30 debug: Test: Debug message
+2019-01-06 15:52:30 verbose: Test: Verbose message
+2019-01-06 15:52:30 warn: Test: Warning message
+2019-01-06 15:52:30 error: Test: Error message
+2019-01-06 15:52:31 verbose: Starting service in environment : local
+2019-01-06 15:52:31 verbose: ---------------------------------------------------------------------
+2019-01-06 15:52:31 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 15:52:31 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 15:52:31 verbose: Database Name:        Aurius Database
+2019-01-06 15:52:31 verbose: Node Port:            6142
+2019-01-06 15:52:31 verbose: ---------------------------------------------------------------------
+2019-01-06 15:52:31 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 15:52:31 info: Aurius CORE Server initiated
+2019-01-06 15:52:31 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 15:52:31 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 15:52:31 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 15:52:31 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 15:52:31 info: Aurius CORE Server customer routes initialising
+2019-01-06 15:52:31 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 15:52:31 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 15:52:31 info: Aurius CORE Server home route initialising
+2019-01-06 16:25:47 verbose: Searching for customers containing the string es
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Claes
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Davies
+2019-01-06 16:25:47 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:25:47 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:25:47 debug: Found customer with string 'es' : James
+2019-01-06 16:25:47 debug: Found customer with string 'es' : James
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Jones
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Jones
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Langes
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Lees
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Leston
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Marques
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Miles
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Miles
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:25:47 debug: Found customer with string 'es' : Quester
+2019-01-06 16:26:54 verbose: Searching for customers containing the string es
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Claes
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Davies
+2019-01-06 16:26:54 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:26:54 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:26:54 debug: Found customer with string 'es' : James
+2019-01-06 16:26:54 debug: Found customer with string 'es' : James
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Jones
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Jones
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Langes
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Lees
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Leston
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Marques
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Miles
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Miles
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:26:54 debug: Found customer with string 'es' : Quester
+2019-01-06 16:29:39 verbose: Searching for customers containing the string es
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Claes
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Davies
+2019-01-06 16:29:39 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:29:39 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:29:39 debug: Found customer with string 'es' : James
+2019-01-06 16:29:39 debug: Found customer with string 'es' : James
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Jones
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Jones
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Langes
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Lees
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Leston
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Marques
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Miles
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Miles
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:29:39 debug: Found customer with string 'es' : Quester
+2019-01-06 16:31:04 verbose: Searching for customers containing the string es
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Claes
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Davies
+2019-01-06 16:31:04 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:31:04 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:31:04 debug: Found customer with string 'es' : James
+2019-01-06 16:31:04 debug: Found customer with string 'es' : James
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Jones
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Jones
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Langes
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Lees
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Leston
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Marques
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Miles
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Miles
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:31:04 debug: Found customer with string 'es' : Quester
+2019-01-06 16:35:50 verbose: Searching for customers containing the string es
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Claes
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Davies
+2019-01-06 16:35:50 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:35:50 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:35:50 debug: Found customer with string 'es' : James
+2019-01-06 16:35:50 debug: Found customer with string 'es' : James
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Jones
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Jones
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Langes
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Lees
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Leston
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Marques
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Miles
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Miles
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:35:50 debug: Found customer with string 'es' : Quester
+2019-01-06 16:36:54 verbose: Searching for customers containing the string es
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Claes
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Davies
+2019-01-06 16:36:54 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:36:54 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:36:54 debug: Found customer with string 'es' : James
+2019-01-06 16:36:54 debug: Found customer with string 'es' : James
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Jones
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Jones
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Langes
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Lees
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Leston
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Marques
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Miles
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Miles
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:36:54 debug: Found customer with string 'es' : Quester
+2019-01-06 16:38:07 verbose: Searching for customers containing the string es
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Claes
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Davies
+2019-01-06 16:38:07 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:38:07 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:38:07 debug: Found customer with string 'es' : James
+2019-01-06 16:38:07 debug: Found customer with string 'es' : James
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Jones
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Jones
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Langes
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Lees
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Leston
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Marques
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Miles
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Miles
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:38:07 debug: Found customer with string 'es' : Quester
+2019-01-06 16:39:27 verbose: Searching for customers containing the string es
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Claes
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Davies
+2019-01-06 16:39:27 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:39:27 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:39:27 debug: Found customer with string 'es' : James
+2019-01-06 16:39:27 debug: Found customer with string 'es' : James
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Jones
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Jones
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Langes
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Lees
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Leston
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Marques
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Miles
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Miles
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:39:27 debug: Found customer with string 'es' : Quester
+2019-01-06 16:40:51 verbose: Searching for customers containing the string es
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Claes
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Davies
+2019-01-06 16:40:51 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:40:51 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:40:51 debug: Found customer with string 'es' : James
+2019-01-06 16:40:51 debug: Found customer with string 'es' : James
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Jones
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Jones
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Langes
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Lees
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Leston
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Marques
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Miles
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Miles
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:40:51 debug: Found customer with string 'es' : Quester
+2019-01-06 16:41:44 verbose: Searching for customers containing the string es
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Claes
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Davies
+2019-01-06 16:41:44 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:41:44 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:41:44 debug: Found customer with string 'es' : James
+2019-01-06 16:41:44 debug: Found customer with string 'es' : James
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Jones
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Jones
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Langes
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Lees
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Leston
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Marques
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Miles
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Miles
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:41:44 debug: Found customer with string 'es' : Quester
+2019-01-06 16:42:39 verbose: Searching for customers containing the string es
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Claes
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Davies
+2019-01-06 16:42:39 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:42:39 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:42:39 debug: Found customer with string 'es' : James
+2019-01-06 16:42:39 debug: Found customer with string 'es' : James
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Jones
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Jones
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Langes
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Lees
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Leston
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Marques
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Miles
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Miles
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:42:39 debug: Found customer with string 'es' : Quester
+2019-01-06 16:44:02 verbose: Searching for customers containing the string es
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Claes
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Davies
+2019-01-06 16:44:02 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:44:02 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:44:02 debug: Found customer with string 'es' : James
+2019-01-06 16:44:02 debug: Found customer with string 'es' : James
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Jones
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Jones
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Langes
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Lees
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Leston
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Marques
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Miles
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Miles
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:44:02 debug: Found customer with string 'es' : Quester
+2019-01-06 16:48:12 verbose: Searching for customers containing the string es
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Claes
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Davies
+2019-01-06 16:48:12 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:48:12 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:48:12 debug: Found customer with string 'es' : James
+2019-01-06 16:48:12 debug: Found customer with string 'es' : James
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Langes
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Lees
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Leston
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Marques
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:48:12 debug: Found customer with string 'es' : Quester
+2019-01-06 16:48:57 verbose: Searching for customers containing the string es
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Claes
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Davies
+2019-01-06 16:48:57 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:48:57 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:48:57 debug: Found customer with string 'es' : James
+2019-01-06 16:48:57 debug: Found customer with string 'es' : James
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Langes
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Lees
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Leston
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Marques
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:48:57 debug: Found customer with string 'es' : Quester
+2019-01-06 16:48:59 verbose: Searching for customers containing the string es
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Claes
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Davies
+2019-01-06 16:48:59 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:48:59 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:48:59 debug: Found customer with string 'es' : James
+2019-01-06 16:48:59 debug: Found customer with string 'es' : James
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Jones
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Langes
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Lees
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Leston
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Marques
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Miles
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:48:59 debug: Found customer with string 'es' : Quester
+2019-01-06 16:49:45 verbose: Searching for customers containing the string es
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Claes
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Davies
+2019-01-06 16:49:45 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:49:45 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:49:45 debug: Found customer with string 'es' : James
+2019-01-06 16:49:45 debug: Found customer with string 'es' : James
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Langes
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Lees
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Leston
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Marques
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:49:45 debug: Found customer with string 'es' : Quester
+2019-01-06 16:49:47 verbose: Searching for customers containing the string es
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Claes
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Davies
+2019-01-06 16:49:47 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:49:47 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:49:47 debug: Found customer with string 'es' : James
+2019-01-06 16:49:47 debug: Found customer with string 'es' : James
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Langes
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Lees
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Leston
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Marques
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:49:47 debug: Found customer with string 'es' : Quester
+2019-01-06 16:49:53 verbose: Searching for customers containing the string es
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Claes
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Davies
+2019-01-06 16:49:53 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:49:53 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:49:53 debug: Found customer with string 'es' : James
+2019-01-06 16:49:53 debug: Found customer with string 'es' : James
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Jones
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Langes
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Lees
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Leston
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Marques
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Miles
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:49:53 debug: Found customer with string 'es' : Quester
+2019-01-06 16:50:21 verbose: Searching for customers containing the string es
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Acheson
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Alesi
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Boesel
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Burgess
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Chaves
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Chiesa
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Claes
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Crespo
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Davies
+2019-01-06 16:50:21 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 16:50:21 debug: Found customer with string 'es' : di Resta
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Dumfries
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Fontes
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Friesacher
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Hesnault
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Holmes
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Iglesias
+2019-01-06 16:50:21 debug: Found customer with string 'es' : James
+2019-01-06 16:50:21 debug: Found customer with string 'es' : James
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Jones
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Jones
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Kessel
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Kessler
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Kiesa
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Langes
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Lees
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Leston
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Mairesse
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Marques
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Mieres
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Miles
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Miles
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Parkes
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Patrese
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 16:50:21 debug: Found customer with string 'es' : Quester
+2019-01-06 16:51:05 verbose: Searching for customers containing the string esp
+2019-01-06 16:51:05 debug: Found customer with string 'esp' : Crespo
+2019-01-06 16:52:27 info: Winston logging tool initialised
+2019-01-06 16:52:27 debug: Test: Debug message
+2019-01-06 16:52:27 verbose: Test: Verbose message
+2019-01-06 16:52:27 warn: Test: Warning message
+2019-01-06 16:52:27 error: Test: Error message
+2019-01-06 16:52:27 verbose: Starting service in environment : local
+2019-01-06 16:52:27 verbose: ---------------------------------------------------------------------
+2019-01-06 16:52:27 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 16:52:27 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 16:52:27 verbose: Database Name:        Aurius Database
+2019-01-06 16:52:27 verbose: Node Port:            6142
+2019-01-06 16:52:27 verbose: ---------------------------------------------------------------------
+2019-01-06 16:52:27 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 16:52:27 info: Aurius CORE Server initiated
+2019-01-06 16:52:27 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 16:52:27 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 16:52:27 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 16:52:27 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 16:52:27 info: Aurius CORE Server customer routes initialising
+2019-01-06 16:52:27 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 16:52:27 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 16:52:27 info: Aurius CORE Server home route initialising
+2019-01-06 16:52:58 verbose: Searching for customers containing the string esp
+2019-01-06 16:52:58 debug: Found customer with string 'esp' : Crespo
+2019-01-06 16:53:08 verbose: Searching for customers containing the string esp
+2019-01-06 16:53:08 debug: Found customer with string 'esp' : Crespo
+2019-01-06 16:54:09 verbose: Searching for customers containing the string esp
+2019-01-06 16:54:09 debug: Found customer with string 'esp' : Crespo
+2019-01-06 16:54:29 verbose: Searching for customers containing the string sch
+2019-01-06 16:54:29 debug: Found customer with string 'sch' : Bisch
+2019-01-06 16:54:29 debug: Found customer with string 'sch' : Fischer
+2019-01-06 16:54:29 debug: Found customer with string 'sch' : Pietsch
+2019-01-06 20:24:57 verbose: Searching for customers containing the string sch
+2019-01-06 20:24:57 debug: Found customer with string 'sch' : Bisch
+2019-01-06 20:24:57 debug: Found customer with string 'sch' : Fischer
+2019-01-06 20:24:57 debug: Found customer with string 'sch' : Pietsch
+2019-01-06 20:25:08 verbose: Searching for customers containing the string ecc
+2019-01-06 20:25:13 verbose: Searching for customers containing the string ec
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Abecassis
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Bechem
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Cecotto
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Leclerc
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Leclère
+2019-01-06 20:25:13 debug: Found customer with string 'ec' : Reece
+2019-01-06 20:26:00 verbose: Searching for customers containing the string Ec
+2019-01-06 20:26:00 debug: Found customer with string 'Ec' : Ecclestone
+2019-01-06 21:19:39 verbose: Searching for customers containing the string esAAPL
+2019-01-06 21:23:01 verbose: Searching for customers containing the string es30
+2019-01-06 21:26:46 verbose: Searching for customers containing the string es30
+2019-01-06 21:27:14 verbose: Searching for customers containing the string es30
+2019-01-06 21:27:37 verbose: Searching for customers containing the string es
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Claes
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Davies
+2019-01-06 21:27:37 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:27:37 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:27:37 debug: Found customer with string 'es' : James
+2019-01-06 21:27:37 debug: Found customer with string 'es' : James
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Jones
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Jones
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Langes
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Lees
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Leston
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Marques
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Miles
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Miles
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:27:37 debug: Found customer with string 'es' : Quester
+2019-01-06 21:28:08 verbose: Searching for customers containing the string esp
+2019-01-06 21:28:08 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:35:09 verbose: Searching for customers containing the string esp
+2019-01-06 21:35:09 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:35:46 verbose: Searching for customers containing the string esp
+2019-01-06 21:35:46 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:37:02 verbose: Searching for customers containing the string esp
+2019-01-06 21:37:02 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:37:32 verbose: Searching for customers containing the string esp
+2019-01-06 21:37:32 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:38:00 verbose: Searching for customers containing the string esp
+2019-01-06 21:38:00 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:39:42 verbose: Searching for customers containing the string esp
+2019-01-06 21:39:42 debug: Found customer with string 'esp' : Crespo
+2019-01-06 21:40:01 verbose: Searching for customers containing the string es
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Claes
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Davies
+2019-01-06 21:40:01 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:40:01 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:40:01 debug: Found customer with string 'es' : James
+2019-01-06 21:40:01 debug: Found customer with string 'es' : James
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Jones
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Jones
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Langes
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Lees
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Leston
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Marques
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Miles
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Miles
+2019-01-06 21:40:01 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:40:02 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:40:02 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:40:02 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:40:02 debug: Found customer with string 'es' : Quester
+2019-01-06 21:42:33 verbose: Searching for customers containing the string es
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Claes
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Davies
+2019-01-06 21:42:33 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:42:33 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:42:33 debug: Found customer with string 'es' : James
+2019-01-06 21:42:33 debug: Found customer with string 'es' : James
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Jones
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Jones
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Langes
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Lees
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Leston
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Marques
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Miles
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Miles
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:42:33 debug: Found customer with string 'es' : Quester
+2019-01-06 21:43:38 verbose: Searching for customers containing the string es
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Claes
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Davies
+2019-01-06 21:43:38 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:43:38 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:43:38 debug: Found customer with string 'es' : James
+2019-01-06 21:43:38 debug: Found customer with string 'es' : James
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Jones
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Jones
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Langes
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Lees
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Leston
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Marques
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Miles
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Miles
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:43:38 debug: Found customer with string 'es' : Quester
+2019-01-06 21:43:51 verbose: Searching for customers containing the string es
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Claes
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Davies
+2019-01-06 21:43:51 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:43:51 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:43:51 debug: Found customer with string 'es' : James
+2019-01-06 21:43:51 debug: Found customer with string 'es' : James
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Jones
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Jones
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Langes
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Lees
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Leston
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Marques
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Miles
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Miles
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:43:51 debug: Found customer with string 'es' : Quester
+2019-01-06 21:44:07 verbose: Searching for customers containing the string es
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Acheson
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Alesi
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Boesel
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Burgess
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Chaves
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Chiesa
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Claes
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Crespo
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Davies
+2019-01-06 21:44:07 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 21:44:07 debug: Found customer with string 'es' : di Resta
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Dumfries
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Fontes
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Friesacher
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Hesnault
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Holmes
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Iglesias
+2019-01-06 21:44:07 debug: Found customer with string 'es' : James
+2019-01-06 21:44:07 debug: Found customer with string 'es' : James
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Jones
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Jones
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Kessel
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Kessler
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Kiesa
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Langes
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Lees
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Leston
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Mairesse
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Marques
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Mieres
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Miles
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Miles
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Parkes
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Patrese
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 21:44:07 debug: Found customer with string 'es' : Quester
+2019-01-06 21:44:37 verbose: Searching for customers containing the string fa
+2019-01-06 21:44:37 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:44:37 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:47:58 verbose: Searching for customers containing the string fa
+2019-01-06 21:47:58 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:47:58 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:49:10 verbose: Searching for customers containing the string fa
+2019-01-06 21:49:10 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:49:10 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:49:18 verbose: Searching for customers containing the string fa
+2019-01-06 21:49:18 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:49:18 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:52:53 info: Winston logging tool initialised
+2019-01-06 21:52:53 debug: Test: Debug message
+2019-01-06 21:52:53 verbose: Test: Verbose message
+2019-01-06 21:52:53 warn: Test: Warning message
+2019-01-06 21:52:53 error: Test: Error message
+2019-01-06 21:52:53 verbose: Starting service in environment : local
+2019-01-06 21:52:53 verbose: ---------------------------------------------------------------------
+2019-01-06 21:52:53 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 21:52:53 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 21:52:53 verbose: Database Name:        Aurius Database
+2019-01-06 21:52:53 verbose: Node Port:            6142
+2019-01-06 21:52:53 verbose: ---------------------------------------------------------------------
+2019-01-06 21:52:53 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 21:52:53 info: Aurius CORE Server initiated
+2019-01-06 21:52:53 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 21:52:53 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 21:52:53 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 21:52:53 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 21:52:53 info: Aurius CORE Server customer routes initialising
+2019-01-06 21:52:53 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 21:52:53 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 21:52:53 info: Aurius CORE Server home route initialising
+2019-01-06 21:53:16 verbose: Searching for customers containing the string fa
+2019-01-06 21:53:16 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:53:16 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:53:19 verbose: Searching for customers containing the string fa
+2019-01-06 21:53:19 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:53:19 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:54:05 info: Winston logging tool initialised
+2019-01-06 21:54:05 debug: Test: Debug message
+2019-01-06 21:54:05 verbose: Test: Verbose message
+2019-01-06 21:54:05 warn: Test: Warning message
+2019-01-06 21:54:05 error: Test: Error message
+2019-01-06 21:54:05 verbose: Starting service in environment : local
+2019-01-06 21:54:05 verbose: ---------------------------------------------------------------------
+2019-01-06 21:54:05 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 21:54:05 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 21:54:05 verbose: Database Name:        Aurius Database
+2019-01-06 21:54:05 verbose: Node Port:            6142
+2019-01-06 21:54:05 verbose: ---------------------------------------------------------------------
+2019-01-06 21:54:05 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 21:54:05 info: Aurius CORE Server initiated
+2019-01-06 21:54:05 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 21:54:05 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 21:54:05 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 21:54:05 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 21:54:05 info: Aurius CORE Server customer routes initialising
+2019-01-06 21:54:05 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 21:54:05 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 21:54:05 info: Aurius CORE Server home route initialising
+2019-01-06 21:54:08 verbose: Searching for customers containing the string fa
+2019-01-06 21:54:08 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:54:08 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 21:55:48 info: Winston logging tool initialised
+2019-01-06 21:55:48 debug: Test: Debug message
+2019-01-06 21:55:48 verbose: Test: Verbose message
+2019-01-06 21:55:48 warn: Test: Warning message
+2019-01-06 21:55:48 error: Test: Error message
+2019-01-06 21:55:48 verbose: Starting service in environment : local
+2019-01-06 21:55:48 verbose: ---------------------------------------------------------------------
+2019-01-06 21:55:48 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 21:55:48 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 21:55:48 verbose: Database Name:        Aurius Database
+2019-01-06 21:55:48 verbose: Node Port:            6142
+2019-01-06 21:55:48 verbose: ---------------------------------------------------------------------
+2019-01-06 21:55:48 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 21:55:48 info: Aurius CORE Server initiated
+2019-01-06 21:55:48 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 21:55:48 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 21:55:48 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 21:55:48 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 21:55:48 info: Aurius CORE Server customer routes initialising
+2019-01-06 21:55:48 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 21:55:48 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 21:55:48 info: Aurius CORE Server home route initialising
+2019-01-06 21:55:51 verbose: Searching for customers containing the string fa
+2019-01-06 21:55:51 debug: Found customer with string 'fa' : Boffa
+2019-01-06 21:55:51 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:11:36 info: Winston logging tool initialised
+2019-01-06 22:11:36 debug: Test: Debug message
+2019-01-06 22:11:36 verbose: Test: Verbose message
+2019-01-06 22:11:36 warn: Test: Warning message
+2019-01-06 22:11:36 error: Test: Error message
+2019-01-06 22:11:36 verbose: Starting service in environment : local
+2019-01-06 22:11:36 verbose: ---------------------------------------------------------------------
+2019-01-06 22:11:36 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:11:36 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:11:36 verbose: Database Name:        Aurius Database
+2019-01-06 22:11:36 verbose: Node Port:            6142
+2019-01-06 22:11:36 verbose: ---------------------------------------------------------------------
+2019-01-06 22:11:36 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:11:36 info: Aurius CORE Server initiated
+2019-01-06 22:11:36 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:11:36 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:11:36 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:11:36 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:11:36 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:11:36 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:11:36 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:11:36 info: Aurius CORE Server home route initialising
+2019-01-06 22:11:55 verbose: Searching for customers containing the string fa
+2019-01-06 22:11:55 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:11:55 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:11:58 verbose: Searching for customers containing the string fa
+2019-01-06 22:11:58 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:11:58 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:00 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:00 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:00 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:02 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:02 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:02 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:03 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:03 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:03 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:10 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:10 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:10 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:12 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:12 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:12 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:12:15 verbose: Searching for customers containing the string fa
+2019-01-06 22:12:15 debug: Found customer with string 'fa' : Boffa
+2019-01-06 22:12:15 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 22:50:38 info: Winston logging tool initialised
+2019-01-06 22:50:38 debug: Test: Debug message
+2019-01-06 22:50:38 verbose: Test: Verbose message
+2019-01-06 22:50:38 warn: Test: Warning message
+2019-01-06 22:50:38 error: Test: Error message
+2019-01-06 22:50:39 verbose: Starting service in environment : local
+2019-01-06 22:50:39 verbose: ---------------------------------------------------------------------
+2019-01-06 22:50:39 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:50:39 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:50:39 verbose: Database Name:        Aurius Database
+2019-01-06 22:50:39 verbose: Node Port:            6142
+2019-01-06 22:50:39 verbose: ---------------------------------------------------------------------
+2019-01-06 22:50:39 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:50:39 info: Aurius CORE Server initiated
+2019-01-06 22:50:39 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:50:39 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:50:39 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:50:39 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:50:39 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:50:39 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:50:39 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:50:39 info: Aurius CORE Server home route initialising
+2019-01-06 22:51:15 verbose: Searching for customers containing the string es
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Acheson
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Alesi
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Boesel
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Burgess
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Chaves
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Chiesa
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Claes
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Crespo
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Davies
+2019-01-06 22:51:15 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 22:51:15 debug: Found customer with string 'es' : di Resta
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Dumfries
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Fontes
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Friesacher
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Hesnault
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Holmes
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Iglesias
+2019-01-06 22:51:15 debug: Found customer with string 'es' : James
+2019-01-06 22:51:15 debug: Found customer with string 'es' : James
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Jones
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Jones
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Kessel
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Kessler
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Kiesa
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Langes
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Lees
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Leston
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Mairesse
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Mairesse
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Marques
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Mieres
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Miles
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Miles
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Parkes
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Patrese
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 22:51:15 debug: Found customer with string 'es' : Quester
+2019-01-06 22:52:17 info: Winston logging tool initialised
+2019-01-06 22:52:17 debug: Test: Debug message
+2019-01-06 22:52:17 verbose: Test: Verbose message
+2019-01-06 22:52:17 warn: Test: Warning message
+2019-01-06 22:52:17 error: Test: Error message
+2019-01-06 22:52:17 verbose: Starting service in environment : local
+2019-01-06 22:52:17 verbose: ---------------------------------------------------------------------
+2019-01-06 22:52:17 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:52:17 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:52:17 verbose: Database Name:        Aurius Database
+2019-01-06 22:52:17 verbose: Node Port:            6142
+2019-01-06 22:52:17 verbose: ---------------------------------------------------------------------
+2019-01-06 22:52:17 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:52:17 info: Aurius CORE Server initiated
+2019-01-06 22:52:17 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:52:17 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:52:17 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:52:17 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:52:17 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:52:17 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:52:17 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:52:17 info: Aurius CORE Server home route initialising
+2019-01-06 22:52:27 verbose: Searching for customers containing the string esp
+2019-01-06 22:52:27 debug: Found customer with string 'esp' : Crespo
+2019-01-06 22:52:41 info: Winston logging tool initialised
+2019-01-06 22:52:41 debug: Test: Debug message
+2019-01-06 22:52:41 verbose: Test: Verbose message
+2019-01-06 22:52:41 warn: Test: Warning message
+2019-01-06 22:52:41 error: Test: Error message
+2019-01-06 22:52:41 verbose: Starting service in environment : local
+2019-01-06 22:52:41 verbose: ---------------------------------------------------------------------
+2019-01-06 22:52:41 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:52:41 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:52:41 verbose: Database Name:        Aurius Database
+2019-01-06 22:52:41 verbose: Node Port:            6142
+2019-01-06 22:52:41 verbose: ---------------------------------------------------------------------
+2019-01-06 22:52:41 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:52:41 info: Aurius CORE Server initiated
+2019-01-06 22:52:41 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:52:41 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:52:41 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:52:41 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:52:41 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:52:41 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:52:41 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:52:41 info: Aurius CORE Server home route initialising
+2019-01-06 22:52:43 verbose: Searching for customers containing the string esp
+2019-01-06 22:52:43 debug: Found customer with string 'esp' : Crespo
+2019-01-06 22:53:46 info: Winston logging tool initialised
+2019-01-06 22:53:46 debug: Test: Debug message
+2019-01-06 22:53:46 verbose: Test: Verbose message
+2019-01-06 22:53:46 warn: Test: Warning message
+2019-01-06 22:53:46 error: Test: Error message
+2019-01-06 22:53:47 verbose: Starting service in environment : local
+2019-01-06 22:53:47 verbose: ---------------------------------------------------------------------
+2019-01-06 22:53:47 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:53:47 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:53:47 verbose: Database Name:        Aurius Database
+2019-01-06 22:53:47 verbose: Node Port:            6142
+2019-01-06 22:53:47 verbose: ---------------------------------------------------------------------
+2019-01-06 22:53:47 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:53:47 info: Aurius CORE Server initiated
+2019-01-06 22:53:47 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:53:47 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:53:47 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:53:47 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:53:47 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:53:47 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:53:47 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:53:47 info: Aurius CORE Server home route initialising
+2019-01-06 22:53:48 verbose: Searching for customers containing the string esp
+2019-01-06 22:53:48 debug: Found customer with string 'esp' : Crespo
+2019-01-06 22:55:20 info: Winston logging tool initialised
+2019-01-06 22:55:20 debug: Test: Debug message
+2019-01-06 22:55:20 verbose: Test: Verbose message
+2019-01-06 22:55:20 warn: Test: Warning message
+2019-01-06 22:55:20 error: Test: Error message
+2019-01-06 22:55:20 verbose: Starting service in environment : local
+2019-01-06 22:55:20 verbose: ---------------------------------------------------------------------
+2019-01-06 22:55:20 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:55:20 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:55:20 verbose: Database Name:        Aurius Database
+2019-01-06 22:55:20 verbose: Node Port:            6142
+2019-01-06 22:55:20 verbose: ---------------------------------------------------------------------
+2019-01-06 22:55:20 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:55:20 info: Aurius CORE Server initiated
+2019-01-06 22:55:20 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:55:20 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:55:20 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:55:20 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:55:20 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:55:20 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:55:20 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:55:20 info: Aurius CORE Server home route initialising
+2019-01-06 22:55:22 verbose: Searching for customers containing the string esp
+2019-01-06 22:55:22 debug: Found customer with string 'esp' : Crespo
+2019-01-06 22:57:24 info: Winston logging tool initialised
+2019-01-06 22:57:24 debug: Test: Debug message
+2019-01-06 22:57:24 verbose: Test: Verbose message
+2019-01-06 22:57:24 warn: Test: Warning message
+2019-01-06 22:57:24 error: Test: Error message
+2019-01-06 22:57:24 verbose: Starting service in environment : local
+2019-01-06 22:57:24 verbose: ---------------------------------------------------------------------
+2019-01-06 22:57:24 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:57:24 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:57:24 verbose: Database Name:        Aurius Database
+2019-01-06 22:57:24 verbose: Node Port:            6142
+2019-01-06 22:57:24 verbose: ---------------------------------------------------------------------
+2019-01-06 22:57:24 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:57:24 info: Aurius CORE Server initiated
+2019-01-06 22:57:24 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:57:24 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:57:24 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:57:24 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:57:24 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:57:24 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:57:24 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:57:24 info: Aurius CORE Server home route initialising
+2019-01-06 22:57:31 verbose: Searching for customers containing the string esp
+2019-01-06 22:57:31 debug: Found customer with string 'esp' : Crespo
+2019-01-06 22:59:43 info: Winston logging tool initialised
+2019-01-06 22:59:43 debug: Test: Debug message
+2019-01-06 22:59:43 verbose: Test: Verbose message
+2019-01-06 22:59:43 warn: Test: Warning message
+2019-01-06 22:59:43 error: Test: Error message
+2019-01-06 22:59:43 verbose: Starting service in environment : local
+2019-01-06 22:59:43 verbose: ---------------------------------------------------------------------
+2019-01-06 22:59:43 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 22:59:43 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 22:59:43 verbose: Database Name:        Aurius Database
+2019-01-06 22:59:43 verbose: Node Port:            6142
+2019-01-06 22:59:43 verbose: ---------------------------------------------------------------------
+2019-01-06 22:59:43 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 22:59:43 info: Aurius CORE Server initiated
+2019-01-06 22:59:43 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 22:59:43 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 22:59:43 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 22:59:43 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 22:59:43 info: Aurius CORE Server customer routes initialising
+2019-01-06 22:59:43 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 22:59:43 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 22:59:43 info: Aurius CORE Server home route initialising
+2019-01-06 22:59:46 verbose: Searching for customers containing the string esp
+2019-01-06 22:59:46 debug: Found customer with string 'esp' : Crespo
+2019-01-06 23:00:58 info: Winston logging tool initialised
+2019-01-06 23:00:58 debug: Test: Debug message
+2019-01-06 23:00:58 verbose: Test: Verbose message
+2019-01-06 23:00:58 warn: Test: Warning message
+2019-01-06 23:00:58 error: Test: Error message
+2019-01-06 23:00:58 verbose: Starting service in environment : local
+2019-01-06 23:00:58 verbose: ---------------------------------------------------------------------
+2019-01-06 23:00:58 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 23:00:58 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 23:00:58 verbose: Database Name:        Aurius Database
+2019-01-06 23:00:58 verbose: Node Port:            6142
+2019-01-06 23:00:58 verbose: ---------------------------------------------------------------------
+2019-01-06 23:00:58 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 23:00:58 info: Aurius CORE Server initiated
+2019-01-06 23:00:58 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 23:00:58 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 23:00:58 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 23:00:58 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 23:00:58 info: Aurius CORE Server customer routes initialising
+2019-01-06 23:00:58 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 23:00:58 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 23:00:58 info: Aurius CORE Server home route initialising
+2019-01-06 23:02:47 info: Winston logging tool initialised
+2019-01-06 23:02:47 debug: Test: Debug message
+2019-01-06 23:02:47 verbose: Test: Verbose message
+2019-01-06 23:02:47 warn: Test: Warning message
+2019-01-06 23:02:47 error: Test: Error message
+2019-01-06 23:02:47 verbose: Starting service in environment : local
+2019-01-06 23:02:47 verbose: ---------------------------------------------------------------------
+2019-01-06 23:02:47 verbose: Application Name:     Aurius Facade Core Server
+2019-01-06 23:02:47 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-06 23:02:47 verbose: Database Name:        Aurius Database
+2019-01-06 23:02:47 verbose: Node Port:            6142
+2019-01-06 23:02:47 verbose: ---------------------------------------------------------------------
+2019-01-06 23:02:47 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-06 23:02:47 info: Aurius CORE Server initiated
+2019-01-06 23:02:47 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-06 23:02:47 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-06 23:02:47 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-06 23:02:47 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-06 23:02:47 info: Aurius CORE Server customer routes initialising
+2019-01-06 23:02:47 info: Aurius CORE Server defining routes for home micro-services
+2019-01-06 23:02:47 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-06 23:02:47 info: Aurius CORE Server home route initialising
+2019-01-06 23:02:52 verbose: Searching for customers containing the string esp
+2019-01-06 23:02:52 debug: Found customer with string 'esp' : Crespo
+2019-01-06 23:03:03 verbose: Searching for customers containing the string es
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Acheson
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Alesi
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Boesel
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Burgess
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Chaves
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Cheesbourg
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Chiesa
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Claes
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Crespo
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Davies
+2019-01-06 23:03:03 debug: Found customer with string 'es' : de Cesaris
+2019-01-06 23:03:03 debug: Found customer with string 'es' : di Resta
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Dumfries
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Ecclestone
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Fontes
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Friesacher
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Hesnault
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Holmes
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Iglesias
+2019-01-06 23:03:03 debug: Found customer with string 'es' : James
+2019-01-06 23:03:03 debug: Found customer with string 'es' : James
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Jones
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Jones
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Kessel
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Kessler
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Kiesa
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Langes
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Lees
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Leston
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Mairesse
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Mairesse
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Marques
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Mieres
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Miles
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Miles
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Parkes
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Patrese
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Pescarolo
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-06 23:03:03 debug: Found customer with string 'es' : Quester
+2019-01-06 23:08:32 verbose: Searching for customers containing the string fa
+2019-01-06 23:08:32 debug: Found customer with string 'fa' : Boffa
+2019-01-06 23:08:32 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 23:12:09 verbose: Searching for customers containing the string fa
+2019-01-06 23:12:09 debug: Found customer with string 'fa' : Boffa
+2019-01-06 23:12:09 debug: Found customer with string 'fa' : Estéfano
+2019-01-06 23:12:38 verbose: Searching for customers containing the string esp
+2019-01-06 23:12:38 debug: Found customer with string 'esp' : Crespo
+2019-01-06 23:13:54 verbose: Searching for customers containing the string fa
+2019-01-06 23:13:54 debug: Found customer with string 'fa' : Boffa
+2019-01-06 23:13:54 debug: Found customer with string 'fa' : Estéfano

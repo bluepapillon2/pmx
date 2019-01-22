@@ -1,0 +1,1262 @@
+2019-01-05 10:32:51 info: Winston logging tool initialised
+2019-01-05 10:32:51 debug: Test: Debug message
+2019-01-05 10:32:51 verbose: Test: Verbose message
+2019-01-05 10:32:51 warn: Test: Warning message
+2019-01-05 10:32:51 error: Test: Error message
+2019-01-05 10:32:52 verbose: Starting service in environment : local
+2019-01-05 10:32:52 verbose: ---------------------------------------------------------------------
+2019-01-05 10:32:52 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 10:32:52 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 10:32:52 verbose: Database Name:        Aurius Database
+2019-01-05 10:32:52 verbose: Node Port:            6142
+2019-01-05 10:32:52 verbose: ---------------------------------------------------------------------
+2019-01-05 10:32:52 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 10:32:52 info: Aurius CORE Server initiated
+2019-01-05 10:32:52 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:00:34 info: Winston logging tool initialised
+2019-01-05 11:00:34 debug: Test: Debug message
+2019-01-05 11:00:34 verbose: Test: Verbose message
+2019-01-05 11:00:34 warn: Test: Warning message
+2019-01-05 11:00:34 error: Test: Error message
+2019-01-05 11:00:35 verbose: Starting service in environment : local
+2019-01-05 11:00:35 verbose: ---------------------------------------------------------------------
+2019-01-05 11:00:35 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:00:35 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:00:35 verbose: Database Name:        Aurius Database
+2019-01-05 11:00:35 verbose: Node Port:            6142
+2019-01-05 11:00:35 verbose: ---------------------------------------------------------------------
+2019-01-05 11:00:35 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:00:35 info: Aurius CORE Server initiated
+2019-01-05 11:00:35 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:01:28 info: Winston logging tool initialised
+2019-01-05 11:01:28 debug: Test: Debug message
+2019-01-05 11:01:28 verbose: Test: Verbose message
+2019-01-05 11:01:28 warn: Test: Warning message
+2019-01-05 11:01:28 error: Test: Error message
+2019-01-05 11:01:28 verbose: Starting service in environment : local
+2019-01-05 11:01:28 verbose: ---------------------------------------------------------------------
+2019-01-05 11:01:28 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:01:28 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:01:28 verbose: Database Name:        Aurius Database
+2019-01-05 11:01:28 verbose: Node Port:            6142
+2019-01-05 11:01:28 verbose: ---------------------------------------------------------------------
+2019-01-05 11:01:28 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:01:28 info: Aurius CORE Server initiated
+2019-01-05 11:01:28 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:04:26 info: Winston logging tool initialised
+2019-01-05 11:04:26 debug: Test: Debug message
+2019-01-05 11:04:26 verbose: Test: Verbose message
+2019-01-05 11:04:26 warn: Test: Warning message
+2019-01-05 11:04:26 error: Test: Error message
+2019-01-05 11:04:26 verbose: Starting service in environment : local
+2019-01-05 11:04:26 verbose: ---------------------------------------------------------------------
+2019-01-05 11:04:26 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:04:26 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:04:26 verbose: Database Name:        Aurius Database
+2019-01-05 11:04:26 verbose: Node Port:            6142
+2019-01-05 11:04:26 verbose: ---------------------------------------------------------------------
+2019-01-05 11:04:26 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:04:26 info: Aurius CORE Server initiated
+2019-01-05 11:04:26 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:13:09 info: Winston logging tool initialised
+2019-01-05 11:13:09 debug: Test: Debug message
+2019-01-05 11:13:09 verbose: Test: Verbose message
+2019-01-05 11:13:09 warn: Test: Warning message
+2019-01-05 11:13:09 error: Test: Error message
+2019-01-05 11:13:09 verbose: Starting service in environment : local
+2019-01-05 11:13:09 verbose: ---------------------------------------------------------------------
+2019-01-05 11:13:09 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:13:09 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:13:09 verbose: Database Name:        Aurius Database
+2019-01-05 11:13:09 verbose: Node Port:            6142
+2019-01-05 11:13:09 verbose: ---------------------------------------------------------------------
+2019-01-05 11:13:09 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:13:09 info: Aurius CORE Server initiated
+2019-01-05 11:13:09 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:15:40 info: Winston logging tool initialised
+2019-01-05 11:15:40 debug: Test: Debug message
+2019-01-05 11:15:40 verbose: Test: Verbose message
+2019-01-05 11:15:40 warn: Test: Warning message
+2019-01-05 11:15:40 error: Test: Error message
+2019-01-05 11:15:40 verbose: Starting service in environment : local
+2019-01-05 11:15:40 verbose: ---------------------------------------------------------------------
+2019-01-05 11:15:40 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:15:40 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:15:40 verbose: Database Name:        Aurius Database
+2019-01-05 11:15:40 verbose: Node Port:            6142
+2019-01-05 11:15:40 verbose: ---------------------------------------------------------------------
+2019-01-05 11:15:40 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:15:40 info: Aurius CORE Server initiated
+2019-01-05 11:15:40 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:15:52 info: Winston logging tool initialised
+2019-01-05 11:15:52 debug: Test: Debug message
+2019-01-05 11:15:52 verbose: Test: Verbose message
+2019-01-05 11:15:52 warn: Test: Warning message
+2019-01-05 11:15:52 error: Test: Error message
+2019-01-05 11:15:53 verbose: Starting service in environment : local
+2019-01-05 11:15:53 verbose: ---------------------------------------------------------------------
+2019-01-05 11:15:53 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:15:53 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:15:53 verbose: Database Name:        Aurius Database
+2019-01-05 11:15:53 verbose: Node Port:            6142
+2019-01-05 11:15:53 verbose: ---------------------------------------------------------------------
+2019-01-05 11:15:53 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:15:53 info: Aurius CORE Server initiated
+2019-01-05 11:15:53 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:17:10 info: Winston logging tool initialised
+2019-01-05 11:17:10 debug: Test: Debug message
+2019-01-05 11:17:10 verbose: Test: Verbose message
+2019-01-05 11:17:10 warn: Test: Warning message
+2019-01-05 11:17:10 error: Test: Error message
+2019-01-05 11:17:11 verbose: Starting service in environment : local
+2019-01-05 11:17:11 verbose: ---------------------------------------------------------------------
+2019-01-05 11:17:11 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:17:11 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:17:11 verbose: Database Name:        Aurius Database
+2019-01-05 11:17:11 verbose: Node Port:            6142
+2019-01-05 11:17:11 verbose: ---------------------------------------------------------------------
+2019-01-05 11:17:11 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:17:11 info: Aurius CORE Server initiated
+2019-01-05 11:17:11 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:19:05 info: Winston logging tool initialised
+2019-01-05 11:19:05 debug: Test: Debug message
+2019-01-05 11:19:05 verbose: Test: Verbose message
+2019-01-05 11:19:05 warn: Test: Warning message
+2019-01-05 11:19:05 error: Test: Error message
+2019-01-05 11:19:06 verbose: Starting service in environment : local
+2019-01-05 11:19:06 verbose: ---------------------------------------------------------------------
+2019-01-05 11:19:06 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:19:06 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:19:06 verbose: Database Name:        Aurius Database
+2019-01-05 11:19:06 verbose: Node Port:            6142
+2019-01-05 11:19:06 verbose: ---------------------------------------------------------------------
+2019-01-05 11:19:06 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:19:06 info: Aurius CORE Server initiated
+2019-01-05 11:19:06 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:30:55 info: Winston logging tool initialised
+2019-01-05 11:30:55 debug: Test: Debug message
+2019-01-05 11:30:55 verbose: Test: Verbose message
+2019-01-05 11:30:55 warn: Test: Warning message
+2019-01-05 11:30:55 error: Test: Error message
+2019-01-05 11:30:55 verbose: Starting service in environment : local
+2019-01-05 11:30:55 verbose: ---------------------------------------------------------------------
+2019-01-05 11:30:55 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:30:55 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:30:55 verbose: Database Name:        Aurius Database
+2019-01-05 11:30:55 verbose: Node Port:            6142
+2019-01-05 11:30:55 verbose: ---------------------------------------------------------------------
+2019-01-05 11:30:55 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:30:55 info: Aurius CORE Server initiated
+2019-01-05 11:30:55 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:41:09 info: Winston logging tool initialised
+2019-01-05 11:41:09 debug: Test: Debug message
+2019-01-05 11:41:09 verbose: Test: Verbose message
+2019-01-05 11:41:09 warn: Test: Warning message
+2019-01-05 11:41:09 error: Test: Error message
+2019-01-05 11:41:10 verbose: Starting service in environment : local
+2019-01-05 11:41:10 verbose: ---------------------------------------------------------------------
+2019-01-05 11:41:10 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:41:10 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:41:10 verbose: Database Name:        Aurius Database
+2019-01-05 11:41:10 verbose: Node Port:            6142
+2019-01-05 11:41:10 verbose: ---------------------------------------------------------------------
+2019-01-05 11:41:10 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:41:10 info: Aurius CORE Server initiated
+2019-01-05 11:41:10 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:42:10 info: Winston logging tool initialised
+2019-01-05 11:42:10 debug: Test: Debug message
+2019-01-05 11:42:10 verbose: Test: Verbose message
+2019-01-05 11:42:10 warn: Test: Warning message
+2019-01-05 11:42:10 error: Test: Error message
+2019-01-05 11:42:11 verbose: Starting service in environment : local
+2019-01-05 11:42:11 verbose: ---------------------------------------------------------------------
+2019-01-05 11:42:11 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:42:11 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:42:11 verbose: Database Name:        Aurius Database
+2019-01-05 11:42:11 verbose: Node Port:            6142
+2019-01-05 11:42:11 verbose: ---------------------------------------------------------------------
+2019-01-05 11:42:11 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:42:11 info: Aurius CORE Server initiated
+2019-01-05 11:42:11 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:45:41 info: Winston logging tool initialised
+2019-01-05 11:45:41 debug: Test: Debug message
+2019-01-05 11:45:41 verbose: Test: Verbose message
+2019-01-05 11:45:41 warn: Test: Warning message
+2019-01-05 11:45:41 error: Test: Error message
+2019-01-05 11:45:41 verbose: Starting service in environment : local
+2019-01-05 11:45:41 verbose: ---------------------------------------------------------------------
+2019-01-05 11:45:41 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:45:41 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:45:41 verbose: Database Name:        Aurius Database
+2019-01-05 11:45:41 verbose: Node Port:            6142
+2019-01-05 11:45:41 verbose: ---------------------------------------------------------------------
+2019-01-05 11:45:41 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:45:41 info: Aurius CORE Server initiated
+2019-01-05 11:45:41 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:46:35 info: Winston logging tool initialised
+2019-01-05 11:46:35 debug: Test: Debug message
+2019-01-05 11:46:35 verbose: Test: Verbose message
+2019-01-05 11:46:35 warn: Test: Warning message
+2019-01-05 11:46:35 error: Test: Error message
+2019-01-05 11:46:35 verbose: Starting service in environment : local
+2019-01-05 11:46:35 verbose: ---------------------------------------------------------------------
+2019-01-05 11:46:35 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:46:35 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:46:35 verbose: Database Name:        Aurius Database
+2019-01-05 11:46:35 verbose: Node Port:            6142
+2019-01-05 11:46:35 verbose: ---------------------------------------------------------------------
+2019-01-05 11:46:35 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:46:35 info: Aurius CORE Server initiated
+2019-01-05 11:46:35 info: Aurius CORE Server customer routes initialising
+2019-01-05 11:50:37 info: Winston logging tool initialised
+2019-01-05 11:50:37 debug: Test: Debug message
+2019-01-05 11:50:37 verbose: Test: Verbose message
+2019-01-05 11:50:37 warn: Test: Warning message
+2019-01-05 11:50:37 error: Test: Error message
+2019-01-05 11:50:37 verbose: Starting service in environment : local
+2019-01-05 11:50:37 verbose: ---------------------------------------------------------------------
+2019-01-05 11:50:37 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 11:50:37 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 11:50:37 verbose: Database Name:        Aurius Database
+2019-01-05 11:50:37 verbose: Node Port:            6142
+2019-01-05 11:50:37 verbose: ---------------------------------------------------------------------
+2019-01-05 11:50:37 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 11:50:37 info: Aurius CORE Server initiated
+2019-01-05 11:50:37 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:43:28 info: Winston logging tool initialised
+2019-01-05 12:43:28 debug: Test: Debug message
+2019-01-05 12:43:28 verbose: Test: Verbose message
+2019-01-05 12:43:28 warn: Test: Warning message
+2019-01-05 12:43:28 error: Test: Error message
+2019-01-05 12:43:28 verbose: Starting service in environment : local
+2019-01-05 12:43:28 verbose: ---------------------------------------------------------------------
+2019-01-05 12:43:28 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:43:28 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:43:28 verbose: Database Name:        Aurius Database
+2019-01-05 12:43:28 verbose: Node Port:            6142
+2019-01-05 12:43:28 verbose: ---------------------------------------------------------------------
+2019-01-05 12:43:28 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:43:28 info: Aurius CORE Server initiated
+2019-01-05 12:43:28 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:44:00 info: Winston logging tool initialised
+2019-01-05 12:44:00 debug: Test: Debug message
+2019-01-05 12:44:00 verbose: Test: Verbose message
+2019-01-05 12:44:00 warn: Test: Warning message
+2019-01-05 12:44:00 error: Test: Error message
+2019-01-05 12:44:01 verbose: Starting service in environment : local
+2019-01-05 12:44:01 verbose: ---------------------------------------------------------------------
+2019-01-05 12:44:01 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:44:01 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:44:01 verbose: Database Name:        Aurius Database
+2019-01-05 12:44:01 verbose: Node Port:            6142
+2019-01-05 12:44:01 verbose: ---------------------------------------------------------------------
+2019-01-05 12:44:01 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:44:01 info: Aurius CORE Server initiated
+2019-01-05 12:44:01 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:44:31 info: Winston logging tool initialised
+2019-01-05 12:44:31 debug: Test: Debug message
+2019-01-05 12:44:31 verbose: Test: Verbose message
+2019-01-05 12:44:31 warn: Test: Warning message
+2019-01-05 12:44:31 error: Test: Error message
+2019-01-05 12:44:31 verbose: Starting service in environment : local
+2019-01-05 12:44:31 verbose: ---------------------------------------------------------------------
+2019-01-05 12:44:31 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:44:31 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:44:31 verbose: Database Name:        Aurius Database
+2019-01-05 12:44:31 verbose: Node Port:            6142
+2019-01-05 12:44:31 verbose: ---------------------------------------------------------------------
+2019-01-05 12:44:31 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:44:31 info: Aurius CORE Server initiated
+2019-01-05 12:44:31 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:51:30 info: Winston logging tool initialised
+2019-01-05 12:51:30 debug: Test: Debug message
+2019-01-05 12:51:30 verbose: Test: Verbose message
+2019-01-05 12:51:30 warn: Test: Warning message
+2019-01-05 12:51:30 error: Test: Error message
+2019-01-05 12:51:31 verbose: Starting service in environment : local
+2019-01-05 12:51:31 verbose: ---------------------------------------------------------------------
+2019-01-05 12:51:31 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:51:31 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:51:31 verbose: Database Name:        Aurius Database
+2019-01-05 12:51:31 verbose: Node Port:            6142
+2019-01-05 12:51:31 verbose: ---------------------------------------------------------------------
+2019-01-05 12:51:31 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:51:31 info: Aurius CORE Server initiated
+2019-01-05 12:51:31 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:52:02 info: Winston logging tool initialised
+2019-01-05 12:52:02 debug: Test: Debug message
+2019-01-05 12:52:02 verbose: Test: Verbose message
+2019-01-05 12:52:02 warn: Test: Warning message
+2019-01-05 12:52:02 error: Test: Error message
+2019-01-05 12:52:02 verbose: Starting service in environment : local
+2019-01-05 12:52:02 verbose: ---------------------------------------------------------------------
+2019-01-05 12:52:02 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:52:02 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:52:02 verbose: Database Name:        Aurius Database
+2019-01-05 12:52:02 verbose: Node Port:            6142
+2019-01-05 12:52:02 verbose: ---------------------------------------------------------------------
+2019-01-05 12:52:02 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:52:02 info: Aurius CORE Server initiated
+2019-01-05 12:52:03 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:56:11 info: Winston logging tool initialised
+2019-01-05 12:56:11 debug: Test: Debug message
+2019-01-05 12:56:11 verbose: Test: Verbose message
+2019-01-05 12:56:11 warn: Test: Warning message
+2019-01-05 12:56:11 error: Test: Error message
+2019-01-05 12:56:11 verbose: Starting service in environment : local
+2019-01-05 12:56:11 verbose: ---------------------------------------------------------------------
+2019-01-05 12:56:11 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 12:56:11 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 12:56:11 verbose: Database Name:        Aurius Database
+2019-01-05 12:56:11 verbose: Node Port:            6142
+2019-01-05 12:56:11 verbose: ---------------------------------------------------------------------
+2019-01-05 12:56:11 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 12:56:11 info: Aurius CORE Server initiated
+2019-01-05 12:56:11 info: Aurius CORE Server customer routes initialising
+2019-01-05 12:56:19 verbose: Searching for customers containing the string "ab"
+2019-01-05 12:56:23 verbose: Searching for customers containing the string "ab"
+2019-01-05 12:56:25 verbose: Searching for customers containing the string "ab"
+2019-01-05 13:28:36 info: Winston logging tool initialised
+2019-01-05 13:28:36 debug: Test: Debug message
+2019-01-05 13:28:36 verbose: Test: Verbose message
+2019-01-05 13:28:36 warn: Test: Warning message
+2019-01-05 13:28:36 error: Test: Error message
+2019-01-05 13:28:37 verbose: Starting service in environment : local
+2019-01-05 13:28:37 verbose: ---------------------------------------------------------------------
+2019-01-05 13:28:37 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:28:37 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:28:37 verbose: Database Name:        Aurius Database
+2019-01-05 13:28:37 verbose: Node Port:            6142
+2019-01-05 13:28:37 verbose: ---------------------------------------------------------------------
+2019-01-05 13:28:37 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:28:37 info: Aurius CORE Server initiated
+2019-01-05 13:28:37 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:31:35 info: Winston logging tool initialised
+2019-01-05 13:31:35 debug: Test: Debug message
+2019-01-05 13:31:35 verbose: Test: Verbose message
+2019-01-05 13:31:35 warn: Test: Warning message
+2019-01-05 13:31:35 error: Test: Error message
+2019-01-05 13:31:35 verbose: Starting service in environment : local
+2019-01-05 13:31:35 verbose: ---------------------------------------------------------------------
+2019-01-05 13:31:35 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:31:35 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:31:35 verbose: Database Name:        Aurius Database
+2019-01-05 13:31:35 verbose: Node Port:            6142
+2019-01-05 13:31:35 verbose: ---------------------------------------------------------------------
+2019-01-05 13:31:35 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:31:35 info: Aurius CORE Server initiated
+2019-01-05 13:31:35 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:31:39 info: Winston logging tool initialised
+2019-01-05 13:31:39 debug: Test: Debug message
+2019-01-05 13:31:39 verbose: Test: Verbose message
+2019-01-05 13:31:39 warn: Test: Warning message
+2019-01-05 13:31:39 error: Test: Error message
+2019-01-05 13:31:39 verbose: Starting service in environment : local
+2019-01-05 13:31:39 verbose: ---------------------------------------------------------------------
+2019-01-05 13:31:39 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:31:39 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:31:39 verbose: Database Name:        Aurius Database
+2019-01-05 13:31:39 verbose: Node Port:            6142
+2019-01-05 13:31:39 verbose: ---------------------------------------------------------------------
+2019-01-05 13:31:39 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:31:39 info: Aurius CORE Server initiated
+2019-01-05 13:31:39 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:32:14 verbose: Searching for customers containing the string "ab"
+2019-01-05 13:32:50 info: Winston logging tool initialised
+2019-01-05 13:32:50 debug: Test: Debug message
+2019-01-05 13:32:50 verbose: Test: Verbose message
+2019-01-05 13:32:50 warn: Test: Warning message
+2019-01-05 13:32:50 error: Test: Error message
+2019-01-05 13:32:50 verbose: Starting service in environment : local
+2019-01-05 13:32:50 verbose: ---------------------------------------------------------------------
+2019-01-05 13:32:50 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:32:50 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:32:50 verbose: Database Name:        Aurius Database
+2019-01-05 13:32:50 verbose: Node Port:            6142
+2019-01-05 13:32:50 verbose: ---------------------------------------------------------------------
+2019-01-05 13:32:50 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:32:50 info: Aurius CORE Server initiated
+2019-01-05 13:32:50 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:32:53 verbose: Searching for customers containing the string "ab"
+2019-01-05 13:33:45 verbose: Searching for customers containing the string "at"
+2019-01-05 13:35:00 info: Winston logging tool initialised
+2019-01-05 13:35:00 debug: Test: Debug message
+2019-01-05 13:35:00 verbose: Test: Verbose message
+2019-01-05 13:35:00 warn: Test: Warning message
+2019-01-05 13:35:00 error: Test: Error message
+2019-01-05 13:35:00 verbose: Starting service in environment : local
+2019-01-05 13:35:00 verbose: ---------------------------------------------------------------------
+2019-01-05 13:35:00 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:35:00 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:35:00 verbose: Database Name:        Aurius Database
+2019-01-05 13:35:00 verbose: Node Port:            6142
+2019-01-05 13:35:00 verbose: ---------------------------------------------------------------------
+2019-01-05 13:35:00 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:35:00 info: Aurius CORE Server initiated
+2019-01-05 13:35:00 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:35:03 verbose: Searching for customers containing the string "at"
+2019-01-05 13:35:05 verbose: Searching for customers containing the string "at"
+2019-01-05 13:46:37 verbose: Searching for customers containing the string at
+2019-01-05 13:47:09 verbose: Searching for customers containing the string bl
+2019-01-05 13:47:16 verbose: Searching for customers containing the string ham
+2019-01-05 13:47:22 verbose: Searching for customers containing the string hami
+2019-01-05 13:47:30 verbose: Searching for customers containing the string ha
+2019-01-05 13:47:38 verbose: Searching for customers containing the string hause
+2019-01-05 13:48:55 info: Winston logging tool initialised
+2019-01-05 13:48:55 debug: Test: Debug message
+2019-01-05 13:48:55 verbose: Test: Verbose message
+2019-01-05 13:48:55 warn: Test: Warning message
+2019-01-05 13:48:55 error: Test: Error message
+2019-01-05 13:48:55 verbose: Starting service in environment : local
+2019-01-05 13:48:55 verbose: ---------------------------------------------------------------------
+2019-01-05 13:48:55 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:48:55 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:48:55 verbose: Database Name:        Aurius Database
+2019-01-05 13:48:55 verbose: Node Port:            6142
+2019-01-05 13:48:55 verbose: ---------------------------------------------------------------------
+2019-01-05 13:48:55 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:48:55 info: Aurius CORE Server initiated
+2019-01-05 13:48:55 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:49:04 verbose: Searching for customers containing the string no
+2019-01-05 13:49:14 verbose: Searching for customers containing the string ban
+2019-01-05 13:53:12 info: Winston logging tool initialised
+2019-01-05 13:53:12 debug: Test: Debug message
+2019-01-05 13:53:12 verbose: Test: Verbose message
+2019-01-05 13:53:12 warn: Test: Warning message
+2019-01-05 13:53:12 error: Test: Error message
+2019-01-05 13:53:12 verbose: Starting service in environment : local
+2019-01-05 13:53:12 verbose: ---------------------------------------------------------------------
+2019-01-05 13:53:12 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:53:12 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:53:12 verbose: Database Name:        Aurius Database
+2019-01-05 13:53:12 verbose: Node Port:            6142
+2019-01-05 13:53:12 verbose: ---------------------------------------------------------------------
+2019-01-05 13:53:12 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:53:12 info: Aurius CORE Server initiated
+2019-01-05 13:53:12 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:53:56 info: Winston logging tool initialised
+2019-01-05 13:53:56 debug: Test: Debug message
+2019-01-05 13:53:56 verbose: Test: Verbose message
+2019-01-05 13:53:56 warn: Test: Warning message
+2019-01-05 13:53:56 error: Test: Error message
+2019-01-05 13:53:56 verbose: Starting service in environment : local
+2019-01-05 13:53:56 verbose: ---------------------------------------------------------------------
+2019-01-05 13:53:56 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:53:56 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:53:56 verbose: Database Name:        Aurius Database
+2019-01-05 13:53:56 verbose: Node Port:            6142
+2019-01-05 13:53:56 verbose: ---------------------------------------------------------------------
+2019-01-05 13:53:56 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:53:56 info: Aurius CORE Server initiated
+2019-01-05 13:53:56 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:54:03 verbose: Searching for customers containing the string ban
+2019-01-05 13:54:07 verbose: Searching for customers containing the string ban
+2019-01-05 13:54:11 verbose: Searching for customers containing the string ban
+2019-01-05 13:54:16 verbose: Searching for customers containing the string ba
+2019-01-05 13:54:23 verbose: Searching for customers containing the string ban
+2019-01-05 13:54:29 verbose: Searching for customers containing the string bat
+2019-01-05 13:54:58 info: Winston logging tool initialised
+2019-01-05 13:54:58 debug: Test: Debug message
+2019-01-05 13:54:58 verbose: Test: Verbose message
+2019-01-05 13:54:58 warn: Test: Warning message
+2019-01-05 13:54:58 error: Test: Error message
+2019-01-05 13:54:59 verbose: Starting service in environment : local
+2019-01-05 13:54:59 verbose: ---------------------------------------------------------------------
+2019-01-05 13:54:59 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:54:59 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:54:59 verbose: Database Name:        Aurius Database
+2019-01-05 13:54:59 verbose: Node Port:            6142
+2019-01-05 13:54:59 verbose: ---------------------------------------------------------------------
+2019-01-05 13:54:59 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:54:59 info: Aurius CORE Server initiated
+2019-01-05 13:54:59 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:55:01 verbose: Searching for customers containing the string bat
+2019-01-05 13:55:06 verbose: Searching for customers containing the string bat
+2019-01-05 13:55:14 verbose: Searching for customers containing the string ba
+2019-01-05 13:55:22 verbose: Searching for customers containing the string b
+2019-01-05 13:55:28 verbose: Searching for customers containing the string g
+2019-01-05 13:55:55 info: Winston logging tool initialised
+2019-01-05 13:55:55 debug: Test: Debug message
+2019-01-05 13:55:55 verbose: Test: Verbose message
+2019-01-05 13:55:55 warn: Test: Warning message
+2019-01-05 13:55:55 error: Test: Error message
+2019-01-05 13:55:55 verbose: Starting service in environment : local
+2019-01-05 13:55:55 verbose: ---------------------------------------------------------------------
+2019-01-05 13:55:55 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:55:55 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:55:55 verbose: Database Name:        Aurius Database
+2019-01-05 13:55:55 verbose: Node Port:            6142
+2019-01-05 13:55:55 verbose: ---------------------------------------------------------------------
+2019-01-05 13:55:55 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:55:55 info: Aurius CORE Server initiated
+2019-01-05 13:55:55 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:55:58 verbose: Searching for customers containing the string g
+2019-01-05 13:56:10 verbose: Searching for customers containing the string ge
+2019-01-05 13:59:20 info: Winston logging tool initialised
+2019-01-05 13:59:20 debug: Test: Debug message
+2019-01-05 13:59:20 verbose: Test: Verbose message
+2019-01-05 13:59:20 warn: Test: Warning message
+2019-01-05 13:59:20 error: Test: Error message
+2019-01-05 13:59:21 verbose: Starting service in environment : local
+2019-01-05 13:59:21 verbose: ---------------------------------------------------------------------
+2019-01-05 13:59:21 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 13:59:21 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 13:59:21 verbose: Database Name:        Aurius Database
+2019-01-05 13:59:21 verbose: Node Port:            6142
+2019-01-05 13:59:21 verbose: ---------------------------------------------------------------------
+2019-01-05 13:59:21 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 13:59:21 info: Aurius CORE Server initiated
+2019-01-05 13:59:21 info: Aurius CORE Server customer routes initialising
+2019-01-05 13:59:41 verbose: Searching for customers containing the string ge
+2019-01-05 13:59:43 verbose: Searching for customers containing the string ge
+2019-01-05 14:00:35 info: Winston logging tool initialised
+2019-01-05 14:00:35 debug: Test: Debug message
+2019-01-05 14:00:35 verbose: Test: Verbose message
+2019-01-05 14:00:35 warn: Test: Warning message
+2019-01-05 14:00:35 error: Test: Error message
+2019-01-05 14:00:35 verbose: Starting service in environment : local
+2019-01-05 14:00:35 verbose: ---------------------------------------------------------------------
+2019-01-05 14:00:35 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:00:35 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:00:35 verbose: Database Name:        Aurius Database
+2019-01-05 14:00:35 verbose: Node Port:            6142
+2019-01-05 14:00:35 verbose: ---------------------------------------------------------------------
+2019-01-05 14:00:35 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:00:35 info: Aurius CORE Server initiated
+2019-01-05 14:00:35 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:00:39 verbose: Searching for customers containing the string ge
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:00:39 debug: Found customer with string 'ge' : undefined
+2019-01-05 14:01:09 info: Winston logging tool initialised
+2019-01-05 14:01:09 debug: Test: Debug message
+2019-01-05 14:01:09 verbose: Test: Verbose message
+2019-01-05 14:01:09 warn: Test: Warning message
+2019-01-05 14:01:09 error: Test: Error message
+2019-01-05 14:01:09 verbose: Starting service in environment : local
+2019-01-05 14:01:09 verbose: ---------------------------------------------------------------------
+2019-01-05 14:01:09 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:01:09 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:01:09 verbose: Database Name:        Aurius Database
+2019-01-05 14:01:09 verbose: Node Port:            6142
+2019-01-05 14:01:09 verbose: ---------------------------------------------------------------------
+2019-01-05 14:01:09 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:01:09 info: Aurius CORE Server initiated
+2019-01-05 14:01:09 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:01:11 verbose: Searching for customers containing the string ge
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:11 debug: Found customer with string 'ge' : [object Object]
+2019-01-05 14:01:24 info: Winston logging tool initialised
+2019-01-05 14:01:24 debug: Test: Debug message
+2019-01-05 14:01:24 verbose: Test: Verbose message
+2019-01-05 14:01:24 warn: Test: Warning message
+2019-01-05 14:01:24 error: Test: Error message
+2019-01-05 14:01:24 verbose: Starting service in environment : local
+2019-01-05 14:01:24 verbose: ---------------------------------------------------------------------
+2019-01-05 14:01:24 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:01:24 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:01:24 verbose: Database Name:        Aurius Database
+2019-01-05 14:01:24 verbose: Node Port:            6142
+2019-01-05 14:01:24 verbose: ---------------------------------------------------------------------
+2019-01-05 14:01:24 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:01:24 info: Aurius CORE Server initiated
+2019-01-05 14:01:24 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:01:27 verbose: Searching for customers containing the string ge
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Berger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Berger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Birger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Bridger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Burgess
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Courage
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : de Angelis
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Enge
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : George
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Gugelmin
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Hansgen
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Langes
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Lunger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Lunger
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Magee
+2019-01-05 14:01:27 debug: Found customer with string 'ge' : Ratzenberger
+2019-01-05 14:02:33 info: Winston logging tool initialised
+2019-01-05 14:02:33 debug: Test: Debug message
+2019-01-05 14:02:33 verbose: Test: Verbose message
+2019-01-05 14:02:33 warn: Test: Warning message
+2019-01-05 14:02:33 error: Test: Error message
+2019-01-05 14:02:34 verbose: Starting service in environment : local
+2019-01-05 14:02:34 verbose: ---------------------------------------------------------------------
+2019-01-05 14:02:34 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:02:34 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:02:34 verbose: Database Name:        Aurius Database
+2019-01-05 14:02:34 verbose: Node Port:            6142
+2019-01-05 14:02:34 verbose: ---------------------------------------------------------------------
+2019-01-05 14:02:34 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:02:34 info: Aurius CORE Server initiated
+2019-01-05 14:02:34 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:18:13 info: Winston logging tool initialised
+2019-01-05 14:18:13 debug: Test: Debug message
+2019-01-05 14:18:13 verbose: Test: Verbose message
+2019-01-05 14:18:13 warn: Test: Warning message
+2019-01-05 14:18:13 error: Test: Error message
+2019-01-05 14:18:13 verbose: Starting service in environment : local
+2019-01-05 14:18:13 verbose: ---------------------------------------------------------------------
+2019-01-05 14:18:13 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:18:13 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:18:13 verbose: Database Name:        Aurius Database
+2019-01-05 14:18:13 verbose: Node Port:            6142
+2019-01-05 14:18:13 verbose: ---------------------------------------------------------------------
+2019-01-05 14:18:13 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:18:13 info: Aurius CORE Server initiated
+2019-01-05 14:18:13 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:18:13 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:21:05 info: Winston logging tool initialised
+2019-01-05 14:21:05 debug: Test: Debug message
+2019-01-05 14:21:05 verbose: Test: Verbose message
+2019-01-05 14:21:05 warn: Test: Warning message
+2019-01-05 14:21:05 error: Test: Error message
+2019-01-05 14:21:05 verbose: Starting service in environment : local
+2019-01-05 14:21:05 verbose: ---------------------------------------------------------------------
+2019-01-05 14:21:05 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:21:05 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:21:05 verbose: Database Name:        Aurius Database
+2019-01-05 14:21:05 verbose: Node Port:            6142
+2019-01-05 14:21:05 verbose: ---------------------------------------------------------------------
+2019-01-05 14:21:05 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:21:05 info: Aurius CORE Server initiated
+2019-01-05 14:21:05 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:21:05 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:21:05 info: Aurius CORE Server home routes initialising
+2019-01-05 14:21:08 info: Winston logging tool initialised
+2019-01-05 14:21:08 debug: Test: Debug message
+2019-01-05 14:21:08 verbose: Test: Verbose message
+2019-01-05 14:21:08 warn: Test: Warning message
+2019-01-05 14:21:08 error: Test: Error message
+2019-01-05 14:21:08 verbose: Starting service in environment : local
+2019-01-05 14:21:08 verbose: ---------------------------------------------------------------------
+2019-01-05 14:21:08 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:21:08 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:21:08 verbose: Database Name:        Aurius Database
+2019-01-05 14:21:08 verbose: Node Port:            6142
+2019-01-05 14:21:08 verbose: ---------------------------------------------------------------------
+2019-01-05 14:21:08 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:21:08 info: Aurius CORE Server initiated
+2019-01-05 14:21:08 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:21:08 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:21:08 info: Aurius CORE Server home route initialising
+2019-01-05 14:23:12 info: Winston logging tool initialised
+2019-01-05 14:23:12 debug: Test: Debug message
+2019-01-05 14:23:12 verbose: Test: Verbose message
+2019-01-05 14:23:12 warn: Test: Warning message
+2019-01-05 14:23:12 error: Test: Error message
+2019-01-05 14:23:13 verbose: Starting service in environment : local
+2019-01-05 14:23:13 verbose: ---------------------------------------------------------------------
+2019-01-05 14:23:13 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:23:13 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:23:13 verbose: Database Name:        Aurius Database
+2019-01-05 14:23:13 verbose: Node Port:            6142
+2019-01-05 14:23:13 verbose: ---------------------------------------------------------------------
+2019-01-05 14:23:13 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:23:13 info: Aurius CORE Server initiated
+2019-01-05 14:23:13 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:23:13 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:23:13 info: Aurius CORE Server home route initialising
+2019-01-05 14:28:19 info: Winston logging tool initialised
+2019-01-05 14:28:19 debug: Test: Debug message
+2019-01-05 14:28:19 verbose: Test: Verbose message
+2019-01-05 14:28:19 warn: Test: Warning message
+2019-01-05 14:28:19 error: Test: Error message
+2019-01-05 14:28:20 verbose: Starting service in environment : local
+2019-01-05 14:28:20 verbose: ---------------------------------------------------------------------
+2019-01-05 14:28:20 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:28:20 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:28:20 verbose: Database Name:        Aurius Database
+2019-01-05 14:28:20 verbose: Node Port:            6142
+2019-01-05 14:28:20 verbose: ---------------------------------------------------------------------
+2019-01-05 14:28:20 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:28:20 info: Aurius CORE Server initiated
+2019-01-05 14:28:20 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:28:20 debug: Customer micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:28:20 debug: Customer micro-service 1: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:28:20 debug: Customer micro-service 1: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:28:20 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:28:20 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:28:20 info: Aurius CORE Server home route initialising
+2019-01-05 14:28:54 info: Winston logging tool initialised
+2019-01-05 14:28:54 debug: Test: Debug message
+2019-01-05 14:28:54 verbose: Test: Verbose message
+2019-01-05 14:28:54 warn: Test: Warning message
+2019-01-05 14:28:54 error: Test: Error message
+2019-01-05 14:28:54 verbose: Starting service in environment : local
+2019-01-05 14:28:54 verbose: ---------------------------------------------------------------------
+2019-01-05 14:28:54 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:28:54 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:28:54 verbose: Database Name:        Aurius Database
+2019-01-05 14:28:54 verbose: Node Port:            6142
+2019-01-05 14:28:54 verbose: ---------------------------------------------------------------------
+2019-01-05 14:28:54 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:28:54 info: Aurius CORE Server initiated
+2019-01-05 14:28:54 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:28:54 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:28:54 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:28:54 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:28:54 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:28:54 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:28:54 info: Aurius CORE Server home route initialising
+2019-01-05 14:31:22 info: Winston logging tool initialised
+2019-01-05 14:31:22 debug: Test: Debug message
+2019-01-05 14:31:22 verbose: Test: Verbose message
+2019-01-05 14:31:22 warn: Test: Warning message
+2019-01-05 14:31:22 error: Test: Error message
+2019-01-05 14:31:22 verbose: Starting service in environment : local
+2019-01-05 14:31:22 verbose: ---------------------------------------------------------------------
+2019-01-05 14:31:22 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:31:22 verbose: Description:          Aurius Facade Core Server (LOCAL Environment)
+2019-01-05 14:31:22 verbose: Database Name:        Aurius Database
+2019-01-05 14:31:22 verbose: Node Port:            6142
+2019-01-05 14:31:22 verbose: ---------------------------------------------------------------------
+2019-01-05 14:31:22 debug: env: {"env":"local","hostname":"localhost","port":6142}
+2019-01-05 14:31:22 info: Aurius CORE Server initiated
+2019-01-05 14:31:22 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:31:22 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:31:22 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:31:22 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:31:22 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:31:22 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:31:22 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:31:22 info: Aurius CORE Server home route initialising
+2019-01-05 14:32:51 verbose: Searching for customers containing the string ge
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Berger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Berger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Birger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Bridger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Burgess
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Courage
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : de Angelis
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Enge
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : George
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Gugelmin
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Hansgen
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Langes
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Lunger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Lunger
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Magee
+2019-01-05 14:32:51 debug: Found customer with string 'ge' : Ratzenberger
+2019-01-05 14:32:58 verbose: Searching for customers containing the string get
+2019-01-05 14:33:08 verbose: Searching for customers containing the string gen
+2019-01-05 14:33:08 debug: Found customer with string 'gen' : Hansgen
+2019-01-05 14:33:20 verbose: Searching for customers containing the string es
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Acheson
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Alesi
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Boesel
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Burgess
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Campbell-Jones
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Chaves
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Cheesbourg
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Chiesa
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Claes
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Crespo
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Davies
+2019-01-05 14:33:20 debug: Found customer with string 'es' : de Cesaris
+2019-01-05 14:33:20 debug: Found customer with string 'es' : di Resta
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Dumfries
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Ecclestone
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Fontes
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Friesacher
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Hesnault
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Holmes
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Iglesias
+2019-01-05 14:33:20 debug: Found customer with string 'es' : James
+2019-01-05 14:33:20 debug: Found customer with string 'es' : James
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Jones
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Jones
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Kessel
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Kessler
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Kiesa
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Langes
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Lees
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Leston
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Mairesse
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Mairesse
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Marques
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Mieres
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Miles
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Miles
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Parkes
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Patrese
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Pescarolo
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Pesenti-Rossi
+2019-01-05 14:33:20 debug: Found customer with string 'es' : Quester
+2019-01-05 14:33:25 verbose: Searching for customers containing the string tes
+2019-01-05 14:33:25 debug: Found customer with string 'tes' : Fontes
+2019-01-05 14:33:31 verbose: Searching for customers containing the string nes
+2019-01-05 14:33:31 debug: Found customer with string 'nes' : Campbell-Jones
+2019-01-05 14:33:31 debug: Found customer with string 'nes' : Jones
+2019-01-05 14:33:31 debug: Found customer with string 'nes' : Jones
+2019-01-05 14:42:18 info: Winston logging tool initialised
+2019-01-05 14:42:18 debug: Test: Debug message
+2019-01-05 14:42:18 verbose: Test: Verbose message
+2019-01-05 14:42:18 warn: Test: Warning message
+2019-01-05 14:42:18 error: Test: Error message
+2019-01-05 14:42:18 verbose: Starting service in environment : local
+2019-01-05 14:42:18 verbose: ---------------------------------------------------------------------
+2019-01-05 14:42:18 verbose: Application Name:     Aurius Facade Core Server
+2019-01-05 14:42:18 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:42:18 verbose: Database Name:        Aurius Database
+2019-01-05 14:42:18 verbose: Node Port:            6143
+2019-01-05 14:42:18 verbose: ---------------------------------------------------------------------
+2019-01-05 14:42:18 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:42:18 info: Aurius CORE Server initiated
+2019-01-05 14:42:18 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:42:18 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:42:18 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:42:18 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:42:18 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:42:18 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:42:18 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:42:18 info: Aurius CORE Server home route initialising
+2019-01-05 14:42:55 info: Winston logging tool initialised
+2019-01-05 14:42:55 debug: Test: Debug message
+2019-01-05 14:42:55 verbose: Test: Verbose message
+2019-01-05 14:42:55 warn: Test: Warning message
+2019-01-05 14:42:55 error: Test: Error message
+2019-01-05 14:42:55 verbose: Starting service in environment : local
+2019-01-05 14:42:55 verbose: ---------------------------------------------------------------------
+2019-01-05 14:42:55 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:42:55 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:42:55 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:42:55 verbose: Node Port:            6143
+2019-01-05 14:42:55 verbose: ---------------------------------------------------------------------
+2019-01-05 14:42:55 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:42:55 info: Aurius CORE Server initiated
+2019-01-05 14:42:55 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:42:55 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:42:55 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:42:55 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:42:55 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:42:55 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:42:55 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:42:55 info: Aurius CORE Server home route initialising
+2019-01-05 14:48:12 info: Winston logging tool initialised
+2019-01-05 14:48:12 debug: Test: Debug message
+2019-01-05 14:48:12 verbose: Test: Verbose message
+2019-01-05 14:48:12 warn: Test: Warning message
+2019-01-05 14:48:12 error: Test: Error message
+2019-01-05 14:48:12 verbose: Starting service in environment : local
+2019-01-05 14:48:12 verbose: ---------------------------------------------------------------------
+2019-01-05 14:48:12 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:48:12 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:48:12 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:48:12 verbose: Node Port:            6143
+2019-01-05 14:48:12 verbose: ---------------------------------------------------------------------
+2019-01-05 14:48:12 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:48:12 info: Aurius CORE Server initiated
+2019-01-05 14:48:12 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:48:12 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:48:12 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:48:12 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:48:12 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:48:12 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:48:12 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:48:12 info: Aurius CORE Server home route initialising
+2019-01-05 14:49:13 info: Winston logging tool initialised
+2019-01-05 14:49:13 debug: Test: Debug message
+2019-01-05 14:49:13 verbose: Test: Verbose message
+2019-01-05 14:49:13 warn: Test: Warning message
+2019-01-05 14:49:13 error: Test: Error message
+2019-01-05 14:49:14 verbose: Starting service in environment : local
+2019-01-05 14:49:14 verbose: ---------------------------------------------------------------------
+2019-01-05 14:49:14 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:49:14 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:49:14 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:49:14 verbose: Node Port:            6143
+2019-01-05 14:49:14 verbose: ---------------------------------------------------------------------
+2019-01-05 14:49:14 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:49:14 info: Aurius CORE Server initiated
+2019-01-05 14:49:14 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:49:14 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:49:14 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:49:14 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:49:14 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:49:14 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:49:14 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:49:14 info: Aurius CORE Server home route initialising
+2019-01-05 14:49:14 info: Express server listening on - http://localhost:6143
+2019-01-05 14:51:14 info: Winston logging tool initialised
+2019-01-05 14:51:14 debug: Test: Debug message
+2019-01-05 14:51:14 verbose: Test: Verbose message
+2019-01-05 14:51:14 warn: Test: Warning message
+2019-01-05 14:51:14 error: Test: Error message
+2019-01-05 14:51:14 verbose: Starting service in environment : local
+2019-01-05 14:51:14 verbose: ---------------------------------------------------------------------
+2019-01-05 14:51:14 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:51:14 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:51:14 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:51:14 verbose: Node Port:            6143
+2019-01-05 14:51:14 verbose: ---------------------------------------------------------------------
+2019-01-05 14:51:14 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:51:14 info: Aurius CORE Server initiated
+2019-01-05 14:51:14 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:51:14 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:51:14 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:51:14 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:51:14 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:51:14 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:51:14 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:51:14 info: Aurius CORE Server home route initialising
+2019-01-05 14:51:14 info: Express server listening on - http://localhost:6143
+2019-01-05 14:52:57 info: Winston logging tool initialised
+2019-01-05 14:52:57 debug: Test: Debug message
+2019-01-05 14:52:57 verbose: Test: Verbose message
+2019-01-05 14:52:57 warn: Test: Warning message
+2019-01-05 14:52:57 error: Test: Error message
+2019-01-05 14:52:57 verbose: Starting service in environment : local
+2019-01-05 14:52:57 verbose: ---------------------------------------------------------------------
+2019-01-05 14:52:57 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:52:57 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:52:57 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:52:57 verbose: Node Port:            6143
+2019-01-05 14:52:57 verbose: ---------------------------------------------------------------------
+2019-01-05 14:52:57 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:52:57 info: Aurius CORE Server initiated
+2019-01-05 14:52:57 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:52:57 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:52:57 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:52:57 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:52:57 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:52:57 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:52:57 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:52:57 info: Aurius CORE Server home route initialising
+2019-01-05 14:52:57 info: Express server listening on - http://localhost:6143
+2019-01-05 14:54:45 info: Winston logging tool initialised
+2019-01-05 14:54:45 debug: Test: Debug message
+2019-01-05 14:54:45 verbose: Test: Verbose message
+2019-01-05 14:54:45 warn: Test: Warning message
+2019-01-05 14:54:45 error: Test: Error message
+2019-01-05 14:54:45 verbose: Starting service in environment : local
+2019-01-05 14:54:45 verbose: ---------------------------------------------------------------------
+2019-01-05 14:54:45 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:54:45 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:54:45 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:54:45 verbose: Node Port:            6143
+2019-01-05 14:54:45 verbose: ---------------------------------------------------------------------
+2019-01-05 14:54:45 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:54:45 info: Aurius CORE Server initiated
+2019-01-05 14:54:45 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:54:45 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:54:45 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:54:45 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:54:45 info: Aurius CORE Server customer routes initialising
+2019-01-05 14:54:45 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:54:45 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:54:45 info: Aurius CORE Server home route initialising
+2019-01-05 14:54:45 info: Express server listening on - http://localhost:6143
+2019-01-05 14:55:28 info: Winston logging tool initialised
+2019-01-05 14:55:29 debug: Test: Debug message
+2019-01-05 14:55:29 verbose: Test: Verbose message
+2019-01-05 14:55:29 warn: Test: Warning message
+2019-01-05 14:55:29 error: Test: Error message
+2019-01-05 14:55:29 verbose: Starting service in environment : local
+2019-01-05 14:55:29 verbose: ---------------------------------------------------------------------
+2019-01-05 14:55:29 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:55:29 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:55:29 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:55:29 verbose: Node Port:            6143
+2019-01-05 14:55:29 verbose: ---------------------------------------------------------------------
+2019-01-05 14:55:29 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:55:29 info: Aurius CORE Server initiated
+2019-01-05 14:55:29 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:55:29 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:55:29 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:55:29 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:55:29 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:55:29 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:55:29 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:55:29 info: Aurius CORE Server home route initialising
+2019-01-05 14:55:29 info: Express server listening on - http://localhost:6143
+2019-01-05 14:56:00 info: Winston logging tool initialised
+2019-01-05 14:56:00 debug: Test: Debug message
+2019-01-05 14:56:00 verbose: Test: Verbose message
+2019-01-05 14:56:00 warn: Test: Warning message
+2019-01-05 14:56:00 error: Test: Error message
+2019-01-05 14:56:00 verbose: Starting service in environment : local
+2019-01-05 14:56:00 verbose: ---------------------------------------------------------------------
+2019-01-05 14:56:00 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:56:00 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:56:00 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:56:00 verbose: Node Port:            6143
+2019-01-05 14:56:00 verbose: ---------------------------------------------------------------------
+2019-01-05 14:56:00 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:56:00 info: Aurius CORE Server initiated
+2019-01-05 14:56:00 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:56:00 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:56:00 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:56:00 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:56:00 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:56:00 info: Aurius CORE Server defining routes for home micro-services
+2019-01-05 14:56:01 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:56:01 info: CAF BI CORE Server home route initialising
+2019-01-05 14:56:01 info: Express server listening on - http://localhost:6143
+2019-01-05 14:56:56 info: Winston logging tool initialised
+2019-01-05 14:56:56 debug: Test: Debug message
+2019-01-05 14:56:56 verbose: Test: Verbose message
+2019-01-05 14:56:56 warn: Test: Warning message
+2019-01-05 14:56:56 error: Test: Error message
+2019-01-05 14:56:56 verbose: Starting service in environment : local
+2019-01-05 14:56:56 verbose: ---------------------------------------------------------------------
+2019-01-05 14:56:56 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:56:56 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:56:56 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:56:56 verbose: Node Port:            6143
+2019-01-05 14:56:56 verbose: ---------------------------------------------------------------------
+2019-01-05 14:56:56 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:56:56 info: Aurius CORE Server initiated
+2019-01-05 14:56:56 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:56:56 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:56:56 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:56:56 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:56:56 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:56:56 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 14:56:56 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:56:56 info: CAF BI CORE Server home route initialising
+2019-01-05 14:56:56 info: Express server listening on - http://localhost:6143
+2019-01-05 14:58:07 info: Winston logging tool initialised
+2019-01-05 14:58:07 debug: Test: Debug message
+2019-01-05 14:58:07 verbose: Test: Verbose message
+2019-01-05 14:58:07 warn: Test: Warning message
+2019-01-05 14:58:07 error: Test: Error message
+2019-01-05 14:58:07 verbose: Starting service in environment : local
+2019-01-05 14:58:07 verbose: ---------------------------------------------------------------------
+2019-01-05 14:58:07 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:58:07 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:58:07 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:58:07 verbose: Node Port:            6143
+2019-01-05 14:58:07 verbose: ---------------------------------------------------------------------
+2019-01-05 14:58:07 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:58:07 info: Aurius CORE Server initiated
+2019-01-05 14:58:07 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:58:07 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:58:07 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:58:07 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:58:07 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:58:07 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 14:58:07 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:58:07 info: CAF BI CORE Server home route initialising
+2019-01-05 14:58:07 info: Express server listening on - http://localhost:6143
+2019-01-05 14:58:20 info: Winston logging tool initialised
+2019-01-05 14:58:20 debug: Test: Debug message
+2019-01-05 14:58:20 verbose: Test: Verbose message
+2019-01-05 14:58:20 warn: Test: Warning message
+2019-01-05 14:58:20 error: Test: Error message
+2019-01-05 14:58:21 verbose: Starting service in environment : local
+2019-01-05 14:58:21 verbose: ---------------------------------------------------------------------
+2019-01-05 14:58:21 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:58:21 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:58:21 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:58:21 verbose: Node Port:            6143
+2019-01-05 14:58:21 verbose: ---------------------------------------------------------------------
+2019-01-05 14:58:21 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:58:21 info: Aurius CORE Server initiated
+2019-01-05 14:58:21 info: Aurius CORE Server defining routes for customer micro-services
+2019-01-05 14:58:21 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:58:21 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:58:21 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:58:21 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:58:21 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 14:58:21 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:58:21 info: CAF BI CORE Server home route initialising
+2019-01-05 14:58:21 info: Express server listening on - http://localhost:6143
+2019-01-05 14:59:22 info: Winston logging tool initialised
+2019-01-05 14:59:22 debug: Test: Debug message
+2019-01-05 14:59:22 verbose: Test: Verbose message
+2019-01-05 14:59:22 warn: Test: Warning message
+2019-01-05 14:59:22 error: Test: Error message
+2019-01-05 14:59:22 verbose: Starting service in environment : local
+2019-01-05 14:59:22 verbose: ---------------------------------------------------------------------
+2019-01-05 14:59:22 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 14:59:22 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 14:59:22 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 14:59:22 verbose: Node Port:            6143
+2019-01-05 14:59:22 verbose: ---------------------------------------------------------------------
+2019-01-05 14:59:23 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 14:59:23 info: Aurius CORE Server initiated
+2019-01-05 14:59:23 info: CAF BI CORE Server defining routes for customer micro-services
+2019-01-05 14:59:23 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 14:59:23 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 14:59:23 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 14:59:23 info: CAF BI CORE Server customer routes initialising
+2019-01-05 14:59:23 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 14:59:23 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 14:59:23 info: CAF BI CORE Server home route initialising
+2019-01-05 14:59:23 info: Express server listening on - http://localhost:6143
+2019-01-05 15:01:13 info: Winston logging tool initialised
+2019-01-05 15:01:13 debug: Test: Debug message
+2019-01-05 15:01:13 verbose: Test: Verbose message
+2019-01-05 15:01:13 warn: Test: Warning message
+2019-01-05 15:01:13 error: Test: Error message
+2019-01-05 15:01:13 verbose: Starting service in environment : local
+2019-01-05 15:01:13 verbose: ---------------------------------------------------------------------
+2019-01-05 15:01:13 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 15:01:13 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 15:01:13 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 15:01:13 verbose: Node Port:            6143
+2019-01-05 15:01:13 verbose: ---------------------------------------------------------------------
+2019-01-05 15:01:13 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 15:01:13 info: Aurius CORE Server initiated
+2019-01-05 15:01:13 info: CAF BI CORE Server defining routes for customer micro-services
+2019-01-05 15:01:13 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 15:01:13 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 15:01:13 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 15:01:13 info: CAF BI CORE Server customer routes initialising
+2019-01-05 15:01:13 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 15:01:13 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 15:01:13 info: CAF BI CORE Server home route initialising
+2019-01-05 15:01:13 info: Express server listening on - http://localhost:6143
+2019-01-05 15:01:46 info: Winston logging tool initialised
+2019-01-05 15:01:46 debug: Test: Debug message
+2019-01-05 15:01:46 verbose: Test: Verbose message
+2019-01-05 15:01:46 warn: Test: Warning message
+2019-01-05 15:01:46 error: Test: Error message
+2019-01-05 15:01:47 verbose: Starting service in environment : local
+2019-01-05 15:01:47 verbose: ---------------------------------------------------------------------
+2019-01-05 15:01:47 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 15:01:47 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 15:01:47 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 15:01:47 verbose: Node Port:            6143
+2019-01-05 15:01:47 verbose: ---------------------------------------------------------------------
+2019-01-05 15:01:47 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 15:01:47 info: CAF BI CORE Server initiated
+2019-01-05 15:01:47 info: CAF BI CORE Server defining routes for customer micro-services
+2019-01-05 15:01:47 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 15:01:47 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 15:01:47 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 15:01:47 info: CAF BI CORE Server customer routes initialising
+2019-01-05 15:01:47 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 15:01:47 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 15:01:47 info: CAF BI CORE Server home route initialising
+2019-01-05 15:01:47 info: Express server listening on - http://localhost:6143
+2019-01-05 15:07:19 verbose: Searching for customers containing the string nes
+2019-01-05 15:07:19 debug: Found customer with string 'nes' : Campbell-Jones
+2019-01-05 15:07:19 debug: Found customer with string 'nes' : Jones
+2019-01-05 15:07:19 debug: Found customer with string 'nes' : Jones
+2019-01-05 15:09:04 info: Winston logging tool initialised
+2019-01-05 15:09:04 debug: Test: Debug message
+2019-01-05 15:09:04 verbose: Test: Verbose message
+2019-01-05 15:09:04 warn: Test: Warning message
+2019-01-05 15:09:04 error: Test: Error message
+2019-01-05 15:09:05 verbose: Starting service in environment : local
+2019-01-05 15:09:05 verbose: ---------------------------------------------------------------------
+2019-01-05 15:09:05 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 15:09:05 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 15:09:05 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 15:09:05 verbose: Node Port:            6143
+2019-01-05 15:09:05 verbose: ---------------------------------------------------------------------
+2019-01-05 15:09:05 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 15:09:05 info: CAF BI CORE Server initiated
+2019-01-05 15:09:05 info: CAF BI CORE Server defining routes for customer micro-services
+2019-01-05 15:09:05 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 15:09:05 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 15:09:05 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 15:09:05 info: CAF BI CORE Server customer routes initialising
+2019-01-05 15:09:05 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 15:09:05 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 15:09:05 info: CAF BI CORE Server home route initialising
+2019-01-05 15:09:05 info: Express server listening on - http://localhost:6143
+2019-01-05 15:09:56 info: Winston logging tool initialised
+2019-01-05 15:09:56 debug: Test: Debug message
+2019-01-05 15:09:56 verbose: Test: Verbose message
+2019-01-05 15:09:56 warn: Test: Warning message
+2019-01-05 15:09:56 error: Test: Error message
+2019-01-05 15:09:57 verbose: Starting service in environment : local
+2019-01-05 15:09:57 verbose: ---------------------------------------------------------------------
+2019-01-05 15:09:57 verbose: Application Name:     CAF BI Facade Core Server (proxy for ALFA)
+2019-01-05 15:09:57 verbose: Description:          CAF BI Facade Core Server (LOCAL Environment)
+2019-01-05 15:09:57 verbose: Database Name:        CAF BI Operational Data Store (SQL Server)
+2019-01-05 15:09:57 verbose: Node Port:            6143
+2019-01-05 15:09:57 verbose: ---------------------------------------------------------------------
+2019-01-05 15:09:57 debug: env: {"env":"local","hostname":"localhost","port":6143}
+2019-01-05 15:09:57 info: CAF BI CORE Server initiated
+2019-01-05 15:09:57 info: CAF BI CORE Server defining routes for customer micro-services
+2019-01-05 15:09:57 debug: Micro-service 1: GET: Customers (will return first N customers)
+2019-01-05 15:09:57 debug: Micro-service 2: GET: Customer Search ?qs (will customers containing designated string)
+2019-01-05 15:09:57 debug: Micro-service 3: GET: Customer with ID (will return customer with designated ID)
+2019-01-05 15:09:57 info: CAF BI CORE Server customer routes initialising
+2019-01-05 15:09:57 info: CAF BI CORE Server defining routes for home micro-services
+2019-01-05 15:09:57 debug: Micro-service 1: GET: Home (will return home (navigation) payload)
+2019-01-05 15:09:57 info: CAF BI CORE Server home route initialising
+2019-01-05 15:09:57 info: Express server listening on - http://localhost:6143
+2019-01-05 15:10:35 verbose: Searching for customers containing the string nes
+2019-01-05 15:10:35 debug: Found customer with string 'nes' : Campbell-Jones (CAF BI)
+2019-01-05 15:10:35 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:35 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:37 verbose: Searching for customers containing the string nes
+2019-01-05 15:10:37 debug: Found customer with string 'nes' : Campbell-Jones (CAF BI)
+2019-01-05 15:10:37 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:37 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:41 verbose: Searching for customers containing the string nes
+2019-01-05 15:10:41 debug: Found customer with string 'nes' : Campbell-Jones (CAF BI)
+2019-01-05 15:10:41 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:41 debug: Found customer with string 'nes' : Jones (CAF BI)
+2019-01-05 15:10:46 verbose: Searching for customers containing the string ne
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Baumgartner (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Bonetto (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Bussinello (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Byrne (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Campbell-Jones (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Constantine (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Danner (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Donnelly (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Ecclestone (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Faulkner (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Gardner (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Gartner (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Greene (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Gurney (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Hahne (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Häkkinen (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Irvine (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Johnstone (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Jones (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Jones (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Kennedy (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Kinnunen (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Kovalainen (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Lucienbonnet (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Mazzacane (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : McAlpine (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Parnell (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Parnell (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Räikkönen (CAF BI)
+2019-01-05 15:10:46 debug: Found customer with string 'ne' : Raphanel (CAF BI)
+2019-01-05 15:10:53 verbose: Searching for customers containing the string ned
+2019-01-05 15:10:53 debug: Found customer with string 'ned' : Kennedy (CAF BI)
+2019-01-05 15:58:26 verbose: Check CAF BI core service GET:/cafbi responding to client
+2019-01-05 15:58:39 verbose: Check CAF BI core service GET:/cafbi responding to client
+2019-01-05 15:58:41 verbose: Check CAF BI core service GET:/cafbi responding to client
+2019-01-05 16:00:28 verbose: Check CAF BI core service GET:/cafbi responding to client

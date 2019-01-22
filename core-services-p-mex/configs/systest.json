@@ -1,0 +1,12 @@
+{
+      "thisenv": {
+           "config_id" : "systest",
+           "hostname"  : "mikeysubuntu",
+           "app_desc"  : "P-Mex Core Server (SYSTEM TESTING Environment)",
+           "node_port" : 6395,
+           "database"  : "<Server Name of the Dev Env Model Store>"
+      },
+      "corehosts": {
+           "self":         { "href": "http://localhost:6395" }
+      }
+}

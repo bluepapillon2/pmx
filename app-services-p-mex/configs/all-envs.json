@@ -1,0 +1,14 @@
+{
+      "roots": {
+           "self":         { "href": "/mexapp-api" },
+           "auriusCore":   { "href": "/aurius-api" },
+           "cafbiCore":    { "href": "/cafbi-api"},
+           "motorCore":    { "href": "/motor-api"},
+           "cdsCore":      { "href": "/cds-api" },
+           "pMexCore":     { "href": "/p-mex-api" }
+      },
+      "base": {
+           "app_name": "P-Mex Application Server",
+           "database": "NONE - app server mediates between UI and Core Services"
+      }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "project-1-test",
+  "version": "1.0.0",
+  "description": "package.json created for test project",
+  "main": "app-server.js",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "js-hash-code": "^1.0.0",
+    "lodash": "^4.17.11",
+    "multer": "^1.4.1",
+    "node-datetime": "^2.1.2",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.5.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test-services"
+  },
+  "keywords": [
+    "Mike"
+  ],
+  "author": "Michael Berry",
+  "license": "ISC"
+}

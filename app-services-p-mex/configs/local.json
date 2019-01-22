@@ -1,0 +1,16 @@
+{
+      "thisenv": {
+           "config_id": "local",
+           "hostname" : "localhost",
+           "app_desc" : "P-Mex Application Server (LOCAL Environment)",
+           "node_port": 6111
+      },
+      "corehosts": {
+           "self":         { "href": "http://localhost:6111" },
+           "auriusCore":   { "href": "http://localhost:6142" },
+           "cafbiCore":    { "href": "http://localhost:6143" },
+           "motorCore":    { "href": "http://localhost:6144" },
+           "pMexCore":     { "href": "http://localhost:6195" },
+           "cdsCore":      { "href": "http://localhost:6196" }
+      }
+}

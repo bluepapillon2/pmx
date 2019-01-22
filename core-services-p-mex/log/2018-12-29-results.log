@@ -1,0 +1,314 @@
+2018-12-29 15:58:17 info: Winston logging tool initialised
+2018-12-29 15:58:17 debug: Test: Debug message
+2018-12-29 15:58:17 verbose: Test: Verbose message
+2018-12-29 15:58:17 warn: Test: Warning message
+2018-12-29 15:58:17 error: Test: Error message
+2018-12-29 15:58:18 info: P-Mex CORE Server initiated
+2018-12-29 15:58:18 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 15:58:18 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:03:48 info: Winston logging tool initialised
+2018-12-29 16:03:48 debug: Test: Debug message
+2018-12-29 16:03:48 verbose: Test: Verbose message
+2018-12-29 16:03:48 warn: Test: Warning message
+2018-12-29 16:03:48 error: Test: Error message
+2018-12-29 16:03:48 verbose: Starting service in environment : undefined
+2018-12-29 16:03:48 info: P-Mex CORE Server initiated
+2018-12-29 16:03:48 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:03:48 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:12:41 info: Winston logging tool initialised
+2018-12-29 16:12:41 debug: Test: Debug message
+2018-12-29 16:12:41 verbose: Test: Verbose message
+2018-12-29 16:12:41 warn: Test: Warning message
+2018-12-29 16:12:41 error: Test: Error message
+2018-12-29 16:12:41 verbose: Starting service in environment : local
+2018-12-29 16:12:41 info: P-Mex CORE Server initiated
+2018-12-29 16:12:41 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:12:41 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:15:35 info: Winston logging tool initialised
+2018-12-29 16:15:35 debug: Test: Debug message
+2018-12-29 16:15:35 verbose: Test: Verbose message
+2018-12-29 16:15:35 warn: Test: Warning message
+2018-12-29 16:15:35 error: Test: Error message
+2018-12-29 16:15:35 verbose: Starting service in environment : local
+2018-12-29 16:15:35 debug: Application Name:     P-Mex Core Server
+2018-12-29 16:15:35 debug: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:15:35 debug: Database:             undefined
+2018-12-29 16:15:35 debug: Node Port:            6195
+2018-12-29 16:15:35 info: P-Mex CORE Server initiated
+2018-12-29 16:15:35 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:15:35 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:16:02 info: Winston logging tool initialised
+2018-12-29 16:16:02 debug: Test: Debug message
+2018-12-29 16:16:02 verbose: Test: Verbose message
+2018-12-29 16:16:02 warn: Test: Warning message
+2018-12-29 16:16:02 error: Test: Error message
+2018-12-29 16:16:02 verbose: Starting service in environment : local
+2018-12-29 16:16:02 debug: Application Name:     P-Mex Core Server
+2018-12-29 16:16:02 debug: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:16:02 debug: Database:             Model Store
+2018-12-29 16:16:02 debug: Node Port:            6195
+2018-12-29 16:16:02 info: P-Mex CORE Server initiated
+2018-12-29 16:16:02 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:16:02 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:19:21 info: Winston logging tool initialised
+2018-12-29 16:19:21 debug: Test: Debug message
+2018-12-29 16:19:21 verbose: Test: Verbose message
+2018-12-29 16:19:21 warn: Test: Warning message
+2018-12-29 16:19:21 error: Test: Error message
+2018-12-29 16:19:21 verbose: Starting service in environment : local
+2018-12-29 16:19:21 verbose: ---------------------------------------------------------------------
+2018-12-29 16:19:21 debug: Application Name:     P-Mex Core Server
+2018-12-29 16:19:21 debug: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:19:21 debug: Database Name:        Model Store
+2018-12-29 16:19:21 debug: Node Port:            6195
+2018-12-29 16:19:21 verbose: ---------------------------------------------------------------------
+2018-12-29 16:19:21 info: P-Mex CORE Server initiated
+2018-12-29 16:19:21 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:19:21 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:22:17 info: Winston logging tool initialised
+2018-12-29 16:22:17 debug: Test: Debug message
+2018-12-29 16:22:17 verbose: Test: Verbose message
+2018-12-29 16:22:17 warn: Test: Warning message
+2018-12-29 16:22:17 error: Test: Error message
+2018-12-29 16:22:17 verbose: Starting service in environment : local
+2018-12-29 16:22:17 verbose: ---------------------------------------------------------------------
+2018-12-29 16:22:17 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:22:17 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:22:17 verbose: Database Name:        Model Store
+2018-12-29 16:22:17 verbose: Node Port:            6195
+2018-12-29 16:22:17 verbose: ---------------------------------------------------------------------
+2018-12-29 16:22:17 info: P-Mex CORE Server initiated
+2018-12-29 16:22:17 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:22:17 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:22:59 info: Winston logging tool initialised
+2018-12-29 16:22:59 debug: Test: Debug message
+2018-12-29 16:22:59 verbose: Test: Verbose message
+2018-12-29 16:22:59 warn: Test: Warning message
+2018-12-29 16:22:59 error: Test: Error message
+2018-12-29 16:22:59 verbose: Starting service in environment : local
+2018-12-29 16:22:59 verbose: ---------------------------------------------------------------------
+2018-12-29 16:22:59 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:22:59 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:22:59 verbose: Database Name:        Model Store
+2018-12-29 16:22:59 verbose: Node Port:            6195
+2018-12-29 16:22:59 verbose: ---------------------------------------------------------------------
+2018-12-29 16:22:59 info: P-Mex CORE Server initiated
+2018-12-29 16:22:59 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:22:59 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:23:02 info: Winston logging tool initialised
+2018-12-29 16:23:02 debug: Test: Debug message
+2018-12-29 16:23:02 verbose: Test: Verbose message
+2018-12-29 16:23:02 warn: Test: Warning message
+2018-12-29 16:23:02 error: Test: Error message
+2018-12-29 16:23:02 verbose: Starting service in environment : local
+2018-12-29 16:23:03 verbose: ---------------------------------------------------------------------
+2018-12-29 16:23:03 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:23:03 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:23:03 verbose: Database Name:        Model Store
+2018-12-29 16:23:03 verbose: Node Port:            6195
+2018-12-29 16:23:03 verbose: ---------------------------------------------------------------------
+2018-12-29 16:23:03 info: P-Mex CORE Server initiated
+2018-12-29 16:23:03 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:23:03 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:26:03 info: Winston logging tool initialised
+2018-12-29 16:26:03 debug: Test: Debug message
+2018-12-29 16:26:03 verbose: Test: Verbose message
+2018-12-29 16:26:03 warn: Test: Warning message
+2018-12-29 16:26:03 error: Test: Error message
+2018-12-29 16:26:03 verbose: Starting service in environment : local
+2018-12-29 16:26:03 verbose: ---------------------------------------------------------------------
+2018-12-29 16:26:03 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:26:03 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:26:03 verbose: Database Name:        Model Store
+2018-12-29 16:26:03 verbose: Node Port:            6195
+2018-12-29 16:26:03 verbose: ---------------------------------------------------------------------
+2018-12-29 16:26:03 info: P-Mex CORE Server initiated
+2018-12-29 16:26:03 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:26:03 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:55:18 info: Winston logging tool initialised
+2018-12-29 16:55:18 debug: Test: Debug message
+2018-12-29 16:55:18 verbose: Test: Verbose message
+2018-12-29 16:55:18 warn: Test: Warning message
+2018-12-29 16:55:18 error: Test: Error message
+2018-12-29 16:55:18 verbose: Starting service in environment : local
+2018-12-29 16:55:18 verbose: ---------------------------------------------------------------------
+2018-12-29 16:55:18 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:55:18 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:55:18 verbose: Database Name:        Model Store
+2018-12-29 16:55:18 verbose: Node Port:            6195
+2018-12-29 16:55:18 verbose: ---------------------------------------------------------------------
+2018-12-29 16:55:18 debug: env: {"env":"local","port":6195}
+2018-12-29 16:55:18 info: P-Mex CORE Server initiated
+2018-12-29 16:55:18 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:55:18 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:57:06 info: Winston logging tool initialised
+2018-12-29 16:57:06 debug: Test: Debug message
+2018-12-29 16:57:06 verbose: Test: Verbose message
+2018-12-29 16:57:06 warn: Test: Warning message
+2018-12-29 16:57:06 error: Test: Error message
+2018-12-29 16:57:06 verbose: Starting service in environment : local
+2018-12-29 16:57:06 verbose: ---------------------------------------------------------------------
+2018-12-29 16:57:06 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:57:06 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:57:06 verbose: Database Name:        Model Store
+2018-12-29 16:57:06 verbose: Node Port:            6195
+2018-12-29 16:57:06 verbose: ---------------------------------------------------------------------
+2018-12-29 16:57:06 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-29 16:57:06 info: P-Mex CORE Server initiated
+2018-12-29 16:57:06 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:57:06 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 16:58:48 info: Winston logging tool initialised
+2018-12-29 16:58:48 debug: Test: Debug message
+2018-12-29 16:58:48 verbose: Test: Verbose message
+2018-12-29 16:58:48 warn: Test: Warning message
+2018-12-29 16:58:48 error: Test: Error message
+2018-12-29 16:58:48 verbose: Starting service in environment : local
+2018-12-29 16:58:48 verbose: ---------------------------------------------------------------------
+2018-12-29 16:58:48 verbose: Application Name:     P-Mex Core Server
+2018-12-29 16:58:48 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 16:58:48 verbose: Database Name:        Model Store
+2018-12-29 16:58:48 verbose: Node Port:            6195
+2018-12-29 16:58:48 verbose: ---------------------------------------------------------------------
+2018-12-29 16:58:48 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-29 16:58:48 info: P-Mex CORE Server initiated
+2018-12-29 16:58:48 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 16:58:48 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:01:20 info: Winston logging tool initialised
+2018-12-29 17:01:20 debug: Test: Debug message
+2018-12-29 17:01:20 verbose: Test: Verbose message
+2018-12-29 17:01:20 warn: Test: Warning message
+2018-12-29 17:01:20 error: Test: Error message
+2018-12-29 17:01:20 verbose: Starting service in environment : local
+2018-12-29 17:01:20 verbose: ---------------------------------------------------------------------
+2018-12-29 17:01:20 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:01:20 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 17:01:20 verbose: Database Name:        Model Store
+2018-12-29 17:01:20 verbose: Node Port:            6195
+2018-12-29 17:01:20 verbose: ---------------------------------------------------------------------
+2018-12-29 17:01:20 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-29 17:01:20 info: P-Mex CORE Server initiated
+2018-12-29 17:01:20 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:01:20 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:01:20 info: Express server listening on - http://localhost:6195
+2018-12-29 17:05:27 info: Winston logging tool initialised
+2018-12-29 17:05:27 debug: Test: Debug message
+2018-12-29 17:05:27 verbose: Test: Verbose message
+2018-12-29 17:05:27 warn: Test: Warning message
+2018-12-29 17:05:27 error: Test: Error message
+2018-12-29 17:05:27 verbose: Starting service in environment : development
+2018-12-29 17:05:27 verbose: ---------------------------------------------------------------------
+2018-12-29 17:05:27 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:05:27 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 17:05:27 verbose: Database Name:        Model Store
+2018-12-29 17:05:27 verbose: Node Port:            6195
+2018-12-29 17:05:27 verbose: ---------------------------------------------------------------------
+2018-12-29 17:05:27 debug: env: {"env":"development","hostname":"localhost","port":6195}
+2018-12-29 17:05:27 info: P-Mex CORE Server initiated
+2018-12-29 17:05:27 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:05:27 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:05:27 info: Express server listening on - http://localhost:6195
+2018-12-29 17:06:13 info: Winston logging tool initialised
+2018-12-29 17:06:13 debug: Test: Debug message
+2018-12-29 17:06:13 verbose: Test: Verbose message
+2018-12-29 17:06:13 warn: Test: Warning message
+2018-12-29 17:06:13 error: Test: Error message
+2018-12-29 17:06:13 verbose: Starting service in environment : development
+2018-12-29 17:06:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:06:13 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:06:13 verbose: Description:          P-Mex Core Server (DEVELOPMENT Environment)
+2018-12-29 17:06:13 verbose: Database Name:        Model Store
+2018-12-29 17:06:13 verbose: Node Port:            6295
+2018-12-29 17:06:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:06:13 debug: env: {"env":"development","hostname":"localhost","port":6295}
+2018-12-29 17:06:13 info: P-Mex CORE Server initiated
+2018-12-29 17:06:13 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:06:13 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:06:13 info: Express server listening on - http://localhost:6295
+2018-12-29 17:07:13 info: Winston logging tool initialised
+2018-12-29 17:07:13 debug: Test: Debug message
+2018-12-29 17:07:13 verbose: Test: Verbose message
+2018-12-29 17:07:13 warn: Test: Warning message
+2018-12-29 17:07:13 error: Test: Error message
+2018-12-29 17:07:13 verbose: Starting service in environment : development
+2018-12-29 17:07:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:07:13 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:07:13 verbose: Description:          P-Mex Core Server (DEVELOPMENT Environment)
+2018-12-29 17:07:13 verbose: Database Name:        Model Store
+2018-12-29 17:07:13 verbose: Node Port:            6295
+2018-12-29 17:07:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:07:13 debug: env: {"env":"development","hostname":"localhost","port":6295}
+2018-12-29 17:07:13 info: P-Mex CORE Server initiated
+2018-12-29 17:07:13 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:07:13 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:07:13 info: Express server listening on - http://localhost:6295
+2018-12-29 17:07:25 info: Winston logging tool initialised
+2018-12-29 17:07:25 debug: Test: Debug message
+2018-12-29 17:07:25 verbose: Test: Verbose message
+2018-12-29 17:07:25 warn: Test: Warning message
+2018-12-29 17:07:25 error: Test: Error message
+2018-12-29 17:07:25 verbose: Starting service in environment : development
+2018-12-29 17:07:25 verbose: ---------------------------------------------------------------------
+2018-12-29 17:07:25 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:07:25 verbose: Description:          P-Mex Core Server (DEVELOPMENT Environment)
+2018-12-29 17:07:25 verbose: Database Name:        Model Store
+2018-12-29 17:07:25 verbose: Node Port:            6295
+2018-12-29 17:07:25 verbose: ---------------------------------------------------------------------
+2018-12-29 17:07:25 debug: env: {"env":"development","hostname":"localhost","port":6295}
+2018-12-29 17:07:25 info: P-Mex CORE Server initiated
+2018-12-29 17:07:25 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:07:25 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:07:25 info: Express server listening on - http://localhost:6295
+2018-12-29 17:08:12 info: Winston logging tool initialised
+2018-12-29 17:08:12 debug: Test: Debug message
+2018-12-29 17:08:12 verbose: Test: Verbose message
+2018-12-29 17:08:12 warn: Test: Warning message
+2018-12-29 17:08:12 error: Test: Error message
+2018-12-29 17:08:13 verbose: Starting service in environment : development
+2018-12-29 17:08:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:08:13 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:08:13 verbose: Description:          P-Mex Core Server (DEVELOPMENT Environment)
+2018-12-29 17:08:13 verbose: Database Name:        Model Store
+2018-12-29 17:08:13 verbose: Node Port:            6295
+2018-12-29 17:08:13 verbose: ---------------------------------------------------------------------
+2018-12-29 17:08:13 debug: env: {"env":"development","hostname":"localhost","port":6295}
+2018-12-29 17:08:13 info: P-Mex CORE Server initiated
+2018-12-29 17:08:13 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:08:13 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:08:13 info: Express server listening on - http://localhost:6295
+2018-12-29 17:08:31 info: Winston logging tool initialised
+2018-12-29 17:08:31 debug: Test: Debug message
+2018-12-29 17:08:31 verbose: Test: Verbose message
+2018-12-29 17:08:31 warn: Test: Warning message
+2018-12-29 17:08:31 error: Test: Error message
+2018-12-29 17:08:31 verbose: Starting service in environment : systest
+2018-12-29 17:08:31 verbose: ---------------------------------------------------------------------
+2018-12-29 17:08:31 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:08:31 verbose: Description:          P-Mex Core Server (SYSTEM TESTING Environment)
+2018-12-29 17:08:31 verbose: Database Name:        Model Store
+2018-12-29 17:08:31 verbose: Node Port:            6395
+2018-12-29 17:08:31 verbose: ---------------------------------------------------------------------
+2018-12-29 17:08:31 debug: env: {"env":"systest","hostname":"mikeysubuntu","port":6395}
+2018-12-29 17:08:31 info: P-Mex CORE Server initiated
+2018-12-29 17:08:31 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:08:31 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:08:31 info: Express server listening on - http://mikeysubuntu:6395
+2018-12-29 17:13:01 info: Winston logging tool initialised
+2018-12-29 17:13:01 debug: Test: Debug message
+2018-12-29 17:13:01 verbose: Test: Verbose message
+2018-12-29 17:13:01 warn: Test: Warning message
+2018-12-29 17:13:01 error: Test: Error message
+2018-12-29 17:13:02 verbose: Starting service in environment : local
+2018-12-29 17:13:02 verbose: ---------------------------------------------------------------------
+2018-12-29 17:13:02 verbose: Application Name:     P-Mex Core Server
+2018-12-29 17:13:02 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2018-12-29 17:13:02 verbose: Database Name:        Model Store
+2018-12-29 17:13:02 verbose: Node Port:            6195
+2018-12-29 17:13:02 verbose: ---------------------------------------------------------------------
+2018-12-29 17:13:02 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2018-12-29 17:13:02 info: P-Mex CORE Server initiated
+2018-12-29 17:13:02 info: P-Mex CORE Server defining routes for home micro-services
+2018-12-29 17:13:02 info: P-Mex CORE Server defining routes for models micro-services
+2018-12-29 17:13:02 info: Express server listening on - http://localhost:6195
+2018-12-29 17:13:15 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-29 17:13:25 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2018-12-29 17:13:31 info: Retrieve models.  GET:/api/models responding to client

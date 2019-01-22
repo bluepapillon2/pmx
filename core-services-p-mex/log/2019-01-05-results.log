@@ -1,0 +1,57 @@
+2019-01-05 09:49:54 info: Winston logging tool initialised
+2019-01-05 09:49:54 debug: Test: Debug message
+2019-01-05 09:49:54 verbose: Test: Verbose message
+2019-01-05 09:49:54 warn: Test: Warning message
+2019-01-05 09:49:54 error: Test: Error message
+2019-01-05 09:49:54 verbose: Starting service in environment : local
+2019-01-05 09:49:54 verbose: ---------------------------------------------------------------------
+2019-01-05 09:49:54 verbose: Application Name:     P-Mex Core Server
+2019-01-05 09:49:54 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2019-01-05 09:49:54 verbose: Database Name:        Model Store
+2019-01-05 09:49:54 verbose: Node Port:            6195
+2019-01-05 09:49:54 verbose: ---------------------------------------------------------------------
+2019-01-05 09:49:54 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2019-01-05 09:49:54 info: P-Mex CORE Server initiated
+2019-01-05 09:49:54 info: P-Mex CORE Server defining routes for home micro-services
+2019-01-05 09:49:54 info: P-Mex CORE Server defining routes for models micro-services
+2019-01-05 09:49:54 info: P-Mex CORE Server defining routes for model execution micro-services
+2019-01-05 09:49:54 info: Express server listening on - http://localhost:6195
+2019-01-05 10:26:20 info: Winston logging tool initialised
+2019-01-05 10:26:20 debug: Test: Debug message
+2019-01-05 10:26:20 verbose: Test: Verbose message
+2019-01-05 10:26:20 warn: Test: Warning message
+2019-01-05 10:26:20 error: Test: Error message
+2019-01-05 10:26:20 verbose: Starting service in environment : local
+2019-01-05 10:26:20 verbose: ---------------------------------------------------------------------
+2019-01-05 10:26:20 verbose: Application Name:     P-Mex Core Server
+2019-01-05 10:26:20 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2019-01-05 10:26:20 verbose: Database Name:        Model Store
+2019-01-05 10:26:20 verbose: Node Port:            6195
+2019-01-05 10:26:20 verbose: ---------------------------------------------------------------------
+2019-01-05 10:26:20 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2019-01-05 10:26:20 info: P-Mex CORE Server initiated
+2019-01-05 10:26:21 info: P-Mex CORE Server defining routes for home micro-services
+2019-01-05 10:26:21 info: P-Mex CORE Server defining routes for models micro-services
+2019-01-05 10:26:21 info: P-Mex CORE Server defining routes for model execution micro-services
+2019-01-05 10:26:21 info: Express server listening on - http://localhost:6195
+2019-01-05 10:34:02 info: Retrieve models.  GET:/api/models responding to client
+2019-01-05 10:34:05 info: Retrieve models.  GET:/api/models responding to client
+2019-01-05 10:34:14 info: Retrieve selected model.  GET:/api/models/:id responding to client
+2019-01-05 14:37:17 info: Winston logging tool initialised
+2019-01-05 14:37:17 debug: Test: Debug message
+2019-01-05 14:37:17 verbose: Test: Verbose message
+2019-01-05 14:37:17 warn: Test: Warning message
+2019-01-05 14:37:17 error: Test: Error message
+2019-01-05 14:37:17 verbose: Starting service in environment : local
+2019-01-05 14:37:17 verbose: ---------------------------------------------------------------------
+2019-01-05 14:37:17 verbose: Application Name:     P-Mex Core Server
+2019-01-05 14:37:17 verbose: Description:          P-Mex Core Server (LOCAL Environment)
+2019-01-05 14:37:17 verbose: Database Name:        Model Store
+2019-01-05 14:37:17 verbose: Node Port:            6195
+2019-01-05 14:37:17 verbose: ---------------------------------------------------------------------
+2019-01-05 14:37:17 debug: env: {"env":"local","hostname":"localhost","port":6195}
+2019-01-05 14:37:17 info: P-Mex CORE Server initiated
+2019-01-05 14:37:17 info: P-Mex CORE Server defining routes for home micro-services
+2019-01-05 14:37:17 info: P-Mex CORE Server defining routes for models micro-services
+2019-01-05 14:37:17 info: P-Mex CORE Server defining routes for model execution micro-services
+2019-01-05 14:37:17 info: Express server listening on - http://localhost:6195
